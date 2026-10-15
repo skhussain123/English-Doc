@@ -2305,11 +2305,11 @@ ______________________________________________________
 4. کیا وہ دو دن سے بیمار ہے؟(has he been ill for two hours)
 5. کیا ہم ایک ہفتے سے اس منصوبے پر کام کر رہے ہیں؟(have we been working on this project for one week)
 6. کیا بچے صبح سے شور مچا رہے ہیں؟(have the clidren been making noice since morning)
-7. کیا علی ایک گھنٹے سے ٹی وی دیکھ رہا ہے؟
-8. کیا احمد صبح سے گاڑی چلا رہا ہے؟
-9. کیا تم دو دن سے میرا انتظار کر رہے ہو؟
-10. کیا وہ ایک سال سے یہاں رہ رہا ہے؟
-11. کیا میں ایک گھنٹے سے انگریزی سیکھ رہا ہوں؟
+7. کیا علی ایک گھنٹے سے ٹی وی دیکھ رہا ہے؟(has ali been watching tv for one hour)
+8. کیا احمد صبح سے گاڑی چلا رہا ہے؟(has ahmed been driving car since morning)
+9. کیا تم دو دن سے میرا انتظار کر رہے ہو؟(have you been waiting for me for two days)
+10. کیا وہ ایک سال سے یہاں رہ رہا ہے؟(have he been living here for a years)
+11. کیا میں ایک گھنٹے سے انگریزی سیکھ رہا ہوں؟(have i been learning english for a hours)
 12. کیا تم صبح سے کھانا پکا رہے ہو؟
 13. کیا وہ دو گھنٹے سے سو رہی ہے؟
 14. کیا ہم صبح سے کرکٹ کھیل رہے ہیں؟
