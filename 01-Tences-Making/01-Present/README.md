@@ -2066,8 +2066,8 @@ ______________________________________________________
 12. ہم کئی ہفتوں سے اس پر کام کر رہے ہیں۔(We have been working on it for several weeks)
 13. وہ بہت دنوں سے بیمار ہے۔(he has been ill for many days)
 14. میں صبح سے موسیقی سن رہا ہوں۔(I have been listening to music since morning.)
-15. وہ لڑکی دو گھنٹوں سے رقص کر رہی ہے۔
-16. ہم کافی وقت سے فلم دیکھ رہے ہیں۔
+15. وہ لڑکی دو گھنٹوں سے رقص کر رہی ہے۔(The girl has been dancing for two hours.)
+16. ہم کافی وقت سے فلم دیکھ رہے ہیں۔(we have been watching a movie for a long time)
 17. تم کیا کچھ دیر سے سوچ رہے ہو؟
 18. علی بہت دنوں سے نئی گاڑی چلا رہا ہے۔
 19. وہ لوگ کافی عرصے سے بات کر رہے ہیں۔
