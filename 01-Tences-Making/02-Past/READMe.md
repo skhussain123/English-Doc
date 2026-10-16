@@ -2,9 +2,19 @@
 
 
 ## Past Simple Tense 
+
+#### Present Simple + Present Continuous + Present Perfect + Present Perfect Continuous
+
 #### [Subject + Verb (past form) + Object]
 
 ____________________________________________________
+
+| Sentence Type   | Structure                    | Verb      |
+|-----------------|------------------------------|-----------|
+| Positive        | Subject + V2                 | 2nd form  |
+| Negative        | Subject + did not + V1       | 1st form  |
+| Question        | Did + Subject + V1?          | 1st form  |
+| WH Question     | WH + did + Subject + V1?     | 1st form  |
 
 ### Practice Tense
 
