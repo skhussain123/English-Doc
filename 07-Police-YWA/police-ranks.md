@@ -24,6 +24,8 @@ Javed Alam Odho (jinhe Javed Akhtar Odho / Allah Bux alias Javed Akhtar Odho bhi
 
 #### PC → HC → ASI → SI → Inspector → ASP/DSP → SP → SSP → DIG → Addl. IG → IGP
 
+<hr>
+
 #### 1. Police Constable (PC) – BPS-07
 
 Responsibilities: Chowk, road, police station, ya patrol par duty. Crime report lena, basic investigation assist karna, public se deal karna, traffic control, escort etc.
