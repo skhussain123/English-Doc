@@ -19,3 +19,5 @@
 | 12  | Inspector General of Police         | IGP            | 22  | Javed Alam Odho                |
 ```
 
+Javed Alam Odho (jinhe Javed Akhtar Odho / Allah Bux alias Javed Akhtar Odho bhi kaha jata hai) abhi Sindh Police ke current Inspector General of Police (IGP) hain. Unhone January 2026 ke shuru mein charge sambhala tha (pehle acting IGP ke tor par Ghulam Nabi Memon ke retirement ke baad, phir unki appointment confirm ho gayi). October 2026 ke middle tak woh ab bhi is position par active hain.
+
