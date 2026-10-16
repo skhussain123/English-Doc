@@ -1,7 +1,7 @@
 
 
 
-### Sindh Police Ranks
+## Sindh Police Ranks
 ```markdown
 | No. | Rank ka naam                        | Short form     | BPS | Current officer / posting      |
 |-----|-------------------------------------|----------------|-----|--------------------------------|
@@ -85,3 +85,9 @@ Kis ke under kaam karta hai: Inspector General of Police (IGP) ke under.
 
 Responsibilities: Poori Sindh Police ka top boss. Policy banata hai, overall command, government se coordination, major decisions.
 Kis ke under kaam karta hai: Sindh Government (Chief Minister / Home Department) ke under. Abhi Javed Alam Odho hain
+
+
+<hr>
+<br>
+
+## Sindh Prison & Corrections Service Police Department (SPCS)
