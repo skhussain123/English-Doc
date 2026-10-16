@@ -2431,10 +2431,9 @@ ______________________________________________________
 11. وہ کب تک کھیل رہے ہیں؟(how long have they been playing)
 12. آپ نے کس لیے انتظار کیا ہے؟(what have you been waiting for)
 13. ہم کہاں جا رہے ہیں؟(where have we been going)
-14. وہ کیوں چپ ہے؟
-15. تم نے کیا سیکھا ہے؟
-16. وہ کتنے وقت سے گا رہے ہیں؟
-17. آپ کیا دیکھ رہے ہو؟
+15. تم نے کیا سیکھا ہے؟(What have you learned?)
+16. وہ کتنے وقت سے گا رہے ہیں؟(How long have they been singing?)
+17.تم صبح سے کیا دیکھ رہے ہو؟(what have you been watchting since morning)
 18. تم نے کس سے بات کی ہے؟
 19. وہ کہاں جا رہی ہے؟
 20. ہم کیوں دیر کر رہے ہیں؟
