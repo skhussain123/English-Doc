@@ -121,3 +121,87 @@ When you think of police what does it mean to you? The responsibility of a polic
 ## 10. پولیس کی ذمہ داریاں
 
 جب آپ پولیس کے بارے میں سوچتے ہیں تو آپ کے لیے اس کا کیا مطلب ہے؟ ایک پولیس افسر کی ذمہ داری عوام کی حفاظت کرنا اور معاشرے کی خدمت کرنا ہے۔ وہ جرائم کا پتہ لگاتے ہیں اور انہیں روکتے ہیں۔ پولیس افسران قانون کو برقرار رکھنے کی کوشش کرتے ہیں۔ نئے پولیس افسران جنرل ڈیوٹی کے طور پر گشت ڈویژن میں کام کرتے ہیں، جو تجربات اور تفویضات کی ایک حد فراہم کرتا ہے۔ پولیس کی عمومی ڈیوٹی میں تفویض کردہ علاقوں میں گشت کرنا شامل ہے تاکہ قوانین نافذ کیے جائیں، عوامی حفاظت کی جائے، اور مجرموں کو گاڑی، پیدل، سائیکل یا بعض صورتوں میں گھوڑے کے ذریعے گرفتار کیا جائے۔ پولیس افسران یہ کام بھی کر سکتے ہیں: وہ حادثات اور جرائم کے مناظر کی تحقیقات کرتے ہیں؛ ثبوت محفوظ کرتے ہیں اور گواہوں کا انٹرویو لیتے ہیں؛ نوٹس اور رپورٹیں جمع کرتے ہیں؛ اور آفت، جرم اور حادثات کے متاثرین کو ہنگامی مدد فراہم کرتے ہیں۔
+
+## <hr>
+
+## 11. Quaid-e-Azam Muhammad Ali Jinnah
+
+Quaid-e-Azam Muhammad Ali Jinnah was the founder of our country. Quaid-e-Azam Muhammad Ali Jinnah was born in Karachi on 25th December 1876. Quaid-e-Azam Muhammad Ali Jinnah got early education in Sindh Madrasa Karachi. Quaid-e-Azam Muhammad Ali Jinnah went to England for higher education. On his return he started his practice as a lawyer first in Karachi and then in Bombay. He loved his country and his country’s people dearly. He worked day and night for the betterment of Pakistan. He succeeded in his struggle and got Pakistan, a separate homeland for the Muslims of India in 1947. Quaid-e-Azam Muhammad Ali Jinnah became the first Governor General of Pakistan. Quaid-e-Azam Muhammad Ali Jinnah died on 11th September 1948. His tomb is in Karachi.
+
+## 11. قائداعظم محمد علی جناح
+
+قائداعظم محمد علی جناح ہمارے ملک کے بانی تھے۔ قائداعظم محمد علی جناح 25 دسمبر 1876 کو کراچی میں پیدا ہوئے۔ قائداعظم محمد علی جناح نے ابتدائی تعلیم سندھ مدرسہ کراچی سے حاصل کی۔ قائداعظم محمد علی جناح اعلیٰ تعلیم کے لیے انگلینڈ گئے۔ واپسی پر انہوں نے پہلے کراچی اور پھر بمبئی میں وکالت کا پیشہ اختیار کیا۔ وہ اپنے ملک اور اپنے ملک کے لوگوں سے بہت محبت کرتے تھے۔ انہوں نے پاکستان کی بہتری کے لیے دن رات محنت کی۔ وہ اپنی جدوجہد میں کامیاب ہوئے اور 1947 میں ہندوستان کے مسلمانوں کے لیے ایک الگ وطن پاکستان حاصل کیا۔ قائداعظم محمد علی جناح پاکستان کے پہلے گورنر جنرل بنے۔ قائداعظم محمد علی جناح 11 ستمبر 1948 کو وفات پا گئے۔ ان کا مزار کراچی میں ہے۔
+
+## <hr>
+
+## 12. CRICKET
+
+Cricket is the mainstay of our life. The favorite sport of most people is Cricket. Cricket also entertains us and makes our health good too. It was considered a "Royal Game" when the game was first introduced. Cricket is played between two groups of players. Both teams have 11 players each. This game is played with the help of bat, ball and wicket (stumps) in the open field. In today's life, cricket has many different types of categories, like One Day, T20, Test Matches, International championships, etc. The team to score most runs in the game will be victorious. Currently, cricket is the most popular sport in countries like Pakistan, India, England, and West Indies.
+
+
+## 12. کرکٹ
+
+کرکٹ ہماری زندگی کا بنیادی کھیل ہے۔ زیادہ تر لوگوں کا پسندیدہ کھیل کرکٹ ہے۔ کرکٹ ہمیں تفریح بھی دیتی ہے اور ہماری صحت کو بھی اچھا بناتی ہے۔ جب یہ کھیل پہلی بار متعارف کرایا گیا تو اسے "رائل گیم" سمجھا جاتا تھا۔ کرکٹ دو ٹیموں کے درمیان کھیلا جاتا ہے۔ دونوں ٹیموں میں 11-11 کھلاڑی ہوتے ہیں۔ یہ کھیل کھلے میدان میں بیٹ، گیند اور وکٹ (اسٹمپ) کی مدد سے کھیلا جاتا ہے۔ آج کی زندگی میں کرکٹ کی کئی اقسام ہیں جیسے ون ڈے، ٹی 20، ٹیسٹ میچز، انٹرنیشنل چیمپئن شپس وغیرہ۔ اس کھیل میں سب سے زیادہ رنز بنانے والی ٹیم فاتح ہوتی ہے۔ اس وقت کرکٹ پاکستان، انڈیا، انگلینڈ اور ویسٹ انڈیز جیسے ممالک میں سب سے زیادہ مقبول کھیل ہے۔
+
+## <hr>
+
+## 13. HEALTH IS WEALTH
+
+Health is wealth. A fit body is one that is disease-free and active. There are several ways by which one can acquire fitness, among them running, swimming, exercising, doing yoga, maintaining a disciplined life, cleanliness, a healthy diet, etc. play a significant role. Health is such a luxury that not everyone is granted easily. Being unhealthy will automatically drain your money for paying the doctors, buying medicines, paying for hospital bills, etc. Therefore if you have good health, then you can earn your riches. Two kinds of people exist on earth, one who are very conscious about their health and work hard to keep it fit, and the others are the basic couch potatoes who are lazier than a sloth.
+
+## 13. # صحت دولت ہے
+
+صحت دولت ہے۔ ایک فٹ جسم وہ ہے جو بیماری سے پاک اور فعال ہو۔ فٹنس حاصل کرنے کے کئی طریقے ہیں جن میں دوڑنا، تیرنا، ورزش کرنا، یوگا کرنا، باقاعدہ زندگی گزارنا، صفائی ستھرائی اور صحت مند غذا وغیرہ اہم کردار ادا کرتے ہیں۔ صحت ایسی عیش و عشرت ہے جو ہر کسی کو آسانی سے نہیں ملتی۔ غیر صحت مند ہونے سے ڈاکٹروں کی ادائیگی، ادویات خریدنے، ہسپتال کے بلوں کی ادائیگی وغیرہ کے لیے آپ کے پیسے خود بخود ختم ہو جاتے ہیں۔ اس لیے اگر آپ کی صحت اچھی ہے تو آپ اپنی دولت کما سکتے ہیں۔ زمین پر دو طرح کے لوگ پائے جاتے ہیں، جو اپنی صحت کے بارے میں بہت زیادہ ہوشیار ہوتے ہیں اور اسے فٹ رکھنے کے لیے سخت محنت کرتے ہیں، اور دوسرے وہ بنیادی صوفے کے آلو ہیں جو کاہلی سے زیادہ سست ہوتے ہیں۔
+
+## <hr>
+
+## 14. My Country
+
+The name of my country is Pakistan. It is situated in the Asian Subcontinent. My country is very beautiful. It has beautiful lakes, mountains, valleys, and rivers. It has four provinces namely Punjab, Sindh, Baluchistan, and KPK. Punjab is the biggest province according to population. The capital of Pakistan is Islamabad which is a beautiful city. The national language of Pakistan is Urdu and it is spoken all over the country. Pakistan is the only Muslim country which has attained atomic power. I love my country which is full of natural beauty. The people of Pakistan are very brave and cooperative. The forces of Pakistan are known for their bravery and valor throughout the world.
+
+## 14. # میرا ملک
+
+میرے ملک کا نام پاکستان ہے۔ یہ ایشیائی برصغیر میں واقع ہے۔ میرا ملک بہت خوبصورت ہے۔ اس میں خوبصورت جھیلیں، پہاڑ، وادیاں اور دریا ہیں۔ اس کے چار صوبے ہیں یعنی پنجاب، سندھ، بلوچستان اور کے پی کے۔ پنجاب آبادی کے لحاظ سے سب سے بڑا صوبہ ہے۔ پاکستان کا دارالحکومت اسلام آباد ہے جو ایک خوبصورت شہر ہے۔ پاکستان کی قومی زبان اردو ہے اور یہ پورے ملک میں بولی جاتی ہے۔ پاکستان واحد مسلم ملک ہے جس نے ایٹمی طاقت حاصل کی ہے۔ میں اپنے ملک سے محبت کرتا ہوں جو قدرتی حسن سے بھرا ہوا ہے۔ پاکستان کے لوگ بہت بہادر اور تعاون کرنے والے ہیں۔ پاکستان کی افواج دنیا بھر میں اپنی بہادری اور جرأت کے لیے مشہور ہیں۔
+
+## <hr>
+
+## 15. # SHAH ABDUL LATIF BHITAI
+
+Shah Abdul Latif Bhitai, the great saint, is lovingly called Lal Latif by his devotees. He was born in 1102 Hijri in a small village called 'Hala Haveli'. According to some historians, his ancestors migrated to Sindh from Hirat (Afghanistan). His father’s name was Syed Habib Shah. His wife died at an early age. He was very sensitive. His heart soon filled with love of God. The beauty of nature aroused strongly his feelings. His heart turned more and more towards religion and devotion. He spent the last part of his life on a Bhit. In Sindhi language, 'Bhit' means mound of sand; that is why he is called Shah Latif Bhitai. Shah Latif was not only a saint and mystic but also a poet and musician. His poetry is simple and moving. The collection of his poetry is called 'Shah Jo Risalo' which has been translated into many languages. The message of Shah Latif is love. Shah Latif died on the 'Bhit' and was buried there. A shrine was built over his grave by Ghulam Shah Kalhoro, where his Urs is held on 14th Safar every year. People love him and sing his poems.
+
+
+## 15. # شاہ عبداللطیف بھٹائی
+
+شاہ عبداللطیف بھٹائی ایک عظیم ولی تھے جنہیں ان کے مریدین پیار سے لعل لطیف کہتے ہیں۔ وہ 1102 ہجری میں 'ہالا حویلی' نامی ایک چھوٹے سے گاؤں میں پیدا ہوئے۔ کچھ مؤرخین کے مطابق ان کے آباؤ اجداد ہرات (افغانستان) سے سندھ آئے تھے۔ ان کے والد کا نام سید حبیب شاہ تھا۔ ان کی بیوی کم عمری میں وفات پا گئی۔ وہ بہت حساس تھے۔ ان کا دل جلد ہی اللہ کی محبت سے بھر گیا۔ قدرت کے حسن نے ان کے جذبات کو گہرائی سے جگا دیا۔ ان کا دل مذہب اور عبادت کی طرف زیادہ مائل ہوتا گیا۔ انہوں نے اپنی زندگی کا آخری حصہ ایک بھٹ پر گزارا۔ سندھی زبان میں 'بھٹ' کا مطلب ریت کا ٹیلا ہے، اسی لیے انہیں شاہ لطیف بھٹائی کہا جاتا ہے۔ شاہ لطیف نہ صرف ولی اور صوفی تھے بلکہ شاعر اور موسیقار بھی تھے۔ ان کی شاعری سادہ اور دل کو چھو لینے والی ہے۔ ان کی شاعری کا مجموعہ 'شاہ جو رسالو' کہلاتا ہے جس کا ترجمہ بہت سی زبانوں میں ہو چکا ہے۔ شاہ لطیف کا پیغام محبت ہے۔ شاہ لطیف بھٹ پر ہی وفات پا گئے اور وہیں دفن ہوئے۔ غلام شاہ کلہوڑو نے ان کی قبر پر مزار تعمیر کروایا جہاں ہر سال 14 صفر کو ان کا عرس منایا جاتا ہے۔ لوگ ان سے محبت کرتے ہیں اور ان کی شاعری گاتے ہیں۔
+
+## <hr>
+
+## 16. Allama Iqbal
+
+Allama Muhammad Iqbal was a great poet, philosopher and the national poet of Pakistan. He was born on 9th November 1877 in Sialkot. Iqbal received his early education in Sialkot and later went to Europe for higher studies. He is famous for his poetry in Urdu and Persian. Through his poetry, he awakened the Muslims of the subcontinent and gave the idea of a separate Muslim state. His famous books include Bang-e-Dra, Bal-e-Jibril and Zarb-e-Kalim. He is also known as Mufakkir-e-Pakistan (The Thinker of Pakistan). Allama Iqbal died on 21st April 1938 in Lahore. His poetry still inspires millions of people.
+
+
+## 16. علامہ اقبال
+
+علامہ محمد اقبال ایک عظیم شاعر، فلسفی اور پاکستان کے قومی شاعر تھے۔ وہ 9 نومبر 1877 کو سیالکوٹ میں پیدا ہوئے۔ اقبال نے ابتدائی تعلیم سیالکوٹ میں حاصل کی اور بعد میں اعلیٰ تعلیم کے لیے یورپ گئے۔ وہ اردو اور فارسی شاعری کے لیے مشہور ہیں۔ اپنی شاعری کے ذریعے انہوں نے برصغیر کے مسلمانوں کو جگایا اور الگ مسلم ریاست کا خیال پیش کیا۔ ان کی مشہور کتابوں میں بانگِ درا، بالِ جبریل اور ضربِ کلیم شامل ہیں۔ انہیں مفکرِ پاکستان بھی کہا جاتا ہے۔ علامہ اقبال 21 اپریل 1938 کو لاہور میں وفات پا گئے۔ ان کی شاعری آج بھی لاکھوں لوگوں کو متاثر کرتی ہے۔
+
+
+## <hr>
+
+## 17. Corruption
+
+Corruption is a big problem in our society. It means taking bribes or using power in the wrong way for personal benefit. Corruption is found in many places like government offices, police stations, hospitals and schools. Because of corruption, poor people suffer a lot and the rich become richer. It stops the progress of the country. Honest people lose trust in the system. To stop corruption, we must follow rules, become honest and raise our voice against it. If everyone becomes honest, our country will progress fast. Corruption is like a disease that must be removed for a better future.
+
+## 17. کرپشن
+
+کرپشن ہماری معاشرے کا ایک بڑا مسئلہ ہے۔ اس کا مطلب ہے رشوت لینا یا اپنے فائدے کے لیے طاقت کا غلط استعمال کرنا۔ کرپشن بہت سی جگہوں پر پائی جاتی ہے جیسے سرکاری دفاتر، تھانے، اسپتال اور اسکول۔ کرپشن کی وجہ سے غریب لوگ بہت تکلیف اٹھاتے ہیں اور امیر مزید امیر ہوتے جاتے ہیں۔ یہ ملک کی ترقی روک دیتا ہے۔ ایماندار لوگوں کا نظام پر اعتماد ختم ہو جاتا ہے۔ کرپشن روکنے کے لیے ہمیں قوانین پر عمل کرنا چاہیے، ایماندار بننا چاہیے اور اس کے خلاف آواز اٹھانی چاہیے۔ اگر ہر شخص ایماندار بن جائے تو ہمارا ملک تیزی سے ترقی کرے گا۔ کرپشن ایک بیماری کی طرح ہے جسے بہتر مستقبل کے لیے ختم کرنا ضروری ہے۔
+
+## <hr>
+
+## 18. Punctuality (Waqt ki Pabandi)
+
+Punctuality means doing work on time and reaching places at the right time. It is a very good habit. A punctual person is always successful in life. Students who come to school on time learn more. Employees who reach office on time are respected by their bosses. If we waste time, we cannot get it back. Time is more valuable than money. Great people in history were always punctual. We should make a timetable and follow it. Being punctual shows that we respect others and ourselves. It helps us to achieve our goals easily. Everyone should learn the habit of punctuality from childhood.
+
+## 18. وقت کی پابندی
+
+وقت کی پابندی کا مطلب ہے کام وقت پر کرنا اور جگہوں پر صحیح وقت پر پہنچنا۔ یہ ایک بہت اچھی عادت ہے۔ وقت کا پابند شخص زندگی میں ہمیشہ کامیاب ہوتا ہے۔ جو طلباء اسکول وقت پر آتے ہیں وہ زیادہ سیکھتے ہیں۔ جو ملازم دفتر وقت پر پہنچتے ہیں ان کے باس ان کا احترام کرتے ہیں۔ اگر ہم وقت ضائع کریں تو وہ واپس نہیں آتا۔ وقت پیسے سے زیادہ قیمتی ہے۔ تاریخ کے عظیم لوگ ہمیشہ وقت کے پابند تھے۔ ہمیں ٹائم ٹیبل بنانا چاہیے اور اس پر عمل کرنا چاہیے۔ وقت کی پابندی اس بات کو ظاہر کرتی ہے کہ ہم دوسروں اور خود کا احترام کرتے ہیں۔ یہ ہمیں اپنے مقاصد آسانی سے حاصل کرنے میں مدد دیتی ہے۔ ہر شخص کو بچپن سے ہی وقت کی پابندی کی عادت ڈالنی چاہیے۔
