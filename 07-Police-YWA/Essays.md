@@ -24,3 +24,34 @@ The purpose of the police force is, at any time, the police play a very importan
 
 ## <hr>
 
+## The Pakistan Super League (PSL)
+
+The Pakistan Super League (PSL) is a professional T20 cricket league in Pakistan. It is organized by the Pakistan Cricket Board (PCB). The league started in 2016 with five teams. In 2018, Multan Sultans joined the league, making six teams. In 2026, two new teams, Hyderabad Kingsmen and Rawalpindiz, joined the PSL. Now, there are eight teams.
+
+The eight teams are:
+1. Hyderabad Kingsmen
+2. Islamabad United
+3. Karachi Kings
+4. Lahore Qalandars
+5. Multan Sultans
+6. Peshawar Zalmi
+7. Quetta Gladiators
+8. Rawalpindiz
+
+The PSL is played every year. Teams compete to win the trophy. The current defending champions are Peshawar Zalmi, who won the 2026 season by defeating Hyderabad Kingsmen in the final.
+
+
+## The Pakistan Super League (PSL)
+پاکستان سپر لیگ (پی ایس ایل) پاکستان کی ایک پیشہ ور ٹوئنٹی 20 کرکٹ لیگ ہے۔ اسے پاکستان کرکٹ بورڈ (پی سی بی) منظم کرتا ہے۔ لیگ کا آغاز 2016 میں پانچ ٹیموں کے ساتھ ہوا تھا۔ 2018 میں ملتان سلطانز لیگ میں شامل ہوئے جس سے ٹیمیں چھ ہو گئیں۔ 2026 میں دو نئی ٹیمیں حیدرآباد کنگزمین اور راولپنڈیز پی ایس ایل میں شامل ہوئیں۔ اب کل آٹھ ٹیمیں ہیں۔
+
+آٹھ ٹیمیں یہ ہیں:
+1. حیدرآباد کنگزمین
+2. اسلام آباد یونائیٹڈ
+3. کراچی کنگز
+4. لاہور قلندرز
+5. ملتان سلطانز
+6. پشاور زلمی
+7. کوئٹہ گلیڈی ایٹرز
+8. راولپنڈیز
+
+پی ایس ایل ہر سال کھیلی جاتی ہے۔ ٹیمیں ٹرافی جیتنے کے لیے مقابلہ کرتی ہیں۔ موجودہ چیمپئن پشاور زلمی ہیں جنہوں نے 2026 کا سیزن فائنل میں حیدرآباد کنگزمین کو شکست دے کر جیتا۔
