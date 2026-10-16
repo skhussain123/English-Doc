@@ -3,7 +3,7 @@
 
 ## Past Simple Tense 
 
-#### Present Simple + Present Continuous + Present Perfect + Present Perfect Continuous
+#### Past Simple + Past Continuous + Past Perfect + Past Perfect Continuous
 
 #### [Subject + Verb (past form) + Object]
 
@@ -18,19 +18,17 @@ ____________________________________________________
 
 ### Practice Tense
 
-1. میں نے کل کتاب پڑھی۔
-2. وہ بازار گیا۔
-3. ہم نے کھانا کھایا۔
-4. تم نے اپنی گاڑی چلائی۔
-5. علی نے سکول میں امتحان دیا۔
-6. وہ لڑکی بہت خوش تھی۔
-7. ہم نے فلم دیکھی۔
-8. تم نے کام مکمل کیا۔
-9. وہ بہت دیر تک سویا۔
-10. میں نے خط لکھا۔
-11. تم نے میرے دوست سے بات کی۔
-12. وہ بچہ پارک میں کھیل رہا تھا۔
-13. ہم نے نیا گھر خریدا۔
+1. میں نے کل کتاب پڑھی۔(I read a book yesterday)
+2. وہ بازار گیا۔(he went to the market)
+3. ہم نے کھانا کھایا۔(we ate food)
+4. تم نے اپنی گاڑی چلائی۔(you drove your car)
+5. علی نے سکول میں امتحان دیا۔(ali took an at school)
+7. ہم نے فلم دیکھی۔(we watched a movie)
+8. تم نے کام مکمل کیا۔(you Completed the work)
+9. وہ بہت دیر تک سویا۔(he slept for long time)
+10. میں نے خط لکھا۔(i wrote a letter)
+11. تم نے میرے دوست سے بات کی۔(you talked to my friend)
+13. ہم نے نیا گھر خریدا۔(we bought a new house)
 14. تم نے گھر صاف کیا۔
 15. وہ نے گاڑی ٹھیک کی۔
 16. میں نے چائے پی۔
