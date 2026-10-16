@@ -99,18 +99,18 @@ Kis ke under kaam karta hai: Sindh Government (Chief Minister / Home Department)
 
 #### 2. Senior Prison Constable (Sr. PC) – BPS-05
 
-Responsibilities: Normal Constable se thoda senior. Team lead karta hai, duty assign karta hai, chhoti supervision.
-Kis ke under kaam karta hai: Head Constable (HC) ke under.
+* Responsibilities: Normal Constable se thoda senior. Team lead karta hai, duty assign karta hai, chhoti supervision.
+* Kis ke under kaam karta hai: Head Constable (HC) ke under.
 
 #### 3. Head Constable Prison (HC) – BPS-07
 
-Responsibilities: Constables ko control karta hai, shift duty manage karta hai, barracks ki daily checking, discipline maintain.
-Kis ke under kaam karta hai: Assistant Sub-Inspector (ASI) ke under.
+* Responsibilities: Constables ko control karta hai, shift duty manage karta hai, barracks ki daily checking, discipline maintain.
+* Kis ke under kaam karta hai: Assistant Sub-Inspector (ASI) ke under.
 
 #### 4. Assistant Sub-Inspector Prison (ASI) – BPS-09
 
-Responsibilities: Section/ward ka in-charge, prisoners ki counting, security rounds, staff supervision, chhoti inquiries.
-Kis ke under kaam karta hai: Sub-Inspector (SI) ke under.
+* Responsibilities: Section/ward ka in-charge, prisoners ki counting, security rounds, staff supervision, chhoti inquiries.
+* Kis ke under kaam karta hai: Sub-Inspector (SI) ke under.
 
 #### 5. Sub-Inspector (SI) – BPS-14
 
@@ -119,34 +119,34 @@ Kis ke under kaam karta hai: Assistant Superintendent ke under.
 
 #### 6. Assistant Superintendent – BPS-16
 
-Responsibilities: Jail ke daily administration mein help, security, discipline, prisoners ke records, staff supervision. Aksar jail ke different wings ka charge.
-Kis ke under kaam karta hai: Deputy Superintendent ke under.
+* Responsibilities: Jail ke daily administration mein help, security, discipline, prisoners ke records, staff supervision. Aksar jail ke different wings ka charge.
+* Kis ke under kaam karta hai: Deputy Superintendent ke under.
 
 #### 7. Deputy Superintendent – BPS-17
 
-Responsibilities: Jail ke overall operations mein Superintendent ki help, security, discipline, prisoners welfare, staff control. Chhoti jails mein Officer In-charge bhi ho sakta hai.
-Kis ke under kaam karta hai: Superintendent Prison ke under.
+* Responsibilities: Jail ke overall operations mein Superintendent ki help, security, discipline, prisoners welfare, staff control. Chhoti jails mein Officer In-charge bhi ho sakta hai.
+* Kis ke under kaam karta hai: Superintendent Prison ke under.
 
 #### 8. Superintendent Prison (Supdt.) – BPS-18
 
-Responsibilities: Ek jail (District ya Central Jail) ka Officer In-charge. Poori jail ki security, administration, prisoners ki hifazat, discipline, welfare aur daily management ki zimmedari.
-Kis ke under kaam karta hai: Senior Superintendent ya DIG ke under.
+* Responsibilities: Ek jail (District ya Central Jail) ka Officer In-charge. Poori jail ki security, administration, prisoners ki hifazat, discipline, welfare aur daily management ki zimmedari.
+* Kis ke under kaam karta hai: Senior Superintendent ya DIG ke under.
 
 #### 9. Senior Superintendent Prison (Senior Supdt.) – BPS-19
 
-Responsibilities: Badi Central Jails ya multiple jails ka charge. Higher level administration, inspection, policy implementation.
-Kis ke under kaam karta hai: Deputy Inspector General (DIG) ke under.
+* Responsibilities: Badi Central Jails ya multiple jails ka charge. Higher level administration, inspection, policy implementation.
+* Kis ke under kaam karta hai: Deputy Inspector General (DIG) ke under.
 
 #### 10. Deputy Inspector General of Prisons (DIG) – BPS-20
 
-Responsibilities: Region/Zone ka head (jaise Karachi, Hyderabad, Sukkur Region). Multiple jails supervise karta hai, inspections, policy follow-up, major issues handle.
-Kis ke under kaam karta hai: Inspector General of Prisons (IG) ke under.
+* Responsibilities: Region/Zone ka head (jaise Karachi, Hyderabad, Sukkur Region). Multiple jails supervise karta hai, inspections, policy follow-up, major issues handle.
+* Kis ke under kaam karta hai: Inspector General of Prisons (IG) ke under.
 
 #### 11. Inspector General of Prisons (IG) – BPS-21
 
-Responsibilities: Poori Sindh Prisons Department ka top boss. Policy banana, overall control, government se coordination, reforms, security standards, prisoners welfare.
-Kis ke under kaam karta hai: Sindh Government (Chief Minister / Home Department / Prisons Minister) ke under.
-Current IG: Fida Hussain Mastoi (October 2026 tak).
-
+* Responsibilities: Poori Sindh Prisons Department ka top boss. Policy banana, overall control, government se coordination, reforms, security standards, prisoners welfare.
+* Kis ke under kaam karta hai: Sindh Government (Chief Minister / Home Department / Prisons Minister) ke under.
+* Current IG: Fida Hussain Mastoi (October 2026 tak).
+* Fida Hussain Mastoi (appointed in June 2025
 
 
