@@ -88,3 +88,36 @@ My most favorite place is the seaside. Whenever I go there, I feel completely re
 ## 6. میری پسندیدہ جگہ
 
 میری سب سے پسندیدہ جگہ ساحلِ سمندر ہے۔ جب بھی میں وہاں جاتا ہوں تو مجھے مکمل سکون اور خوشی محسوس ہوتی ہے۔ لہروں کی آواز، ٹھنڈی ہوا اور کھلا آسمان مجھے میری تمام پریشانیوں کو بھلا دیتا ہے۔ مجھے ریت پر بیٹھ کر سورج ڈوبتے دیکھنا بہت پسند ہے۔ آسمان کے نارنجی اور گلابی رنگ جادوئی لگتے ہیں۔ کبھی کبھی میں ساحل پر چلتا ہوں اور چھوٹے سیپ جمع کرتا ہوں۔ مجھے ساحل کے قریب بھنا ہوا مکئی کھانا اور ٹھنڈے مشروبات پینا بھی بہت اچھا لگتا ہے۔ یہ جگہ مجھے سکون اور توانائی دونوں دیتی ہے۔ جب بھی میں تناؤ محسوس کرتا ہوں تو ساحلِ سمندر جانا چاہتا ہوں۔ میرے لیے یہ صرف ایک جگہ نہیں بلکہ مصروف زندگی سے میری پسندیدہ پناہ گاہ ہے۔
+
+
+## <hr>
+
+## 7. COMPUTER
+
+A computer is a very useful electronic machine. It helps us in many ways. We use computers in offices, schools, banks, hospitals and homes. Computers work very fast and do not make mistakes if we give them correct information. They can store a lot of data safely. A computer never gets tired and can work for long hours. Students use computers to study and do their homework. People use computers to send messages, watch videos and search for information on the internet. Today, life without a computer is very difficult. It is one of the most important inventions for human beings.
+
+
+## 7. کمپیوٹر
+
+کمپیوٹر ایک بہت مفید الیکٹرانک مشین ہے۔ یہ ہمیں بہت سے کاموں میں مدد دیتا ہے۔ ہم کمپیوٹر دفاتر، اسکولوں، بینکوں، اسپتالوں اور گھروں میں استعمال کرتے ہیں۔ کمپیوٹر بہت تیزی سے کام کرتا ہے اور اگر ہم اسے درست معلومات دیں تو یہ غلطی نہیں کرتا۔ یہ بہت زیادہ ڈیٹا محفوظ طریقے سے رکھ سکتا ہے۔ کمپیوٹر کبھی نہیں تھکتا اور لمبے وقت تک کام کر سکتا ہے۔ طلباء کمپیوٹر سے پڑھائی کرتے ہیں اور اپنا ہوم ورک مکمل کرتے ہیں۔ لوگ کمپیوٹر سے میسج بھیجتے ہیں، ویڈیوز دیکھتے ہیں اور انٹرنیٹ پر معلومات تلاش کرتے ہیں۔ آج کل کمپیوٹر کے بغیر زندگی بہت مشکل ہے۔ یہ انسانوں کی سب سے اہم ایجادات میں سے ایک ہے۔
+
+## <hr>
+
+## 8. Road Traffic Accident
+
+Traffic rules are set in place for the safety of drivers and pedestrians alike, thus it is imperative to follow them. People break traffic rules by jumping red lights, driving faster than the speed limit, not wearing their seat belts, not wearing a helmet, etc. It is imperative to ensure our utmost safety while we are on the road, for ourselves, fellow drivers, and pedestrians on the street. Most of the road accidents have been avoidable.
+
+
+## 9. روڈ ٹریفک ایکسیڈنٹ
+
+ٹریفک قوانین ڈرائیورز اور پیدل چلنے والوں کی حفاظت کے لیے بنائے گئے ہیں، اس لیے ان پر عمل کرنا بہت ضروری ہے۔ لوگ ریڈ لائٹ توڑ کر، رفتار کی حد سے زیادہ تیز گاڑی چلا کر، سیٹ بیلٹ نہ باندھ کر، ہیلمٹ نہ پہن کر اور دیگر طریقوں سے ٹریفک قوانین توڑتے ہیں۔ سڑک پر رہتے ہوئے اپنی، دوسرے ڈرائیورز اور پیدل چلنے والوں کی مکمل حفاظت یقینی بنانا بہت ضروری ہے۔ زیادہ تر سڑک حادثات سے بچا جا سکتا تھا۔
+
+## <hr>
+
+## 10. Responsibility of Police
+
+When you think of police what does it mean to you? The responsibility of a police officer is to protect the public and to serve the community. Also, they detect and prevent crime. Police officers strive to maintain the law. New police officers work with the general duty as patrol divisions that provides a range of experiences and assignments. The general duty of policing involves patrolling in assigned areas to enforce laws, protect public safety, and arrest criminal suspects either by car, foot, bicycle, or in some cases, horse. Police officers can also do some of the following: they investigate accidents and crime scenes; to secure evidence and interview any witnesses; they collect notes and reports; they can provide emergency assistance to victims of disaster, crime, and accidents.
+
+## 10. پولیس کی ذمہ داریاں
+
+جب آپ پولیس کے بارے میں سوچتے ہیں تو آپ کے لیے اس کا کیا مطلب ہے؟ ایک پولیس افسر کی ذمہ داری عوام کی حفاظت کرنا اور معاشرے کی خدمت کرنا ہے۔ وہ جرائم کا پتہ لگاتے ہیں اور انہیں روکتے ہیں۔ پولیس افسران قانون کو برقرار رکھنے کی کوشش کرتے ہیں۔ نئے پولیس افسران جنرل ڈیوٹی کے طور پر گشت ڈویژن میں کام کرتے ہیں، جو تجربات اور تفویضات کی ایک حد فراہم کرتا ہے۔ پولیس کی عمومی ڈیوٹی میں تفویض کردہ علاقوں میں گشت کرنا شامل ہے تاکہ قوانین نافذ کیے جائیں، عوامی حفاظت کی جائے، اور مجرموں کو گاڑی، پیدل، سائیکل یا بعض صورتوں میں گھوڑے کے ذریعے گرفتار کیا جائے۔ پولیس افسران یہ کام بھی کر سکتے ہیں: وہ حادثات اور جرائم کے مناظر کی تحقیقات کرتے ہیں؛ ثبوت محفوظ کرتے ہیں اور گواہوں کا انٹرویو لیتے ہیں؛ نوٹس اور رپورٹیں جمع کرتے ہیں؛ اور آفت، جرم اور حادثات کے متاثرین کو ہنگامی مدد فراہم کرتے ہیں۔
