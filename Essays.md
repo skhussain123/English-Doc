@@ -1,6 +1,26 @@
+## Index
 
+1. [Punctuality](#punctuality)
+2. [My Best Friend](#my-best-friend)
+3. [Police](#police)
+4. [The Pakistan Super League (PSL)](#psl)
+5. [Education](#education)
+6. [Corona Virus](#corona-virus)
+7. [My Favorite Place](#my-favorite-place)
+8. [COMPUTER](#computer)
+9. [Road Traffic Accident](#road-traffic-accident)
+10. [Quaid-e-Azam Muhammad Ali Jinnah](#quaid-e-azam)
+11. [Responsibility of Police](#responsibility-of-police)
+12. [CRICKET](#cricket)
+13. [My Country](#my-country)
+14. [SHAH ABDUL LATIF BHITAI](#shah-abdul-latif-bhitai)
+15. [HEALTH IS WEALTH](#health-is-wealth)
+16. [Allama Iqbal](#allama-iqbal)
+17. [Corruption](#corruption)
+18. [Sachal Sarmast](#sachal-sarmast)
 
 #### <hr>
+<a id="my-best-friend"></a>
 ## 1. My Best Friend
 
 My best friend’s name is Ali. He is a kind, honest, and helpful person. We have a strong friendship based on trust and respect. We often spend time together, share our thoughts, and discuss our future goals. He always supports me in difficult situations and encourages me to work hard. We enjoy talking, walking, and playing games together. He respects others and always speaks the truth. I can share my problems with him without any fear. A true friend is a blessing in life. I feel lucky to have such a sincere friend. I hope our friendship lasts forever.
