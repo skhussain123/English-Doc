@@ -24,7 +24,7 @@
 22. [My School](#my-school)
 23. [Essay on Hazrat Muhammad Mustafa (SAW)](#hazrat-muhammad-saw)
 24. [National Game of Pakistan](#national-game-of-pakistan)
-24. [My Hobby](#my-hobby)
+25. [My Hobby](#my-hobby)
 
 
 #### <hr>
@@ -35,7 +35,7 @@
 
 Punctuality means doing work on time and reaching places at the right time. It is a very good habit. A punctual person is always successful in life. Students who come to school on time learn more. Employees who reach office on time are respected by their bosses. If we waste time, we cannot get it back. Time is more valuable than money. Great people in history were always punctual. We should make a timetable and follow it. Being punctual shows that we respect others and ourselves. It helps us to achieve our goals easily. Everyone should learn the habit of punctuality from childhood.
 
-## 11. وقت کی پابندی
+## 1. وقت کی پابندی
 
 وقت کی پابندی کا مطلب ہے کام وقت پر کرنا اور جگہوں پر صحیح وقت پر پہنچنا۔ یہ ایک بہت اچھی عادت ہے۔ وقت کا پابند شخص زندگی میں ہمیشہ کامیاب ہوتا ہے۔ جو طلباء اسکول وقت پر آتے ہیں وہ زیادہ سیکھتے ہیں۔ جو ملازم دفتر وقت پر پہنچتے ہیں ان کے باس ان کا احترام کرتے ہیں۔ اگر ہم وقت ضائع کریں تو وہ واپس نہیں آتا۔ وقت پیسے سے زیادہ قیمتی ہے۔ تاریخ کے عظیم لوگ ہمیشہ وقت کے پابند تھے۔ ہمیں ٹائم ٹیبل بنانا چاہیے اور اس پر عمل کرنا چاہیے۔ وقت کی پابندی اس بات کو ظاہر کرتی ہے کہ ہم دوسروں اور خود کا احترام کرتے ہیں۔ یہ ہمیں اپنے مقاصد آسانی سے حاصل کرنے میں مدد دیتی ہے۔ ہر شخص کو بچپن سے ہی وقت کی پابندی کی عادت ڈالنی چاہیے۔
 
@@ -158,12 +158,13 @@ A computer is a very useful electronic machine. It helps us in many ways. We use
 
 ## 9. Road Traffic Accident
 
-Traffic rules are set in place for the safety of drivers and pedestrians alike, thus it is imperative to follow them. People break traffic rules by jumping red lights, driving faster than the speed limit, not wearing their seat belts, not wearing a helmet, etc. It is imperative to ensure our utmost safety while we are on the road, for ourselves, fellow drivers, and pedestrians on the street. Most of the road accidents have been avoidable.
+Traffic rules are made for the safety of drivers and pedestrians alike, so it is important to follow them. Unfortunately, many people break these rules by jumping red lights, driving faster than the speed limit, and not wearing seat belts or helmets. Such carelessness puts lives in danger. We must ensure our utmost safety on the road, for ourselves, other drivers and pedestrians. Most road accidents are avoidable if people drive carefully and obey the rules. Every citizen should respect traffic laws and teach others to do the same. By following traffic rules, we can make our roads safe and save precious lives.
 
 
 ## 9. روڈ ٹریفک ایکسیڈنٹ
 
-ٹریفک قوانین ڈرائیورز اور پیدل چلنے والوں کی حفاظت کے لیے بنائے گئے ہیں، اس لیے ان پر عمل کرنا بہت ضروری ہے۔ لوگ ریڈ لائٹ توڑ کر، رفتار کی حد سے زیادہ تیز گاڑی چلا کر، سیٹ بیلٹ نہ باندھ کر، ہیلمٹ نہ پہن کر اور دیگر طریقوں سے ٹریفک قوانین توڑتے ہیں۔ سڑک پر رہتے ہوئے اپنی، دوسرے ڈرائیورز اور پیدل چلنے والوں کی مکمل حفاظت یقینی بنانا بہت ضروری ہے۔ زیادہ تر سڑک حادثات سے بچا جا سکتا تھا۔
+ٹریفک کے قوانین ڈرائیوروں اور پیدل چلنے والوں، دونوں کی حفاظت کے لیے بنائے گئے ہیں، اس لیے ان پر عمل کرنا ضروری ہے۔ افسوس کی بات ہے کہ بہت سے لوگ red light توڑ کر، رفتار کی حد سے تیز گاڑی چلا کر اور سیٹ بیلٹ یا ہیلمٹ نہ پہن کر ان قوانین کی خلاف ورزی کرتے ہیں۔ ایسی لاپروائی جانوں کو خطرے میں ڈال دیتی ہے۔ ہمیں سڑک پر اپنی، دوسرے ڈرائیوروں اور پیدل چلنے والوں کی حفاظت کو یقینی بنانا چاہیے۔ زیادہ تر سڑک حادثات سے بچا جا سکتا ہے اگر لوگ احتیاط سے گاڑی چلائیں اور قوانین کی پابندی کریں۔ ہر شہری کو ٹریفک قوانین کا احترام کرنا چاہیے اور دوسروں کو بھی اس کی تلقین کرنی چاہیے۔ ٹریفک قوانین پر عمل کر کے ہم اپنی سڑکوں کو محفوظ بنا سکتے ہیں اور قیمتی جانیں بچا سکتے ہیں۔
+
 
 ## <hr>
 <a id="responsibility-of-police"></a>
@@ -206,12 +207,11 @@ The name of my country is Pakistan. It is situated in the Asian Subcontinent. My
 
 ## 13. # SHAH ABDUL LATIF BHITAI
 
-Shah Abdul Latif Bhitai, the great saint, is lovingly called Lal Latif by his devotees. He was born in 1102 Hijri in a small village called 'Hala Haveli'. According to some historians, his ancestors migrated to Sindh from Hirat (Afghanistan). His father’s name was Syed Habib Shah. His wife died at an early age. He was very sensitive. His heart soon filled with love of God. The beauty of nature aroused strongly his feelings. His heart turned more and more towards religion and devotion. He spent the last part of his life on a Bhit. In Sindhi language, 'Bhit' means mound of sand; that is why he is called Shah Latif Bhitai. Shah Latif was not only a saint and mystic but also a poet and musician. His poetry is simple and moving. The collection of his poetry is called 'Shah Jo Risalo' which has been translated into many languages. The message of Shah Latif is love. Shah Latif died on the 'Bhit' and was buried there. A shrine was built over his grave by Ghulam Shah Kalhoro, where his Urs is held on 14th Safar every year. People love him and sing his poems.
+Shah Abdul Latif Bhitai, the great Sufi saint and poet of Sindh, is lovingly called Lal Latif by his devotees. He was born in 1102 Hijri in a small village called Hala Haveli. His father's name was Syed Habib Shah. He was a very sensitive person, and his heart was soon filled with the love of God. He spent the last part of his life on a "Bhit", which means a mound of sand, so he is called Bhitai. He was a saint, mystic, poet and musician. His poetry collection, "Shah Jo Risalo", has been translated into many languages. His message is love. His shrine is on the Bhit, where his Urs is held on 14th Safar every year.
 
 
 ## 13. # شاہ عبداللطیف بھٹائی
-
-شاہ عبداللطیف بھٹائی ایک عظیم ولی تھے جنہیں ان کے مریدین پیار سے لعل لطیف کہتے ہیں۔ وہ 1102 ہجری میں 'ہالا حویلی' نامی ایک چھوٹے سے گاؤں میں پیدا ہوئے۔ کچھ مؤرخین کے مطابق ان کے آباؤ اجداد ہرات (افغانستان) سے سندھ آئے تھے۔ ان کے والد کا نام سید حبیب شاہ تھا۔ ان کی بیوی کم عمری میں وفات پا گئی۔ وہ بہت حساس تھے۔ ان کا دل جلد ہی اللہ کی محبت سے بھر گیا۔ قدرت کے حسن نے ان کے جذبات کو گہرائی سے جگا دیا۔ ان کا دل مذہب اور عبادت کی طرف زیادہ مائل ہوتا گیا۔ انہوں نے اپنی زندگی کا آخری حصہ ایک بھٹ پر گزارا۔ سندھی زبان میں 'بھٹ' کا مطلب ریت کا ٹیلا ہے، اسی لیے انہیں شاہ لطیف بھٹائی کہا جاتا ہے۔ شاہ لطیف نہ صرف ولی اور صوفی تھے بلکہ شاعر اور موسیقار بھی تھے۔ ان کی شاعری سادہ اور دل کو چھو لینے والی ہے۔ ان کی شاعری کا مجموعہ 'شاہ جو رسالو' کہلاتا ہے جس کا ترجمہ بہت سی زبانوں میں ہو چکا ہے۔ شاہ لطیف کا پیغام محبت ہے۔ شاہ لطیف بھٹ پر ہی وفات پا گئے اور وہیں دفن ہوئے۔ غلام شاہ کلہوڑو نے ان کی قبر پر مزار تعمیر کروایا جہاں ہر سال 14 صفر کو ان کا عرس منایا جاتا ہے۔ لوگ ان سے محبت کرتے ہیں اور ان کی شاعری گاتے ہیں۔
+شاہ عبداللطیف بھٹائی، سندھ کے عظیم صوفی بزرگ اور شاعر، کو ان کے عقیدت مند پیار سے "لعل لطیف" کہتے ہیں۔ وہ 1102 ہجری میں "ہالا حویلی" نامی ایک چھوٹے گاؤں میں پیدا ہوئے۔ ان کے والد کا نام سید حبیب شاہ تھا۔ وہ بہت حساس طبیعت کے مالک تھے اور جلد ہی ان کا دل اللہ کی محبت سے بھر گیا۔ انہوں نے اپنی زندگی کا آخری حصہ "بھٹ" پر گزارا، جس کا مطلب ریت کا ٹیلہ ہے، اسی لیے انہیں بھٹائی کہا جاتا ہے۔ وہ ولی، صوفی، شاعر اور موسیقار تھے۔ ان کی شاعری کا مجموعہ "شاہ جو رسالو" کئی زبانوں میں ترجمہ ہو چکا ہے۔ ان کا پیغام محبت ہے۔ ان کا مزار بھٹ پر ہے، جہاں ہر سال 14 صفر کو ان کا عرس منعقد ہوتا ہے۔
 
 ## <hr>
 
@@ -292,11 +292,12 @@ An aim in life is very necessary to achieve everything, and having an aim is a m
 
 ## 20. National Game / My Favourite Game
 
-Hockey is the national game of our beloved country, Pakistan. It is an outdoor game played in an open field. It is my favourite game. I like it very much. This game is played between two teams. Each team consists of 11 players. It is the most famous game in the whole world. I like playing hockey very much. Our country, Pakistan, has won the Hockey World Cup 4 times.
+Hockey is the national game of our beloved country, Pakistan. It is an outdoor game played in an open field between two teams. Each team has 11 players, who use sticks to hit a ball and score goals. It is my favourite game, and I like playing it very much. Hockey is one of the most popular games in the world. It teaches us teamwork, discipline and fitness. Pakistan has won the Hockey World Cup four times, in 1971, 1978, 1982 and 1994, which makes us proud. Our hockey team wears green and white and represents the nation with pride.
+
 
 ## 20. قومی کھیل / میرا پسندیدہ کھیل
 
-ہاکی ہمارے پیارے ملک پاکستان کا قومی کھیل ہے۔ یہ ایک بیرونی کھلے میدان میں کھیلا جانے والا کھیل ہے۔ یہ میرا پسندیدہ کھیل ہے۔ مجھے یہ بہت پسند ہے۔ یہ کھیل دو ٹیموں کے درمیان کھیلا جاتا ہے۔ ہر ٹیم 11 کھلاڑیوں پر مشتمل ہوتی ہے۔ یہ پوری دنیا میں سب سے مشہور کھیل ہے۔ مجھے ہاکی کھیلنا بہت پسند ہے۔ ہمارے ملک پاکستان نے ہاکی کے 4 ورلڈ کپ جیتے ہیں۔
+ہاکی ہمارے پیارے ملک پاکستان کا قومی کھیل ہے۔ یہ ایک بیرونی کھیل ہے جو کھلے میدان میں دو ٹیموں کے درمیان کھیلا جاتا ہے۔ ہر ٹیم میں 11 کھلاڑی ہوتے ہیں، جو اسٹک سے گیند کو مار کر گول کرتے ہیں۔ یہ میرا پسندیدہ کھیل ہے اور مجھے اسے کھیلنا بہت پسند ہے۔ ہاکی دنیا کے مقبول ترین کھیلوں میں سے ایک ہے۔ یہ ہمیں ٹیم ورک، نظم و ضبط اور صحت مند رہنا سکھاتی ہے۔ پاکستان نے ہاکی کا ورلڈ کپ چار مرتبہ جیتا ہے، یعنی 1971، 1978، 1982 اور 1994 میں، جس پر ہمیں فخر ہے۔ ہماری ہاکی ٹیم سبز اور سفید لباس پہنتی ہے اور فخر کے ساتھ ملک کی نمائندگی کرتی ہے۔
 
 ## <hr>
 
@@ -304,11 +305,12 @@ Hockey is the national game of our beloved country, Pakistan. It is an outdoor g
 
 ## 21. My Favorite Teacher
 
-There are many teachers who have taught me very well, but I like Sir Shams Deen Gopang the most. He is my best and favorite teacher. He is a kind and humble teacher. His teaching method is very simple, easy and attractive. He supports, encourages and motivates everyone. He is my class teacher and teaches us English. He is very intelligent and teaches us regularly in an easy way. He also teaches us good habits and morals. He is the greatest teacher in our school. I like his way of teaching very much.
+Many teachers have taught me very well, but I like Sir Shams Deen Gopang the most. He is my best and favorite teacher. He is kind, humble and very intelligent. His teaching method is simple, easy and attractive. He supports, encourages and motivates every student. He is my class teacher and teaches us English regularly in an easy way. He also teaches us good habits and morals, which help us become better people. He treats everyone equally and never makes us feel afraid. He is the greatest teacher in our school, and I respect him from my heart. I like his way of teaching very much.
+
 
 ## 21. میرا پسندیدہ استاد
 
-میرے اسکول میں کئی استاد ہیں جنہوں نے مجھے بہت اچھا پڑھایا ہے، لیکن مجھے استاد شمس الدین گوپانگ سب سے زیادہ پسند ہیں۔ وہ میرے بہترین اور پسندیدہ استاد ہیں۔ وہ ایک مہربان اور عاجز استاد ہیں۔ ان کا پڑھانے کا طریقہ بہت سادہ، آسان اور پرکشش ہے۔ وہ ہر کسی کی حوصلہ افزائی کرتے ہیں۔ وہ میرے کلاس ٹیچر ہیں اور ہمیں انگریزی پڑھاتے ہیں۔ وہ بہت ذہین ہیں اور باقاعدگی سے آسان طریقے سے پڑھاتے ہیں۔ وہ ہمیں اچھی عادات اور اخلاقیات بھی سکھاتے ہیں۔ وہ ہمارے اسکول کے سب سے عظیم استاد ہیں۔ مجھے ان کا پڑھانے کا انداز بہت پسند ہے۔
+کئی اساتذہ نے مجھے بہت اچھا پڑھایا ہے، لیکن مجھے استاد شمس الدین گوپانگ سب سے زیادہ پسند ہیں۔ وہ میرے بہترین اور پسندیدہ استاد ہیں۔ وہ مہربان، عاجز اور بہت ذہین ہیں۔ ان کا پڑھانے کا طریقہ سادہ، آسان اور پرکشش ہے۔ وہ ہر طالب علم کی حمایت اور حوصلہ افزائی کرتے ہیں۔ وہ میرے کلاس ٹیچر ہیں اور ہمیں باقاعدگی سے آسان انداز میں انگریزی پڑھاتے ہیں۔ وہ ہمیں اچھی عادات اور اخلاقیات بھی سکھاتے ہیں، جو ہمیں بہتر انسان بننے میں مدد دیتی ہیں۔ وہ سب کے ساتھ برابری کا سلوک کرتے ہیں اور ہمیں کبھی خوفزدہ نہیں کرتے۔ وہ ہمارے اسکول کے سب سے عظیم استاد ہیں اور میں دل سے ان کی عزت کرتا ہوں۔ مجھے ان کا پڑھانے کا انداز بہت پسند ہے۔
 
 ## <hr>
 
@@ -333,26 +335,27 @@ Hazrat Muhammad Mustafa (SAW) is the most important prophet of Islam. Born in Me
 
 
 <a id="national-game-of-pakistan"></a>
+
 ## 24. National Game of Pakistan
 
-The national game of Pakistan is hockey. Hockey is an exciting sport played with a stick and a ball. It is a team game, and the players try to score goals. I like how fast and exciting hockey is. In Pakistan, people love watching and playing hockey. Our national team wears green and white and makes us proud. Hockey brings people together and makes us cheer for our country. It is great that it is our national game. It is fun to play, and it shows how strong and united we are as a country.
+The national game of Pakistan is hockey. It is an exciting sport played with a stick and a ball between two teams of eleven players each. The players try to score goals by hitting the ball into the opponent's net. I like how fast and thrilling hockey is. In Pakistan, people love watching and playing it. Our national team wears green and white and makes us proud. Pakistan has won the Hockey World Cup four times, which is a great achievement. Hockey brings people together and makes us cheer for our country. It is fun to play, and it shows how strong and united we are as a nation.
 
 ## 24. پاکستان کا قومی کھیل
 
-پاکستان کا قومی کھیل ہاکی ہے۔ ہاکی ایک دلچسپ کھیل ہے جو اسٹک اور گیند کے ساتھ کھیلا جاتا ہے۔ یہ ایک ٹیم گیم ہے اور کھلاڑی گول کرنے کی کوشش کرتے ہیں۔ مجھے ہاکی کی تیزی اور سنسنی بہت پسند ہے۔ پاکستان میں لوگ ہاکی دیکھنا اور کھیلنا بہت پسند کرتے ہیں۔ ہماری قومی ٹیم سبز اور سفید لباس پہنتی ہے اور ہمیں فخر کا احساس دلاتی ہے۔ ہاکی لوگوں کو آپس میں جوڑتی ہے اور ہمیں اپنے ملک کے لیے نعرے لگانے پر مجبور کرتی ہے۔ یہ بہت اچھی بات ہے کہ یہ ہمارا قومی کھیل ہے۔ اسے کھیلنے میں بہت مزہ آتا ہے، اور یہ ظاہر کرتا ہے کہ ہم بطور ملک کتنے مضبوط اور متحد ہیں۔
+پاکستان کا قومی کھیل ہاکی ہے۔ یہ ایک دلچسپ کھیل ہے جو اسٹک اور گیند کے ساتھ گیارہ گیارہ کھلاڑیوں کی دو ٹیموں کے درمیان کھیلا جاتا ہے۔ کھلاڑی گیند کو مخالف ٹیم کے نیٹ میں مار کر گول کرنے کی کوشش کرتے ہیں۔ مجھے ہاکی کی تیزی اور سنسنی بہت پسند ہے۔ پاکستان میں لوگ اسے دیکھنا اور کھیلنا بہت پسند کرتے ہیں۔ ہماری قومی ٹیم سبز اور سفید لباس پہنتی ہے اور ہمیں فخر کا احساس دلاتی ہے۔ پاکستان نے ہاکی کا ورلڈ کپ چار مرتبہ جیتا ہے، جو ایک عظیم کامیابی ہے۔ ہاکی لوگوں کو آپس میں جوڑتی ہے اور ہمیں اپنے ملک کے لیے نعرے لگانے پر مجبور کرتی ہے۔ اسے کھیلنے میں بہت مزہ آتا ہے، اور یہ ظاہر کرتا ہے کہ ہم بطور قوم کتنے مضبوط اور متحد ہیں۔
+
 
 ## <hr>
 
 <a id="my-hobby"></a>
 
-## 12. My Hobby
+## 25. My Hobby
 
-My hobby is cricket. I play with my friends in the park. We run, hit the ball, and have a lot of fun. Watching cricket on TV is enjoyable too. I like it because it makes me happy and healthy. Cricket is the best! It is my favorite hobby. It keeps me healthy and makes me smile. I enjoy every moment of playing and cheering for my team. My favourite team is the Pakistan cricket team.
+My hobby is cricket. I play it with my friends in the park every evening. We run, hit the ball, bowl and have a lot of fun together. Watching cricket on TV is enjoyable too. I like it because it makes me happy and healthy. Cricket teaches me teamwork, patience and discipline. It keeps my body active and makes me smile. I enjoy every moment of playing and cheering for my team. My favourite team is the Pakistan cricket team, and my favourite moment is when our players win a match for the country. Cricket is truly the best hobby for me.
 
-## 12. میرا شوق (کرکٹ)
+## 25. میرا شوق (کرکٹ)
 
-میرا شوق کرکٹ ہے۔ میں اپنے دوستوں کے ساتھ پارک میں کھیلتا ہوں۔ ہم دوڑتے ہیں، گیند کو مارتے ہیں اور بہت مزہ کرتے ہیں۔ ٹی وی پر کرکٹ دیکھنا بھی بہت اچھا لگتا ہے۔ مجھے یہ اس لیے پسند ہے کیونکہ یہ مجھے خوش اور صحت مند رکھتی ہے۔ کرکٹ سب سے بہترین ہے! یہ میرا پسندیدہ شوق ہے۔ یہ مجھے صحت مند رکھتی ہے اور مسکرانے پر مجبور کرتی ہے۔ مجھے کھیلنے اور اپنی ٹیم کی حوصلہ افزائی کرنے کا ہر لمحہ پسند ہے۔ میری پسندیدہ ٹیم پاکستان کرکٹ ٹیم ہے۔
-
+میرا شوق کرکٹ ہے۔ میں ہر شام اپنے دوستوں کے ساتھ پارک میں کھیلتا ہوں۔ ہم دوڑتے ہیں، گیند کو مارتے ہیں، باؤلنگ کرتے ہیں اور مل کر بہت مزہ کرتے ہیں۔ ٹی وی پر کرکٹ دیکھنا بھی بہت اچھا لگتا ہے۔ مجھے یہ اس لیے پسند ہے کیونکہ یہ مجھے خوش اور صحت مند رکھتی ہے۔ کرکٹ مجھے ٹیم ورک، صبر اور نظم و ضبط سکھاتی ہے۔ یہ میرے جسم کو متحرک رکھتی ہے اور مجھے مسکرانے پر مجبور کرتی ہے۔ مجھے کھیلنے اور اپنی ٹیم کی حوصلہ افزائی کرنے کا ہر لمحہ پسند ہے۔ میری پسندیدہ ٹیم پاکستان کرکٹ ٹیم ہے، اور میرا پسندیدہ لمحہ وہ ہوتا ہے جب ہمارے کھلاڑی ملک کے لیے میچ جیتتے ہیں۔ کرکٹ واقعی میرے لیے سب سے بہترین شوق ہے۔
 
 ## <hr>
 
