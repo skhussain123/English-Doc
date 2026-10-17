@@ -17,7 +17,12 @@
 15. [Allama Iqbal](#allama-iqbal)
 16. [Corruption](#corruption)
 17. [Quaid-e-Azam Muhammad Ali Jinnah](#quaid-e-azam)
-19. [Sachal Sarmast](#sachal-sarmast)
+18. [Sachal Sarmast](#sachal-sarmast)
+19. [My Aim of Life](#my-aim-of-life)
+20. [National Game / My Favourite Game](#national-game)
+21. [My Favorite Teacher](#my-favorite-teacher)
+22. [My School](#my-school)
+23. [Essay on Hazrat Muhammad Mustafa (SAW)](#hazrat-muhammad-saw)
 
 
 #### <hr>
@@ -258,8 +263,67 @@ Quaid-e-Azam Muhammad Ali Jinnah was the founder of our country. Quaid-e-Azam Mu
 
 ## <hr>
 
+<a id="sachal-sarmast"></a>
 
+## 18. Sachal Sarmast
+Sachal Sarmast was a great Sufi poet of Sindh. His real name was Abdul Wahab, and he was born in 1739 in Daraza Sharif, near Khairpur. He wrote poetry in many languages, including Sindhi, Siraiki, Urdu, Persian, Arabic and Punjabi. The word “Sachal” means truthful, and “Sarmast” means one intoxicated with divine love. His poetry spreads the message of love, peace, tolerance and humanity, and it rejects hatred and religious divisions. People of every faith respect him. He passed away in 1829, and his shrine is in Daraza Sharif, where a large Urs is held every year.
 
+## 18. سچل سرمست
 
+سچل سرمست سندھ کے ایک عظیم صوفی شاعر تھے۔ ان کا اصل نام عبدالوہاب تھا اور وہ 1739ء میں خیرپور کے قریب درازہ شریف میں پیدا ہوئے۔ انہوں نے سندھی، سرائیکی، اردو، فارسی، عربی اور پنجابی سمیت کئی زبانوں میں شاعری کی۔ "سچل" کا مطلب سچ بولنے والا اور "سرمست" کا مطلب عشقِ الٰہی میں مست ہے۔ ان کی شاعری محبت، امن، رواداری اور انسانیت کا پیغام دیتی ہے اور نفرت اور مذہبی تفرقے کو رد کرتی ہے۔ ہر مذہب کے لوگ ان کا احترام کرتے ہیں۔ ان کا انتقال 1829ء میں ہوا اور ان کا مزار درازہ شریف میں ہے، جہاں ہر سال عظیم الشان عرس منعقد ہوتا ہے۔
 
+## <hr>
+
+<a id="my-aim-of-life"></a>
+
+## 19. My Aim of Life
+
+An aim in life is very necessary to achieve everything, and having an aim is a must. I want to become a policeman. The police are a very important government employee. He maintains peace and order in society. He is a source of terror for the enemies of society. The police protect the lives and property of the public, government officers and ordinary people. A policeman wears a khaki pant and a black shirt. He has a black cap on his head. A black leather belt is fastened around his waist. During duty he has a stick or a gun, and he performs his duty with complete honesty. A policeman is an important public and government servant. I pray to Allah Almighty to help me in my aim. Ameen.
+
+## 19. میرا مقصدِ زندگی
+
+زندگی میں مقصد ہونا بہت ضروری ہے، اور ہر چیز حاصل کرنے کے لیے مقصد کا ہونا لازمی ہے۔ میں پولیس والا بننا چاہتا ہوں۔ پولیس والا ایک بہت اہم سرکاری ملازم ہے۔ وہ معاشرے میں امن و امان برقرار رکھتا ہے۔ وہ معاشرے کے دشمنوں کے لیے دہشت کی علامت ہے۔ پولیس والے عام عوام اور سرکاری افسران کی جان و مال کی حفاظت کرتے ہیں۔ پولیس والا خاکی پینٹ اور کالی قمیص پہنتا ہے۔ اس کے سر پر کالی ٹوپی ہوتی ہے۔ کمر پر چمڑے کی کالی بیلٹ بندھی ہوتی ہے۔ ڈیوٹی کے دوران اس کے پاس ڈنڈا یا بندوق ہوتی ہے اور وہ اپنا فرض پوری ایمانداری سے انجام دیتا ہے۔ پولیس والا ایک اہم عوامی اور سرکاری ملازم ہے۔ اللہ پاک سے دعا ہے کہ وہ میرے مقصد میں میری مدد فرمائے۔ آمین۔
+
+## <hr>
+
+<a id="national-game"></a>
+
+## 20. National Game / My Favourite Game
+
+Hockey is the national game of our beloved country, Pakistan. It is an outdoor game played in an open field. It is my favourite game. I like it very much. This game is played between two teams. Each team consists of 11 players. It is the most famous game in the whole world. I like playing hockey very much. Our country, Pakistan, has won the Hockey World Cup 4 times.
+
+## 20. قومی کھیل / میرا پسندیدہ کھیل
+
+ہاکی ہمارے پیارے ملک پاکستان کا قومی کھیل ہے۔ یہ ایک بیرونی کھلے میدان میں کھیلا جانے والا کھیل ہے۔ یہ میرا پسندیدہ کھیل ہے۔ مجھے یہ بہت پسند ہے۔ یہ کھیل دو ٹیموں کے درمیان کھیلا جاتا ہے۔ ہر ٹیم 11 کھلاڑیوں پر مشتمل ہوتی ہے۔ یہ پوری دنیا میں سب سے مشہور کھیل ہے۔ مجھے ہاکی کھیلنا بہت پسند ہے۔ ہمارے ملک پاکستان نے ہاکی کے 4 ورلڈ کپ جیتے ہیں۔
+
+## <hr>
+
+<a id="my-favorite-teacher"></a>
+
+## 21. My Favorite Teacher
+
+There are many teachers who have taught me very well, but I like Sir Shams Deen Gopang the most. He is my best and favorite teacher. He is a kind and humble teacher. His teaching method is very simple, easy and attractive. He supports, encourages and motivates everyone. He is my class teacher and teaches us English. He is very intelligent and teaches us regularly in an easy way. He also teaches us good habits and morals. He is the greatest teacher in our school. I like his way of teaching very much.
+
+## 21. میرا پسندیدہ استاد
+
+میرے اسکول میں کئی استاد ہیں جنہوں نے مجھے بہت اچھا پڑھایا ہے، لیکن مجھے استاد شمس الدین گوپانگ سب سے زیادہ پسند ہیں۔ وہ میرے بہترین اور پسندیدہ استاد ہیں۔ وہ ایک مہربان اور عاجز استاد ہیں۔ ان کا پڑھانے کا طریقہ بہت سادہ، آسان اور پرکشش ہے۔ وہ ہر کسی کی حوصلہ افزائی کرتے ہیں۔ وہ میرے کلاس ٹیچر ہیں اور ہمیں انگریزی پڑھاتے ہیں۔ وہ بہت ذہین ہیں اور باقاعدگی سے آسان طریقے سے پڑھاتے ہیں۔ وہ ہمیں اچھی عادات اور اخلاقیات بھی سکھاتے ہیں۔ وہ ہمارے اسکول کے سب سے عظیم استاد ہیں۔ مجھے ان کا پڑھانے کا انداز بہت پسند ہے۔
+
+## <hr>
+
+<a id="my-school"></a>
+
+## 22. My School
+# Pending
+
+## <hr>
+
+<a id="hazrat-muhammad-saw"></a>
+
+## 23. Essay on Hazrat Muhammad Mustafa (SAW)
+
+Hazrat Muhammad Mustafa (SAW) is the most important prophet of Islam. Born in Mecca, he was kind, wise, and fair. He received messages from Allah, which were compiled in the Holy Quran. Muhammad (SAW) spread the message of one God, love, and justice. His teachings talk about being good, humble, and accepting of others. He helped those who were treated badly. People around the world respect him for being a good example. Muhammad (SAW) is the last prophet, guiding people with a message of love and wisdom. Muslims follow his teachings to be kind and to make the world a better place.
+
+## 23. مضمون: حضرت محمد مصطفیٰ ﷺ
+
+حضرت محمد مصطفیٰ ﷺ اسلام کے سب سے اہم نبی ہیں۔ آپ ﷺ مکہ مکرمہ میں پیدا ہوئے۔ آپ ﷺ مہربان، دانا اور انصاف پسند تھے۔ آپ ﷺ کو اللہ تعالیٰ کی طرف سے پیغامات (وحی) ملے، جنہیں قرآنِ پاک میں جمع کیا گیا۔ آپ ﷺ نے توحید، محبت اور انصاف کا پیغام پھیلایا۔ آپ ﷺ کی تعلیمات نیکی، عاجزی اور دوسروں کو قبول کرنے کا درس دیتی ہیں۔ آپ ﷺ نے ان لوگوں کی مدد کی جن کے ساتھ برا سلوک کیا گیا تھا۔ دنیا بھر کے لوگ آپ ﷺ کی بہترین مثال ہونے کی وجہ سے آپ کی عزت کرتے ہیں۔ آپ ﷺ آخری نبی ہیں اور محبت اور حکمت کے پیغام کے ساتھ لوگوں کی رہنمائی کرتے ہیں۔ مسلمان آپ ﷺ کی تعلیمات پر چل کر مہربان بنتے ہیں اور دنیا کو بہتر جگہ بنانے کی کوشش کرتے ہیں۔
 
