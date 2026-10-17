@@ -5,7 +5,7 @@
 
 #### Past Simple + Past Continuous + Past Perfect + Past Perfect Continuous
 
-#### [Subject + Verb (past form) + Object]
+#### [Subject + V2 + Object]
 
 ____________________________________________________
 
