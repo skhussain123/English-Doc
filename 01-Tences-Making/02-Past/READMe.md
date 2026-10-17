@@ -486,6 +486,11 @@ ____________________________________________________
 ## Past Continuous Tense
 #### Subject + was/were + Verb (ing) + Object
 
+#### اردو پہچان کے الفاظ
+* رہا تھا
+* رہی تھی
+* رہے تھے
+
 * Was: I, He, She, It aur singular noun ke saath.
 * Were: You, We, They aur plural noun ke saath.
 
