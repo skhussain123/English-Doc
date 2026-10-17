@@ -491,6 +491,8 @@ ____________________________________________________
 * رہی تھی
 * رہے تھے
 
+<br>
+
 * Was: I, He, She, It aur singular noun ke saath.
 * Were: You, We, They aur plural noun ke saath.
 
