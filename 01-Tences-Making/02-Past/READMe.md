@@ -127,7 +127,12 @@ ____________________________________________________
 ____________________________________________________
 
 ## Past Negative Sentence
-#### Subject + did not (didn't) + Verb 1st Form (V1) + Object
+#### Subject + did not (didn't) + V1 + Object
+
+#### اردو پہچان کے الفاظ
+*  تھا، تھی، تھے
+* یا، ی، ے
+* کیا، گیا، کھایا، پیا، لکھا، پڑھا
 
 
 ### Practice Tense
@@ -239,6 +244,11 @@ ____________________________________________________
 ## Past Interrogative Sentence
 #### Did + Subject + Verb 1st Form (V1) + Object
 
+#### اردو پہچان کے الفاظ
+*  تھا، تھی، تھے
+* یا، ی، ے
+* کیا، گیا، کھایا، پیا، لکھا، پڑھا
+
 1. کیا تم نے کھانا کھایا؟(did you eat food)
 2. کیا وہ اسکول گیا؟(did he go to school)
 3. کیا ہم نے فلم دیکھی؟(did we watch movie)
@@ -349,6 +359,11 @@ ____________________________________________________
 
 ## Past WH Tense
 #### [WH-word + did + subject + verb (1st form) + object?]
+
+#### اردو پہچان کے الفاظ
+*  تھا، تھی، تھے
+* یا، ی، ے
+* کیا، گیا، کھایا، پیا، لکھا، پڑھا
 
 
 | WH-word | Subject | Verb | Object  | Urdu Translation   |
