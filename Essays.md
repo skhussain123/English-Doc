@@ -23,6 +23,8 @@
 21. [My Favorite Teacher](#my-favorite-teacher)
 22. [My School](#my-school)
 23. [Essay on Hazrat Muhammad Mustafa (SAW)](#hazrat-muhammad-saw)
+24. [National Game of Pakistan](#national-game-of-pakistan)
+24. [My Hobby](#my-hobby)
 
 
 #### <hr>
@@ -327,3 +329,33 @@ Hazrat Muhammad Mustafa (SAW) is the most important prophet of Islam. Born in Me
 
 حضرت محمد مصطفیٰ ﷺ اسلام کے سب سے اہم نبی ہیں۔ آپ ﷺ مکہ مکرمہ میں پیدا ہوئے۔ آپ ﷺ مہربان، دانا اور انصاف پسند تھے۔ آپ ﷺ کو اللہ تعالیٰ کی طرف سے پیغامات (وحی) ملے، جنہیں قرآنِ پاک میں جمع کیا گیا۔ آپ ﷺ نے توحید، محبت اور انصاف کا پیغام پھیلایا۔ آپ ﷺ کی تعلیمات نیکی، عاجزی اور دوسروں کو قبول کرنے کا درس دیتی ہیں۔ آپ ﷺ نے ان لوگوں کی مدد کی جن کے ساتھ برا سلوک کیا گیا تھا۔ دنیا بھر کے لوگ آپ ﷺ کی بہترین مثال ہونے کی وجہ سے آپ کی عزت کرتے ہیں۔ آپ ﷺ آخری نبی ہیں اور محبت اور حکمت کے پیغام کے ساتھ لوگوں کی رہنمائی کرتے ہیں۔ مسلمان آپ ﷺ کی تعلیمات پر چل کر مہربان بنتے ہیں اور دنیا کو بہتر جگہ بنانے کی کوشش کرتے ہیں۔
 
+## <hr>
+
+
+<a id="national-game-of-pakistan"></a>
+## 24. National Game of Pakistan
+
+The national game of Pakistan is hockey. Hockey is an exciting sport played with a stick and a ball. It is a team game, and the players try to score goals. I like how fast and exciting hockey is. In Pakistan, people love watching and playing hockey. Our national team wears green and white and makes us proud. Hockey brings people together and makes us cheer for our country. It is great that it is our national game. It is fun to play, and it shows how strong and united we are as a country.
+
+## 24. پاکستان کا قومی کھیل
+
+پاکستان کا قومی کھیل ہاکی ہے۔ ہاکی ایک دلچسپ کھیل ہے جو اسٹک اور گیند کے ساتھ کھیلا جاتا ہے۔ یہ ایک ٹیم گیم ہے اور کھلاڑی گول کرنے کی کوشش کرتے ہیں۔ مجھے ہاکی کی تیزی اور سنسنی بہت پسند ہے۔ پاکستان میں لوگ ہاکی دیکھنا اور کھیلنا بہت پسند کرتے ہیں۔ ہماری قومی ٹیم سبز اور سفید لباس پہنتی ہے اور ہمیں فخر کا احساس دلاتی ہے۔ ہاکی لوگوں کو آپس میں جوڑتی ہے اور ہمیں اپنے ملک کے لیے نعرے لگانے پر مجبور کرتی ہے۔ یہ بہت اچھی بات ہے کہ یہ ہمارا قومی کھیل ہے۔ اسے کھیلنے میں بہت مزہ آتا ہے، اور یہ ظاہر کرتا ہے کہ ہم بطور ملک کتنے مضبوط اور متحد ہیں۔
+
+## <hr>
+
+<a id="my-hobby"></a>
+
+## 12. My Hobby
+
+My hobby is cricket. I play with my friends in the park. We run, hit the ball, and have a lot of fun. Watching cricket on TV is enjoyable too. I like it because it makes me happy and healthy. Cricket is the best! It is my favorite hobby. It keeps me healthy and makes me smile. I enjoy every moment of playing and cheering for my team. My favourite team is the Pakistan cricket team.
+
+## 12. میرا شوق (کرکٹ)
+
+میرا شوق کرکٹ ہے۔ میں اپنے دوستوں کے ساتھ پارک میں کھیلتا ہوں۔ ہم دوڑتے ہیں، گیند کو مارتے ہیں اور بہت مزہ کرتے ہیں۔ ٹی وی پر کرکٹ دیکھنا بھی بہت اچھا لگتا ہے۔ مجھے یہ اس لیے پسند ہے کیونکہ یہ مجھے خوش اور صحت مند رکھتی ہے۔ کرکٹ سب سے بہترین ہے! یہ میرا پسندیدہ شوق ہے۔ یہ مجھے صحت مند رکھتی ہے اور مسکرانے پر مجبور کرتی ہے۔ مجھے کھیلنے اور اپنی ٹیم کی حوصلہ افزائی کرنے کا ہر لمحہ پسند ہے۔ میری پسندیدہ ٹیم پاکستان کرکٹ ٹیم ہے۔
+
+
+## <hr>
+
+
+
+## <hr>
