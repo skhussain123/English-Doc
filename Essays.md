@@ -58,7 +58,7 @@ My best friend’s name is Ali. He is a kind, honest, and helpful person. We hav
 ## <hr>
 <a id="police"></a>
 
-## 3. Police
+## 3. Police (Why I Want to Join Sindh Police)
 
 The police play a vital role in the development of any country. Institutions are the backbone of a nation, and among them the police department is among the most important. In Pakistan, it works under the Home Department. Maintaining law and order and protecting the lives and property of citizens is its main duty. We do not hate people; we hate crime. Sindh Police is a respected and valuable department. Joining it is my greatest dream and ambition. I want to serve my country and my people through Sindh Police, and my parents also wish to see me in uniform. I am ready to sacrifice my life for my motherland.
 
