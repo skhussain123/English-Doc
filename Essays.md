@@ -109,12 +109,11 @@ The PSL is played every year. Teams compete to win the trophy. The current defen
 
 ## 5. Education
 
-Education is an important tool which is very useful in everybody’s life. Education gives us knowledge of the world around us. Education helps us to earn things, find good jobs and lead a respectable life in the society. It empowers humans and gets them ready to face challenges of life efficiently. It also educates us about how to protect ourselves from disease and stay away from bad habits. Education is essential for both men and women to understand every aspect of life. Educated people live a happier life than those who are uneducated. When you are educated you know when to speak and when to remain silent. Education helps us to know rules and regulations and make us responsible citizens of our country.
-
+Education is very important for every person and every nation. It teaches us how to think, how to speak, and how to live in society. An educated person can understand his rights and duties. Education also helps people get good jobs and earn an honest living. A country with more educated people moves faster towards progress. It removes poverty, crime, and ignorance from society. Education is not only about books. It also teaches us good manners, discipline, and respect for others. Our religion Islam also gives great importance to knowledge. Therefore, every child, boy or girl, must go to school. We should work together to make education available to everyone in Pakistan.
 
 ## 5. تعلیم
 
-تعلیم ایک اہم ذریعہ ہے جو زندگی میں بہت مفید ہے۔ تعلیم ہمیں اپنے اردگرد کی دنیا کا علم دیتی ہے۔ تعلیم ہمیں اچھی ملازمتیں تلاش کرنے اور معاشرے میں باعزت زندگی گزارنے میں مدد کرتی ہے۔ یہ انسانوں کو بااختیار بناتا ہے اور انہیں زندگی کے چیلنجوں کا موثر انداز میں سامنا کرنے کے لیے تیار کرتا ہے۔ یہ ہمیں اس بارے میں بھی تعلیم دیتا ہے کہ ہم اپنے آپ کو بیماری سے کیسے بچائیں اور بری عادتوں سے کیسے بچیں۔ تعلیم مرد اور عورت دونوں کے لیے ضروری ہے تاکہ وہ زندگی کے ہر پہلو کو سمجھ سکیں۔ پڑھے لکھے لوگ ان پڑھ لوگوں سے زیادہ خوش و خرم زندگی گزارتے ہیں۔ جب آپ تعلیم یافتہ ہوتے ہیں تو آپ جانتے ہیں کہ کب بولنا ہے اور کب خاموش رہنا ہے۔ تعلیم ہمیں قواعد و ضوابط کو جاننے اور اپنے ملک کا ذمہ دار شہری بنانے میں مدد کرتی ہے۔
+تعلیم ہر انسان اور ہر قوم کے لیے بہت ضروری ہے۔ یہ ہمیں سوچنا، بولنا اور معاشرے میں رہنا سکھاتی ہے۔ پڑھا لکھا انسان اپنے حقوق اور فرائض کو بہتر سمجھتا ہے۔ تعلیم لوگوں کو اچھی نوکری اور حلال روزی کمانے میں بھی مدد دیتی ہے۔ جس ملک میں تعلیم یافتہ لوگ زیادہ ہوں وہ تیزی سے ترقی کرتا ہے۔ تعلیم غربت، جرائم اور جہالت کو ختم کرتی ہے۔ تعلیم صرف کتابوں کا نام نہیں، یہ ہمیں اچھے اخلاق، نظم و ضبط اور دوسروں کی عزت کرنا بھی سکھاتی ہے۔ ہمارا دین اسلام بھی علم کو بہت اہمیت دیتا ہے۔ اس لیے ہر بچے اور بچی کو اسکول ضرور جانا چاہیے۔ ہمیں مل کر پاکستان میں سب کے لیے تعلیم عام کرنی چاہیے۔
 
 ## <hr>
 
