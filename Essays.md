@@ -109,7 +109,7 @@ The PSL is played every year. Teams compete to win the trophy. The current defen
 
 ## 5. Education
 
-Education is very important for every person and every nation. It teaches us how to think, how to speak, and how to live in society. An educated person can understand his rights and duties. Education also helps people get good jobs and earn an honest living. A country with more educated people moves faster towards progress. It removes poverty, crime, and ignorance from society. Education is not only about books. It also teaches us good manners, discipline, and respect for others. Our religion Islam also gives great importance to knowledge. Therefore, every child, boy or girl, must go to school. We should work together to make education available to everyone in Pakistan.
+Education is very important for every person and every nation. It teaches us how to think, how to speak, and how to live in society. An educated person can understand his rights and duties. Education also helps people get good jobs and earn an honest living. A country with more educated people moves faster progress. It removes poverty, crime, and ignorance from society. Education is not only about books. It also teaches us good manners, discipline, and respect for others. Our religion Islam also gives great importance to knowledge. Therefore, every child, boy or girl, must go to school. We should work together to make education available to everyone in Pakistan.
 
 ## 5. تعلیم
 
