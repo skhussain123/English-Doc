@@ -25,6 +25,9 @@
 23. [Essay on Hazrat Muhammad Mustafa (SAW)](#hazrat-muhammad-saw)
 24. [National Game of Pakistan](#national-game-of-pakistan)
 25. [My Hobby](#my-hobby)
+26. [Importance of Discipline](#importance-of-discipline)
+27. [Terrorism](#terrorism)
+28. [Myself / My Introduction](#myself)
 
 
 #### <hr>
@@ -57,12 +60,12 @@ My best friend’s name is Ali. He is a kind, honest, and helpful person. We hav
 
 ## 3. Police
 
-The purpose of the police force is, at any time, the police play a very important role in the development of the country or the state. Institutions are very important for any country in which the police department is very important. And the police department is under the Home Department. One of my main goals is the police. Maintaining law and order of the citizens is the duty of the citizens of Pakistan under Pakistan. We do not hate human beings. We hate crime. Sindh Police is a very good department. First of all, it is my hobby to join Sindh Police. It is my dream. I want to serve my country by joining Sindh Police and my parents also want to I join Sindh Police. Go and I love to sacrifice my life for my country.
+The police play a vital role in the development of any country. Institutions are the backbone of a nation, and among them the police department is among the most important. In Pakistan, it works under the Home Department. Maintaining law and order and protecting the lives and property of citizens is its main duty. We do not hate people; we hate crime. Sindh Police is a respected and valuable department. Joining it is my greatest dream and ambition. I want to serve my country and my people through Sindh Police, and my parents also wish to see me in uniform. I am ready to sacrifice my life for my motherland.
 
 
 # 3. آپ سندھ پولیس کیوں جوائن کرنا چاہتے ہو
 
-پولیس فورس کا مقصد ہے، کسی بھی وقت، ملک یا ریاست کی ترقی میں پولیس کا بہت اہم کردار ہوتا ہے۔ ادارے کسی بھی ملک کے لیے بہت اہم ہوتے ہیں جن میں پولیس کا محکمہ بہت اہم ہے۔ اور محکمہ پولیس ہوم ڈیپارٹمنٹ کے ماتحت ہے۔ میرے اہم مقاصد میں سے ایک پولیس ہے۔ شہریوں کا امن و امان برقرار رکھنا پاکستان کے تحت پاکستان کے شہریوں کا فرض ہے۔ ہم انسانوں سے نفرت نہیں کرتے۔ ہم جرائم سے نفرت کرتے ہیں۔ سندھ پولیس ایک بہت ہی اچھا محکمہ ہے۔ سب سے پہلے تو سندھ پولیس جوائن کرنا میرا شوق ہے میرا خواب ہے۔ میں سندھ پولیس میں بھرتی ہو کر اپنے ملک کی خدمت کرنا چاہتا ہوں اور میرے والدین بھی یہی چاہتے ہیں کہ میں سندھ پولیس میں بھرتی ہو جاؤں اور مجھے شوق ہے کہ میں اپنے ملک پر جان قربان کروں۔
+کسی بھی ملک کی ترقی میں پولیس نہایت اہم کردار ادا کرتی ہے۔ ادارے قوم کی بنیاد ہوتے ہیں اور ان میں پولیس کا محکمہ سب سے اہم اداروں میں شامل ہے۔ شہریوں کی جان و مال کی حفاظت اور امن و امان قائم رکھنا اس کی بنیادی ذمہ داری ہے۔ ہمیں انسانوں سے نفرت نہیں، ہمیں جرم سے نفرت ہے۔ سندھ پولیس ایک معزز محکمہ ہے۔ اس میں شامل ہونا میرا سب سے بڑا خواب اور مقصد ہے۔ میں سندھ پولیس کے ذریعے اپنے ملک اور اپنے لوگوں کی خدمت کرنا چاہتا ہوں، اور میرے والدین کی یہی خواہش ہے کہ میں وردی پہنوں۔ میں اپنے وطن کے لیے اپنی جان قربان کرنے کو تیار ہوں۔
 
 
 ## <hr>
@@ -356,6 +359,43 @@ My hobby is cricket. I play it with my friends in the park every evening. We run
 ## 25. میرا شوق (کرکٹ)
 
 میرا شوق کرکٹ ہے۔ میں ہر شام اپنے دوستوں کے ساتھ پارک میں کھیلتا ہوں۔ ہم دوڑتے ہیں، گیند کو مارتے ہیں، باؤلنگ کرتے ہیں اور مل کر بہت مزہ کرتے ہیں۔ ٹی وی پر کرکٹ دیکھنا بھی بہت اچھا لگتا ہے۔ مجھے یہ اس لیے پسند ہے کیونکہ یہ مجھے خوش اور صحت مند رکھتی ہے۔ کرکٹ مجھے ٹیم ورک، صبر اور نظم و ضبط سکھاتی ہے۔ یہ میرے جسم کو متحرک رکھتی ہے اور مجھے مسکرانے پر مجبور کرتی ہے۔ مجھے کھیلنے اور اپنی ٹیم کی حوصلہ افزائی کرنے کا ہر لمحہ پسند ہے۔ میری پسندیدہ ٹیم پاکستان کرکٹ ٹیم ہے، اور میرا پسندیدہ لمحہ وہ ہوتا ہے جب ہمارے کھلاڑی ملک کے لیے میچ جیتتے ہیں۔ کرکٹ واقعی میرے لیے سب سے بہترین شوق ہے۔
+
+## <hr>
+
+<a id="importance-of-discipline"></a>
+
+## 26. Importance of Discipline
+
+Discipline is the key to success in every field of life. It means following rules, respecting time and doing our duties on time. A disciplined student studies regularly, obeys teachers and respects elders. A disciplined nation progresses quickly because its people follow the law and work honestly. Quaid-e-Azam Muhammad Ali Jinnah gave us the motto of Unity, Faith and Discipline, which shows its great value. Discipline makes us punctual, responsible and confident. Without discipline, life becomes disorganized and full of problems. Therefore, everyone should practice discipline at home, at school and in society to become a successful and respected citizen.
+
+## 26. نظم و ضبط کی اہمیت
+
+نظم و ضبط زندگی کے ہر شعبے میں کامیابی کی کنجی ہے۔ اس کا مطلب قوانین پر عمل کرنا، وقت کی قدر کرنا اور اپنے فرائض وقت پر ادا کرنا ہے۔ ایک باضابطہ طالب علم باقاعدگی سے پڑھتا ہے، اساتذہ کی بات مانتا ہے اور بڑوں کا احترام کرتا ہے۔ باضابطہ قوم تیزی سے ترقی کرتی ہے کیونکہ اس کے لوگ قانون کی پابندی کرتے ہیں اور ایمانداری سے کام کرتے ہیں۔ قائداعظم محمد علی جناح نے ہمیں اتحاد، ایمان اور نظم و ضبط کا اصول دیا، جو اس کی بڑی اہمیت کو ظاہر کرتا ہے۔ نظم و ضبط ہمیں وقت کا پابند، ذمہ دار اور پراعتماد بناتا ہے۔ نظم و ضبط کے بغیر زندگی بے ترتیب اور مسائل سے بھری ہو جاتی ہے۔ اس لیے ہر شخص کو گھر، اسکول اور معاشرے میں نظم و ضبط اپنانا چاہیے تاکہ وہ ایک کامیاب اور باعزت شہری بن سکے۔
+
+## <hr>
+<a id="terrorism"></a>
+
+## 27. Terrorism
+
+Terrorism is the use of violence and fear against innocent people to achieve political, religious or personal goals. It is one of the biggest problems facing the world today. Pakistan has suffered greatly from terrorism, losing thousands of precious lives and facing heavy economic damage. Terrorists attack schools, markets, mosques and public places to spread panic. Their actions have no link with any religion, because Islam teaches peace and respects human life. Poverty, illiteracy, injustice and extremist thinking are the main causes of terrorism. To defeat it, we need education, justice, unity and strong security forces. Our army and police have made great sacrifices to protect the nation. Together, we can make Pakistan safe and peaceful.
+
+## 27. دہشت گردی
+
+دہشت گردی بے گناہ لوگوں کے خلاف سیاسی، مذہبی یا ذاتی مقاصد حاصل کرنے کے لیے تشدد اور خوف کا استعمال ہے۔ یہ آج دنیا کو درپیش سب سے بڑے مسائل میں سے ایک ہے۔ پاکستان نے دہشت گردی سے بہت نقصان اٹھایا ہے، ہزاروں قیمتی جانیں ضائع ہوئیں اور معیشت کو بھاری نقصان پہنچا۔ دہشت گرد اسکولوں، بازاروں، مساجد اور عوامی مقامات پر حملے کر کے خوف پھیلاتے ہیں۔ ان کے اعمال کا کسی مذہب سے کوئی تعلق نہیں، کیونکہ اسلام امن کا درس دیتا ہے اور انسانی جان کی حرمت کرتا ہے۔ غربت، ناخواندگی، ناانصافی اور انتہا پسندانہ سوچ دہشت گردی کی بڑی وجوہات ہیں۔ اسے شکست دینے کے لیے تعلیم، انصاف، اتحاد اور مضبوط سیکیورٹی فورسز ضروری ہیں۔ ہماری فوج اور پولیس نے وطن کی حفاظت کے لیے عظیم قربانیاں دی ہیں۔ مل کر ہم پاکستان کو محفوظ اور پرامن بنا سکتے ہیں۔
+
+
+## <hr>
+<a id="myself"></a>
+
+## 28. Myself / My Introduction
+<!-- 
+My name is Muhammad Hussain. I live in Karachi, Pakistan. meny intermidate complete . There are [number] members in my family, including my parents, brothers and sisters. My father is a hardworking man, and my mother takes great care of us. I am honest, polite and respectful towards my elders. My hobbies are playing cricket, reading books and spending time with my friends. I like to study regularly and help others. My aim in life is to become a [police officer / engineer] and serve my country. I love Pakistan very much and always try to be a good citizen. -->
+
+
+
+
+## <hr>
+
 
 ## <hr>
 
