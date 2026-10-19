@@ -134,7 +134,7 @@ Corona Virus is commonly called Covid-19. Corona virus is a very small but has s
 
 ## 7. My Favorite Place
 
-My most favorite place is the seaside. Whenever I go there, I feel completely relaxed and happy. The sound of waves, the cool breeze, and the open sky make me forget all my worries. I love sitting on the sand and watching the sunset. The orange and pink colours in the sky look magical. Sometimes I walk along the shore and collect small shells. I also enjoy eating roasted corn and drinking cold drinks near the beach. This place gives me peace and energy at the same time. Whenever I feel stressed, I want to go to the seaside. It is not just a place for me; it is my favourite escape from the busy life.
+My most favorite place is the seaside. Whenever I go there, I feel completely relaxed and happy. The sound of waves, the cool breeze, and the open sky make me forge my all worries. I love sitting on the sand and watching the sunset. The orange and pink colours in the sky look magical. Sometimes I walk along the shore and collect small shells. I also enjoy eating roasted corn and drinking cold drinks near the beach. This place gives me peace and energy at the same time. Whenever I feel stressed, I want to go to the seaside. It is not just a place for me; it is my favourite escape from the busy life.
 
 ## 7. میری پسندیدہ جگہ
 
