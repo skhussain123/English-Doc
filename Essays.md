@@ -121,12 +121,11 @@ Education is very important for every person and every nation. It teaches us how
 
 ## 6. Corona Virus
 
-Corona Virus is commonly called Covid-19. Corona virus is a very small but has spread throughout the world and has so far claimed the lives of most dangerous virus. The virus first affects the human respiratory system. Corona virus was first identified in December 2019 in Wuhan city of China. Since then the virus of millions of people. Fear of the epidemic has shaken the entire world system. It has also has a devastating effect on the economy. To prevent epidemic it is recommended to wash your hands frequently, cover your face when coughing, use a mask, keep your distance from others. And stay completely apart. We should live our lives according to nature to get out of this epidemic.
-
+Corona Virus is commonly called Covid-19. Corona virus is a very small but has spread throughout the world and has so far claimed the lives of most dangerous virus. The virus first affects the human respiratory system. Corona virus was first identified in December 2019 in Wuhan city of China. After that, millions of people were affected by the virus.The fear of the epidemic shook the whole world. It also had a devastating effect on the economy. To prevent epidemic it is recommended to wash your hands frequently, cover your face when coughing, use a mask, keep your distance from others. And stay completely apart.Together, we can stop the virus and keep everyone safe.
 
 ## 6. کورونا وائرس
 
-کورونا وائرس کو عام طور پر Covid-19 کہا جاتا ہے۔ کورونا وائرس بہت چھوٹا ہے لیکن پوری دنیا میں پھیل چکا ہے اور اب تک لاکھوں سے زیادہ لوگوں کی جان لے چکا ہے جو کہ سب سے خطرناک وائرس ہے۔ وائرس سب سے پہلے انسانی سانس کے نظام کو متاثر کرتا ہے۔ کورونا وائرس کی پہلی بار شناخت دسمبر 2019 میں چین کے شہر ووہان میں ہوئی۔ اس کے بعد لاکھوں لوگوں کا وائرس۔ وبا کے خوف نے پورے عالمی نظام کو ہلا کر رکھ دیا ہے۔ اس کا معیشت پر بھی تباہ کن اثر پڑا ہے۔ وبا کو روکنے کے لیے یہ تجویز کی جاتی ہے کہ کثرت سے اپنے ہاتھ دھوئیں، کھانستے وقت اپنے چہرے کو ڈھانپیں، ماسک استعمال کریں، دوسروں سے فاصلہ رکھیں اور مکمل طور پر الگ رہیں۔ ہمیں اس وبا سے نکلنے کے لیے فطرت کے مطابق زندگی گزارنی چاہیے۔
+کورونا وائرس کو عام طور پر Covid-19 کہا جاتا ہے۔ کورونا وائرس بہت چھوٹا ہے لیکن پوری دنیا میں پھیل چکا ہے اور اب تک لاکھوں سے زیادہ لوگوں کی جان لے چکا ہے جو کہ سب سے خطرناک وائرس ہے۔ وائرس سب سے پہلے انسانی سانس کے نظام کو متاثر کرتا ہے۔ کورونا وائرس کی پہلی بار شناخت دسمبر 2019 میں چین کے شہر ووہان میں ہوئی۔ اس کے بعد لاکھوں لوگ وائرس کا شکار ہو گئے  وبا کے خوف نے پورے عالمی نظام کو ہلا کر رکھ دیا ہے۔ اس کا معیشت پر بھی تباہ کن اثر پڑا ہے۔ وبا کو روکنے کے لیے یہ تجویز کی جاتی ہے کہ کثرت سے اپنے ہاتھ دھوئیں، کھانستے وقت اپنے چہرے کو ڈھانپیں، ماسک استعمال کریں، دوسروں سے فاصلہ رکھیں اور مکمل طور پر الگ رہیں۔ ہمیں اس وبا سے نکلنے کے لیے فطرت کے مطابق زندگی گزارنی چاہیے۔
 
 
 
