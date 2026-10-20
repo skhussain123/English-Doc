@@ -159,7 +159,7 @@ A computer is a very useful electronic machine. It helps us in many ways. We use
 
 ## 9. Road Traffic Accident
 
-Traffic rules are made for the safety of drivers and pedestrians alike, so it is important to follow them. Unfortunately, many people break these rules by jumping red lights, driving faster than the speed limit, and not wearing seat belts or helmets. Such carelessness puts lives in danger. We must ensure our utmost safety on the road, for ourselves, other drivers and pedestrians. Most road accidents are avoidable if people drive carefully and obey the rules. Every citizen should respect traffic laws and teach others to do the same. By following traffic rules, we can make our roads safe and save precious lives.
+Traffic rules are made for the safety of drivers and pedestrians alike, so it is important to follow them. Unfortunately, many people break these rules by jumping red lights, driving faster than the speed limit, and not wearing seat belts or helmets. Such carelessness puts lives in danger. We must ensure safety on the road for drivers, pedestrians, and ourselves. Most road accidents are avoidable if people drive carefully and obey the rules. Every citizen should respect traffic laws and teach others to do the same. By following traffic rules, we can make our roads safe and save precious lives.
 
 
 ## 9. روڈ ٹریفک ایکسیڈنٹ
