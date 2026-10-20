@@ -172,7 +172,7 @@ Traffic rules are made for the safety of drivers and pedestrians alike, so it is
 
 ## 10. Responsibility of Police
 
-The police are the backbone of a peaceful society. The main responsibility of the police is to protect the public, serve the community, and maintain law and order. Police officers detect and prevent crime and make sure people follow the law. In general duty, they carry out patrolling in assigned areas by car, on foot, by bicycle, or sometimes on horseback to keep the public safe and arrest criminal suspects. They also investigate accidents and crime scenes, secure evidence, interview witnesses, and prepare reports. In addition, police officers provide emergency help to victims of disasters, crimes, and accidents. police works is very difficult and risky, yet essential for peace and security. Every citizen should respect them.
+The police are the backbone of a peaceful society. The main responsibility of the police is to protect the public, serve the community, and maintain law and order. Police officers detect and prevent crime and make sure people follow the law. In general duty, they carry out patrolling in assigned areas by car, on foot, by bicycle, or sometimes on horseback to keep the public safe and arrest criminal suspects. They also investigate accidents and crime scenes, secure evidence, interview witnesses, and prepare reports. In addition, police officers provide emergency help to victims of disasters, crimes, and accidents. police works is very difficult and risky, yet important for peace and security. Every citizen should respect them.
 
 
 ## 10. پولیس کی ذمہ داریاں
