@@ -159,12 +159,12 @@ A computer is a very useful electronic machine. It helps us in many ways. We use
 
 ## 9. Road Traffic Accident
 
-Traffic rules are made for the safety of drivers and pedestrians alike, so it is important to follow them. Unfortunately, many people break these rules by jumping red lights, driving faster than the speed limit, and not wearing seat belts or helmets. Such carelessness puts lives in danger. We must ensure safety on the road for drivers, pedestrians, and ourselves. Most road accidents are avoidable if people drive carefully and follow the rules. Every citizen should respect traffic laws and teach others to do the same. By following traffic rules, we can make our roads safe and save precious lives.
+Traffic rules are made for the safety of drivers and pedestrians alike, so it is important to follow them. Unfortunately, many people break these rules by jumping red lights, driving faster than the speed limit, and not wearing seat belts or helmets. Such carelessness puts lives in danger. We must ensure safety on the road for drivers, pedestrians, and ourselves. Most road accidents are avoidable if people drive carefully and follow the rules. Every citizen should respect traffic laws and teach others to do the same. By following traffic rules, we can make our life safe and save precious lives.
 
 
 ## 9. روڈ ٹریفک ایکسیڈنٹ
 
-ٹریفک کے قوانین ڈرائیوروں اور پیدل چلنے والوں، دونوں کی حفاظت کے لیے بنائے گئے ہیں، اس لیے ان پر عمل کرنا ضروری ہے۔ افسوس کی بات ہے کہ بہت سے لوگ red light توڑ کر، رفتار کی حد سے تیز گاڑی چلا کر اور سیٹ بیلٹ یا ہیلمٹ نہ پہن کر ان قوانین کی خلاف ورزی کرتے ہیں۔ ایسی لاپروائی جانوں کو خطرے میں ڈال دیتی ہے۔ ہمیں سڑک پر اپنی، دوسرے ڈرائیوروں اور پیدل چلنے والوں کی حفاظت کو یقینی بنانا چاہیے۔ زیادہ تر سڑک حادثات سے بچا جا سکتا ہے اگر لوگ احتیاط سے گاڑی چلائیں اور قوانین کی پابندی کریں۔ ہر شہری کو ٹریفک قوانین کا احترام کرنا چاہیے اور دوسروں کو بھی اس کی تلقین کرنی چاہیے۔ ٹریفک قوانین پر عمل کر کے ہم اپنی سڑکوں کو محفوظ بنا سکتے ہیں اور قیمتی جانیں بچا سکتے ہیں۔
+ٹریفک کے قوانین ڈرائیوروں اور پیدل چلنے والوں، دونوں کی حفاظت کے لیے بنائے گئے ہیں، اس لیے ان پر عمل کرنا ضروری ہے۔ افسوس کی بات ہے کہ بہت سے لوگ red light توڑ کر، رفتار کی حد سے تیز گاڑی چلا کر اور سیٹ بیلٹ یا ہیلمٹ نہ پہن کر ان قوانین کی خلاف ورزی کرتے ہیں۔ ایسی لاپروائی جانوں کو خطرے میں ڈال دیتی ہے۔ ہمیں سڑک پر اپنی، دوسرے ڈرائیوروں اور پیدل چلنے والوں کی حفاظت کو یقینی بنانا چاہیے۔ زیادہ تر سڑک حادثات سے بچا جا سکتا ہے اگر لوگ احتیاط سے گاڑی چلائیں اور قوانین کی پابندی کریں۔ ہر شہری کو ٹریفک قوانین کا احترام کرنا چاہیے اور دوسروں کو بھی اس کی تلقین کرنی چاہیے۔ ٹریفک قوانین پر عمل کر کے ہم اپنی زندگی کو محفوظ بنا سکتے ہیں اور قیمتی جانیں بچا سکتے ہیں۔
 
 
 ## <hr>
