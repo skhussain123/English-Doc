@@ -172,12 +172,12 @@ Traffic rules are made for the safety of drivers and pedestrians alike, so it is
 
 ## 10. Responsibility of Police
 
-The police are the backbone of a peaceful society. Their main responsibility is to protect the public, serve the community, and maintain law and order. Police officers detect and prevent crime and make sure people follow the law. In general duty, they patrol assigned areas by car, on foot, by bicycle, or sometimes on horseback to keep the public safe and arrest criminal suspects. They also investigate accidents and crime scenes, secure evidence, interview witnesses, and prepare reports. In addition, police officers provide emergency help to victims of disasters, crimes, and accidents. Their work is difficult and risky, yet essential for peace and security. Every citizen should respect them.
+The police are the backbone of a peaceful society. The main responsibility of the police is to protect the public, serve the community, and maintain law and order. Police officers detect and prevent crime and make sure people follow the law. In general duty, they patrol assigned areas by car, on foot, by bicycle, or sometimes on horseback to keep the public safe and arrest criminal suspects. They also investigate accidents and crime scenes, secure evidence, interview witnesses, and prepare reports. In addition, police officers provide emergency help to victims of disasters, crimes, and accidents. Their work is difficult and risky, yet essential for peace and security. Every citizen should respect them.
 
 
 ## 10. پولیس کی ذمہ داریاں
+ولیس پرامن معاشرے کی بنیاد ہے۔ پولیس کی بنیادی ذمہ داری عوام کی حفاظت کرنا، کمیونٹی کی خدمت کرنا اور امن و امان برقرار رکھنا ہے۔ پولیس افسران جرائم کا سراغ لگاتے اور انہیں روکتے ہیں اور اس بات کو یقینی بناتے ہیں کہ لوگ قانون پر عمل کریں۔ عام ڈیوٹی میں وہ مقررہ علاقوں میں گاڑی، پیدل، سائیکل یا بعض اوقات گھوڑے پر گشت کرتے ہیں تاکہ عوام محفوظ رہیں اور مشتبہ مجرموں کو گرفتار کیا جا سکے۔ وہ حادثات اور جائے وقوعہ کی تفتیش کرتے ہیں، شواہد محفوظ کرتے ہیں، گواہوں سے پوچھ گچھ کرتے ہیں اور رپورٹیں تیار کرتے ہیں۔ اس کے علاوہ وہ آفات، جرائم اور حادثات کے متاثرین کو ہنگامی مدد فراہم کرتے ہیں۔ ان کا کام مشکل اور خطرناک ہے، مگر امن و سلامتی کے لیے ضروری ہے۔ ہر شہری کو ان کا احترام کرنا چاہیے۔
 
-پولیس پرامن معاشرے کی بنیاد ہے۔ ان کی بنیادی ذمہ داری عوام کی حفاظت کرنا، کمیونٹی کی خدمت کرنا اور امن و امان برقرار رکھنا ہے۔ پولیس افسران جرائم کا سراغ لگاتے اور انہیں روکتے ہیں اور اس بات کو یقینی بناتے ہیں کہ لوگ قانون پر عمل کریں۔ عام ڈیوٹی میں وہ مقررہ علاقوں میں گاڑی، پیدل، سائیکل یا بعض اوقات گھوڑے پر گشت کرتے ہیں تاکہ عوام محفوظ رہیں اور مشتبہ مجرموں کو گرفتار کیا جا سکے۔ وہ حادثات اور جائے وقوعہ کی تفتیش کرتے ہیں، شواہد محفوظ کرتے ہیں، گواہوں سے پوچھ گچھ کرتے ہیں اور رپورٹیں تیار کرتے ہیں۔ اس کے علاوہ وہ آفات، جرائم اور حادثات کے متاثرین کو ہنگامی مدد فراہم کرتے ہیں۔ ان کا کام مشکل اور خطرناک ہے، مگر امن و سلامتی کے لیے ضروری ہے۔ ہر شہری کو ان کا احترام کرنا چاہیے۔
 
 ## <hr>
 
