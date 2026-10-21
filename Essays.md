@@ -36,7 +36,7 @@
 
 ## 1. Punctuality (Waqt ki Pabandi)
 
-Punctuality means doing work on time and reaching places at the right time. It is a very good habit. A punctual person is always successful in life. Students who come to school on time learn more. Employees who reach office on time are respected by their bosses. If we waste time, we cannot get it back. Time is more valuable than money. Great people in history were always punctual. We should make a timetable and follow it. Being punctual shows that we respect others and ourselves. It helps us to achieve our goals easily. Everyone should learn the habit of punctuality from childhood.
+Punctuality means doing work on time and reaching places at the right time. It is a very good habit. A punctual person is more likely to be successful in life. Students who come to school on time learn more. Employees who reach the office on time are respected by their bosses. If we waste time, we cannot get it back. Time is more valuable than money. Many great people in history were punctual. We should make a timetable and follow it. Being punctual shows that we respect others and ourselves. It helps us to achieve our goals easily. Everyone should learn the habit of punctuality from childhood.
 
 ## 1. وقت کی پابندی
 
@@ -48,7 +48,7 @@ Punctuality means doing work on time and reaching places at the right time. It i
 
 ## 2. My Best Friend
 
-My best friend’s name is Ali. He is a kind, honest, and helpful person. We have a strong friendship based on trust and respect. We often spend time together, share our thoughts, and discuss our future goals. He always supports me in difficult situations and encourages me to work hard. We enjoy talking, walking, and playing games together. He respects others and always speaks the truth. I can share my problems with him without any fear. A true friend is a blessing in life. I feel lucky to have such a sincere friend. I hope our friendship lasts forever.
+My best friend is Ali. He is a kind, honest, and helpful person. We have a strong friendship based on trust and respect. We often spend time together, share our thoughts, and discuss our future goals. He always supports me during difficult times and encourages me to work hard. We enjoy talking, walking, and playing games. He respects others and always speaks the truth. I can share my problems with him without any fear. A true friend is a blessing in life. I feel lucky to have such a sincere friend. Ali is more than a friend; he is my family. I hope our friendship lasts forever.
 
 
 ## 2. میرا سب سے اچھا دوست
@@ -60,7 +60,7 @@ My best friend’s name is Ali. He is a kind, honest, and helpful person. We hav
 
 ## 3. Police (Why I Want to Join Sindh Police)
 
-The police play a vital role in the development of any country. Institutions are the backbone of a nation, and among them the police department is among the most important. In Pakistan, it works under the Home Department. Maintaining law and order and protecting the lives and property of citizens is its main duty. We do not hate people; we hate crime. Sindh Police is a respected and valuable department. Joining it is my greatest dream and ambition. I want to serve my country and my people through Sindh Police, and My parents want me to wear a police uniform. I am ready to sacrifice my life for my Country.
+The police play a vital role in the development of any country. Institutions are the backbone of a nation, and the police department is one of the most important among them. In Pakistan, the police work under the Home Department. Their main duty is to maintain law and order and protect the lives and property of citizens. We do not hate criminals; we hate crime. The Sindh Police is a respected and valuable department. Joining it is my greatest dream and ambition. I want to serve my country and my people through the Sindh Police, and my parents also want to see me in a police uniform. I am ready to sacrifice my life for my country.
 
 
 # 3. آپ سندھ پولیس کیوں جوائن کرنا چاہتے ہو
@@ -73,19 +73,21 @@ The police play a vital role in the development of any country. Institutions are
 
 ## 4. The Pakistan Super League (PSL)
 
-The Pakistan Super League (PSL) is a professional T20 cricket league in Pakistan. It is organized by the Pakistan Cricket Board (PCB). The league started in 2016 with five teams. In 2018, Multan Sultans joined the league, making six teams. In 2026, two new teams, Hyderabad Kingsmen and Rawalpindiz, joined the PSL. Now, there are eight teams.
+The Pakistan Super League (PSL) is a professional T20 cricket league in Pakistan. It is organized by the Pakistan Cricket Board (PCB). The league started in 2016 with five teams. In 2018, the Multan Sultans joined the league, bringing the total to six teams. In 2026, two new teams, the Hyderabad Kingsmen and Rawalpindiz, joined the PSL. Now, there are eight teams.
 
 The eight teams are:
-1. Hyderabad Kingsmen
-2. Islamabad United
-3. Karachi Kings
-4. Lahore Qalandars
-5. Multan Sultans
-6. Peshawar Zalmi
-7. Quetta Gladiators
-8. Rawalpindiz
 
-The PSL is played every year. Teams compete to win the trophy. The current defending champions are Peshawar Zalmi, who won the 2026 season by defeating Hyderabad Kingsmen in the final.
+Hyderabad Kingsmen
+Islamabad United
+Karachi Kings
+Lahore Qalandars
+Multan Sultans
+Peshawar Zalmi
+Quetta Gladiators
+Rawalpindiz
+
+The PSL is played every year, and the teams compete to win the trophy. The defending champions are Peshawar Zalmi, who won the 2026 season by defeating the Hyderabad Kingsmen in the final.
+
 
 
 ## 4. The Pakistan Super League (PSL)
@@ -109,7 +111,7 @@ The PSL is played every year. Teams compete to win the trophy. The current defen
 
 ## 5. Education
 
-Education is very important for every person and every nation. It teaches us how to think, how to speak, and how to live in society. An educated person can understand his rights and duties. Education also helps people get good jobs and earn an honest living. A country with more educated people moves faster progress. It removes poverty, crime, and ignorance from society. Education is not only about books. It also teaches us good manners, discipline, and respect for others. Our religion Islam also gives great importance to knowledge. Therefore, every child, boy or girl, must go to school. We should work together to make education available to everyone in Pakistan.
+Education is very important for every person and every nation. It teaches us how to think, how to speak, and how to live in society. An educated person can understand their rights and duties. Education also helps people get good jobs and earn an honest living. A country with more educated people progresses faster. Education helps remove poverty, crime, and ignorance from society. It is not only about books. It also teaches us good manners, discipline, and respect for others. Our religion, Islam, also gives great importance to knowledge. Therefore, every child, whether a boy or a girl, must go to school. We should work together to make education available to everyone in Pakistan.
 
 ## 5. تعلیم
 
@@ -121,7 +123,8 @@ Education is very important for every person and every nation. It teaches us how
 
 ## 6. Corona Virus
 
-Corona Virus is commonly called Covid-19. Corona virus is a very small but has spread throughout the world and has so far claimed the lives of most dangerous virus. The virus first affects the human respiratory system. Corona virus was first identified in December 2019 in Wuhan city of China. After that, millions of people were affected by the virus.The fear of the epidemic shook the whole world. It also had a devastating effect on the economy. To prevent epidemic it is recommended to wash your hands frequently, cover your face when coughing, use a mask, keep your distance from others. And stay completely apart.Together, we can stop the virus and keep everyone safe.
+The coronavirus is commonly called COVID-19. It is a very small virus, but it has spread throughout the world and has claimed millions of lives, making it one of the most dangerous viruses in recent history. The virus first affects the human respiratory system. It was first identified in December 2019 in the city of Wuhan, China. After that, millions of people were infected. The fear of the pandemic shook the whole world, and it also had a devastating effect on the economy. To prevent the spread of the virus, it is recommended to wash your hands frequently, cover your face when coughing, wear a mask, and keep your distance from others. Together, we can stop the virus and keep everyone safe.
+
 
 ## 6. کورونا وائرس
 
@@ -134,7 +137,8 @@ Corona Virus is commonly called Covid-19. Corona virus is a very small but has s
 
 ## 7. My Favorite Place
 
-My most favorite place is the seaside. Whenever I go there, I feel completely relaxed and happy. The sound of waves, the cool breeze, and the open sky make me forget my all worries. I love sitting on the sand and watching the sunset. The orange and pink colours in the sky look magical. Sometimes I walk along the shore and collect small shells. I also enjoy eating roasted corn and drinking cold drinks near the beach. This place gives me peace and energy at the same time. Whenever I feel stressed, I want to go to the seaside. It is not just a place for me; it is my favourite escape from the busy life.
+My favourite place is the seaside. Whenever I go there, I feel completely relaxed and happy. The sound of waves, the cool breeze, and the open sky make me forget all my worries. I love sitting on the sand and watching the sunset. The orange and pink colours in the sky look magical. Sometimes I walk along the shore and collect small shells. I also enjoy eating roasted corn and drinking cold drinks near the beach. This place gives me peace and energy at the same time. Whenever I feel stressed, I want to go to the seaside. It is not just a place for me; it is my favourite escape from the busy life.
+
 
 ## 7. میری پسندیدہ جگہ
 
@@ -147,8 +151,7 @@ My most favorite place is the seaside. Whenever I go there, I feel completely re
 
 ## 8. COMPUTER
 
-A computer is a very useful electronic machine. It helps us in many ways. We use computers in offices, schools, banks, hospitals and homes. Computers work very fast and do not make mistakes if we give them correct information. They can store a lot of data safely. A computer never gets tired and can work for long hours. Students use computers to study and do their homework. People use computers to send messages, watch videos and search for information on the internet. Today, life without a computer is very difficult. It is one of the most important inventions for human beings.
-
+A computer is a very useful electronic machine. It helps us in many ways. We use computers in offices, schools, banks, hospitals, and homes. Computers work very fast and do not make mistakes if we give them correct instructions. They can store a lot of data safely. A computer never gets tired and can work for long hours. Students use computers to study and do their homework. People use computers to send messages, watch videos, and search for information on the internet. Today, it is difficult to imagine life without computers. It is one of the most important inventions for human beings.
 
 ## 8. کمپیوٹر
 
@@ -159,7 +162,7 @@ A computer is a very useful electronic machine. It helps us in many ways. We use
 
 ## 9. Road Traffic Accident
 
-Traffic rules are made for the safety of drivers and pedestrians alike, so it is important to follow them. Unfortunately, many people break these rules by jumping red lights, driving faster than the speed limit, and not wearing seat belts or helmets. Such carelessness puts lives in danger. We must ensure safety on the road for drivers, pedestrians, and ourselves. Most road accidents are avoidable if people drive carefully and follow the rules. Every citizen should respect traffic laws and teach others to do the same. By following traffic rules, we can make our life safe and save precious lives.
+Traffic rules are made for the safety of drivers and pedestrians alike, so it is important to follow them. Unfortunately, many people break these rules by jumping red lights, exceeding the speed limit, and not wearing seat belts or helmets. Such carelessness puts lives in danger. We must ensure safety on the road for everyone. Most road accidents are avoidable if people drive carefully and follow the rules. Every citizen should respect traffic laws and teach others to do the same. By following traffic rules, we can make our lives safe and save precious lives. Safe driving is a duty, not a choice, for everyone.
 
 
 ## 9. روڈ ٹریفک ایکسیڈنٹ
@@ -172,7 +175,7 @@ Traffic rules are made for the safety of drivers and pedestrians alike, so it is
 
 ## 10. Responsibility of Police
 
-The police are the backbone of a peaceful society. The main responsibility of the police is to protect the public, serve the community, and maintain law and order. Police officers detect and prevent crime and make sure people follow the law. In general duty, they carry out patrolling in assigned areas by car, on foot, by bicycle, or sometimes on horseback to keep the public safe and arrest criminal suspects. They also investigate accidents and crime scenes, secure evidence, interview witnesses, and prepare reports. In addition, police officers provide emergency help to victims of disasters, crimes, and accidents. police works is very difficult and risky, yet important for peace and security. Every citizen should respect them.
+The police are the backbone of a peaceful society. The main responsibility of the police is to protect the public, serve the community, and maintain law and order. Police officers detect and prevent crime and make sure people follow the law. In general duty, they patrol assigned areas by car, on foot, by bicycle, or sometimes on horseback to keep the public safe and arrest criminal suspects. They also investigate accidents and crime scenes, secure evidence, interview witnesses, and prepare reports. In addition, police officers provide emergency help to victims of disasters, crimes, and accidents. Police work is very difficult and risky, yet important for peace and security. Every citizen should respect them.
 
 
 ## 10. پولیس کی ذمہ داریاں
@@ -185,8 +188,7 @@ The police are the backbone of a peaceful society. The main responsibility of th
 
 ## 11. CRICKET
 
-Cricket is the mainstay of our life. The favorite sport of most people is Cricket. Cricket also entertains us and makes our health good too. It was considered a "Royal Game" when the game was first introduced. Cricket is played between two groups of players. Both teams have 11 players each. This game is played with the help of bat, ball and wicket (stumps) in the open field. In today's life, cricket has many different types of categories, like One Day, T20, Test Matches, International championships, etc. The team to score most runs in the game will be victorious. Currently, cricket is the most popular sport in countries like Pakistan, India, England, and West Indies.
-
+Cricket is an important part of our lives. It is the favorite sport of most people. Cricket entertains us and keeps us healthy. When it was first introduced, it was considered a “royal game.” Cricket is played between two teams, and each team has 11 players. It is played with a bat, a ball, and wickets (stumps) in an open field. Today, cricket has many formats, such as One Day, T20, Test matches, and international championships. The team that scores the most runs wins the match. Currently, cricket is the most popular sport in countries like Pakistan, India, and England.
 
 ## 11. کرکٹ
 
@@ -197,7 +199,7 @@ Cricket is the mainstay of our life. The favorite sport of most people is Cricke
 
 ## 12. My Country
 
-The name of my country is Pakistan. It is situated in the Asian Subcontinent. My country is very beautiful. It has beautiful lakes, mountains, valleys, and rivers. It has four provinces namely Punjab, Sindh, Baluchistan, and KPK. Punjab is the biggest province according to population. The capital of Pakistan is Islamabad which is a beautiful city. The national language of Pakistan is Urdu and it is spoken all over the country. Pakistan is the only Muslim country which has attained atomic power. I love my country which is full of natural beauty. The people of Pakistan are very brave and cooperative. The forces of Pakistan are known for their bravery and valor throughout the world.
+The name of my country is Pakistan. It is situated in the South Asian subcontinent. My country is very beautiful. It has lovely lakes, mountains, valleys, and rivers. It has four provinces, namely Punjab, Sindh, Balochistan, and Khyber Pakhtunkhwa. Punjab is the largest province by population. The capital of Pakistan is Islamabad, which is a beautiful city. The national language of Pakistan is Urdu, which is spoken all over the country. Pakistan is the only Muslim country to have become a nuclear power. I love my country, which is full of natural beauty. The people of Pakistan are very brave and cooperative. The armed forces of Pakistan are known throughout the world for their bravery and valour.
 
 ## 12. # میرا ملک
 
@@ -209,7 +211,8 @@ The name of my country is Pakistan. It is situated in the Asian Subcontinent. My
 
 ## 13. # SHAH ABDUL LATIF BHITAI
 
-Shah Abdul Latif Bhitai, the great Sufi saint and poet of Sindh, is lovingly called Lal Latif by his devotees. He was born in 1102 Hijri in a small village called Hala Haveli. His father's name was Syed Habib Shah. He was a very sensitive person, and his heart was soon filled with the love of God. He spent the last part of his life on a "Bhit", which means a mound of sand, so he is called Bhitai. He was a saint, mystic, poet and musician. His poetry collection, "Shah Jo Risalo", has been translated into many languages. His message is love. His shrine is on the Bhit, where his Urs is held on 14th Safar every year.
+Shah Abdul Latif Bhitai, the great Sufi saint and poet of Sindh, is lovingly called Lal Latif by his devotees. He was born in 1102 AH (Hijri) in a small village called Hala Haveli. His father’s name was Syed Habib Shah. Shah Latif was a very sensitive person, and his heart was soon filled with the love of God. He spent the last years of his life on a “Bhit”, which means a mound of sand, which is why he is called Bhitai. He was a saint, mystic, poet, and musician. His poetry collection, “Shah Jo Risalo”, has been translated into many languages. His message is love. His shrine is on the Bhit, where his Urs is held on the 14th of Safar every year.
+
 
 
 ## 13. # شاہ عبداللطیف بھٹائی
@@ -221,7 +224,8 @@ Shah Abdul Latif Bhitai, the great Sufi saint and poet of Sindh, is lovingly cal
 
 ## 14. HEALTH IS WEALTH
 
-Health is wealth. A fit body is one that is disease-free and active. There are several ways by which one can acquire fitness, among them running, swimming, exercising, doing yoga, maintaining a disciplined life, cleanliness, a healthy diet, etc. play a significant role. Health is such a luxury that not everyone is granted easily. Being unhealthy will automatically drain your money for paying the doctors, buying medicines, paying for hospital bills, etc. Therefore if you have good health, then you can earn your riches. Two kinds of people exist on earth, one who are very conscious about their health and work hard to keep it fit, and the others are the basic couch potatoes who are lazier than a sloth.
+Health is wealth. A fit body is one that is disease-free and active. There are several ways to stay fit. Running, swimming, exercising, doing yoga, maintaining a disciplined life, cleanliness, and a healthy diet all play a significant role. Good health is a blessing that not everyone enjoys easily. Being unhealthy will drain your savings through doctors’ fees, medicines, hospital bills, and more. Therefore, if you have good health, you can earn a good living. There are two kinds of people in the world: those who are very conscious about their health and work hard to stay fit, and couch potatoes who are lazier than a sloth.
+
 
 ## 14. # صحت دولت ہے
 
@@ -233,7 +237,7 @@ Health is wealth. A fit body is one that is disease-free and active. There are s
 
 ## 15. Allama Iqbal
 
-Allama Muhammad Iqbal was a great poet, philosopher and the national poet of Pakistan. He was born on 9th November 1877 in Sialkot. Iqbal received his early education in Sialkot and later went to Europe for higher studies. He is famous for his poetry in Urdu and Persian. Through his poetry, he awakened the Muslims of the subcontinent and gave the idea of a separate Muslim state. His famous books include Bang-e-Dra, Bal-e-Jibril and Zarb-e-Kalim. He is also known as Mufakkir-e-Pakistan (The Thinker of Pakistan). Allama Iqbal died on 21st April 1938 in Lahore. His poetry still inspires millions of people.
+Allama Muhammad Iqbal was a great poet and philosopher, and the national poet of Pakistan. He was born on 9 November 1877 in Sialkot. Iqbal received his early education in Sialkot and later went to Europe for higher education. He is famous for his poetry in Urdu and Persian. Through his poetry, he awakened the Muslims of the subcontinent and gave the idea of a separate Muslim state. His famous poetry collections include Bang-e-Dra, Bal-e-Jibril, and Zarb-e-Kalim. He is also known as Mufakkir-e-Pakistan (the Thinker of Pakistan). Allama Iqbal died on 21 April 1938 in Lahore. His poetry still inspires millions of people.
 
 
 ## 15. علامہ اقبال
@@ -247,7 +251,7 @@ Allama Muhammad Iqbal was a great poet, philosopher and the national poet of Pak
 
 ## 16. Corruption
 
-Corruption is a big problem in our society. It means taking bribes or using power in the wrong way for personal benefit. Corruption is found in many places like government offices, police stations, hospitals and schools. Because of corruption, poor people suffer a lot and the rich become richer. It stops the progress of the country. Honest people lose trust in the system. To stop corruption, we must follow rules, become honest and raise our voice against it. If everyone becomes honest, our country will progress fast. Corruption is like a disease that must be removed for a better future.
+Corruption is a big problem in our society. It means taking bribes or misusing power for personal gain. Corruption is found in many places, like government offices, police stations, hospitals, and schools. Because of corruption, poor people suffer a lot and the rich get richer. Corruption slows down the progress of the country. Honest people lose trust in the system. To stop corruption, we must follow the rules, be honest, and raise our voice against it. If everyone becomes honest, our country will progress quickly. Corruption is like a disease that must be removed for a better future.
 
 ## 16. کرپشن
 
@@ -259,7 +263,8 @@ Corruption is a big problem in our society. It means taking bribes or using powe
 
 ## 17. Quaid-e-Azam Muhammad Ali Jinnah
 
-Quaid-e-Azam Muhammad Ali Jinnah was the founder of our country. Quaid-e-Azam Muhammad Ali Jinnah was born in Karachi on 25th December 1876. Quaid-e-Azam Muhammad Ali Jinnah got early education in Sindh Madrasa Karachi. Quaid-e-Azam Muhammad Ali Jinnah went to England for higher education. On his return he started his practice as a lawyer first in Karachi and then in Bombay. He loved his country and his country’s people dearly. He worked day and night for the betterment of Pakistan. He succeeded in his struggle and got Pakistan, a separate homeland for the Muslims of India in 1947. Quaid-e-Azam Muhammad Ali Jinnah became the first Governor General of Pakistan. Quaid-e-Azam Muhammad Ali Jinnah died on 11th September 1948. His tomb is in Karachi.
+Quaid-e-Azam Muhammad Ali Jinnah was the founder of our country. He was born in Karachi on 25 December 1876. He received his early education at Sindh Madrasa in Karachi and later went to England for higher education. On his return, he started his practice as a lawyer, first in Karachi and later in Bombay. He loved his country and its people dearly. He worked day and night for the betterment of Pakistan. He succeeded in his struggle and achieved Pakistan, a separate homeland for the Muslims of the subcontinent, in 1947. He became the first Governor General of Pakistan. He died on 11 September 1948. His mausoleum is in Karachi.
+
 
 ## 17. قائداعظم محمد علی جناح
 
@@ -270,7 +275,8 @@ Quaid-e-Azam Muhammad Ali Jinnah was the founder of our country. Quaid-e-Azam Mu
 <a id="sachal-sarmast"></a>
 
 ## 18. Sachal Sarmast
-Sachal Sarmast was a great Sufi poet of Sindh. His real name was Abdul Wahab, and he was born in 1739 in Daraza Sharif, near Khairpur. He wrote poetry in many languages, including Sindhi, Siraiki, Urdu, Persian, Arabic and Punjabi. The word “Sachal” means truthful, and “Sarmast” means one intoxicated with divine love. His poetry spreads the message of love, peace, tolerance and humanity, and it rejects hatred and religious divisions. People of every faith respect him. He passed away in 1829, and his shrine is in Daraza Sharif, where a large Urs is held every year.
+Sachal Sarmast was a great Sufi poet of Sindh. His real name was Abdul Wahab, and he was born in 1739 in Daraza Sharif, near Khairpur. He wrote poetry in many languages, including Sindhi, Siraiki, Urdu, Persian, Arabic, and Punjabi. The word “Sachal” means truthful, and “Sarmast” means someone intoxicated with divine love. His poetry spreads the message of love, peace, tolerance, and humanity, and it rejects hatred and religious divisions. He is respected by people of every faith. He passed away in 1829, and his shrine is in Daraza Sharif, where a large Urs (an annual festival marking his death anniversary) is held every year.
+
 
 ## 18. سچل سرمست
 
@@ -282,7 +288,7 @@ Sachal Sarmast was a great Sufi poet of Sindh. His real name was Abdul Wahab, an
 
 ## 19. My Aim of Life
 
-An aim in life is very necessary to achieve everything, and having an aim is a must. I want to become a policeman. The police are a very important government employee. He maintains peace and order in society. He is a source of terror for the enemies of society. The police protect the lives and property of the public, government officers and ordinary people. A policeman wears a khaki pant and a black shirt. He has a black cap on his head. A black leather belt is fastened around his waist. During duty he has a stick or a gun, and he performs his duty with complete honesty. A policeman is an important public and government servant. I pray to Allah Almighty to help me in my aim. Ameen.
+Having an aim in life is very necessary to achieve anything. I want to become a policeman. A policeman is a very important government employee. He maintains peace and order in society and is a source of fear for criminals. The police protect the lives and property of the public, including government officers and ordinary citizens. A policeman wears khaki trousers and a black shirt. He wears a black cap on his head, and a black leather belt is fastened around his waist. While on duty, he carries a stick or a gun, and he performs his duty with complete honesty. A policeman is an important public servant. I pray to Allah Almighty to help me achieve my aim. Ameen.
 
 ## 19. میرا مقصدِ زندگی
 
@@ -294,7 +300,7 @@ An aim in life is very necessary to achieve everything, and having an aim is a m
 
 ## 20. National Game / My Favourite Game
 
-Hockey is the national game of our beloved country, Pakistan. It is an outdoor game played in an open field between two teams. Each team has 11 players, who use sticks to hit a ball and score goals. It is my favourite game, and I like playing it very much. Hockey is one of the most popular games in the world. It teaches us teamwork, discipline and fitness. Pakistan has won the Hockey World Cup four times, in 1971, 1978, 1982 and 1994, which makes us proud. Our hockey team wears green and white and represents the nation with pride.
+Hockey is the national game of our beloved country, Pakistan. It is played outdoors between two teams. Each team has 11 players, who use sticks to hit the ball into the opponent’s goal. It is my favourite game, and I enjoy playing it very much. Hockey is one of the most popular sports in the world. It teaches us teamwork, discipline, and fitness. Pakistan has won the Hockey World Cup four times, in 1971, 1978, 1982, and 1994, which makes us proud. Our hockey team wears green and white jerseys and represents the nation with pride.
 
 
 ## 20. قومی کھیل / میرا پسندیدہ کھیل
