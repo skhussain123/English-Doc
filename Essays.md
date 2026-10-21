@@ -211,13 +211,13 @@ The name of my country is Pakistan. It is situated in the South Asian subcontine
 
 ## 13. # SHAH ABDUL LATIF BHITAI
 
-Shah Abdul Latif Bhitai, the great Sufi saint and poet of Sindh, is lovingly called Lal Latif by his devotees. He was born in 1102 AH (Hijri) in a small village called Hala Haveli. His father’s name was Syed Habib Shah. Shah Latif was a very sensitive person. He spent the last years of his life on a “Bhit”, which means a mound of sand, which is why he is called Bhitai. He was a saint, mystic, poet, and musician. His poetry collection, “Shah Jo Risalo”, has been translated into many languages. His message is love. His shrine is on the Bhit, where his Urs is held on the 14th of Safar every year.
+Shah Abdul Latif Bhitai, the great Sufi saint and poet of Sindh, is lovingly called Lal Latif by his devotees. He was born in 1102 AH (Hijri) in a small village called Hala Haveli. His father’s name was Syed Habib Shah. Shah Latif was a very sensitive person. He spent the last years of his life on a “Bhit”, which means a mound of sand,So, he is known as Bhitai.He was a saint, mystic, poet, and musician. His poetry collection, “Shah Jo Risalo”, has been translated into many languages. His message is love. His shrine is on the Bhit, where his Urs is held on the 14th of Safar every year.
 
 
 
 ## 13. # شاہ عبداللطیف بھٹائی
 
-شاہ عبداللطیف بھٹائی، سندھ کے عظیم صوفی بزرگ اور شاعر، اپنے عقیدت مندوں میں پیار سے "لعل لطیف" کے نام سے پکارے جاتے ہیں۔ وہ 1102 ہجری میں ہالا حویلی نامی ایک چھوٹے سے گاؤں میں پیدا ہوئے۔ ان کے والد کا نام سید حبیب شاہ تھا۔ شاہ لطیف نہایت حساس طبیعت کے مالک تھے۔ انہوں نے اپنی زندگی کے آخری سال "بھٹ" پر گزارے، جس کا مطلب ریت کا ٹیلا ہے، اسی لیے وہ "بھٹائی" کہلاتے ہیں۔ وہ ولی، صوفی، شاعر اور موسیقار تھے۔ ان کا شعری مجموعہ "شاہ جو رسالو" کئی زبانوں میں ترجمہ ہو چکا ہے۔ ان کا پیغام محبت ہے۔ ان کا مزار بھٹ پر واقع ہے، جہاں ہر سال 14 صفر کو ان کا عرس منایا جاتا ہے۔
+شاہ عبداللطیف بھٹائی، سندھ کے عظیم صوفی بزرگ اور شاعر، اپنے عقیدت مندوں میں پیار سے "لعل لطیف" کے نام سے پکارے جاتے ہیں۔ وہ 1102 ہجری میں ہالا حویلی نامی ایک چھوٹے سے گاؤں میں پیدا ہوئے۔ ان کے والد کا نام سید حبیب شاہ تھا۔ شاہ لطیف نہایت حساس طبیعت کے مالک تھے۔ انہوں نے اپنی زندگی کے آخری سال "بھٹ" پر گزارے، جس کا مطلب ریت کا ٹیلا ہے، لہذا، وہ بھٹائی کے طور پر جانا جاتا ہے. وہ ولی، صوفی، شاعر اور موسیقار تھے۔ ان کا شعری مجموعہ "شاہ جو رسالو" کئی زبانوں میں ترجمہ ہو چکا ہے۔ ان کا پیغام محبت ہے۔ ان کا مزار بھٹ پر واقع ہے، جہاں ہر سال 14 صفر کو ان کا عرس منایا جاتا ہے۔
 
 ## <hr>
 
