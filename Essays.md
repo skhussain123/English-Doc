@@ -287,11 +287,10 @@ Sachal Sarmast was a great Sufi poet of Sindh. His real name was Abdul Wahab, an
 
 ## 19. My Aim of Life
 
-Having an aim in life is very necessary to achieve anything. I want to become a policeman. A policeman is a very important government employee. He maintains peace and order in society and is a source of fear for criminals. The police protect the lives and property of the public, including government officers and ordinary citizens. A policeman wears khaki trousers and a black shirt. He wears a black cap on his head, and a black leather belt is fastened around his waist. While on duty, he carries a stick or a gun, and he performs his duty with complete honesty. A policeman is an important public servant. I pray to Allah Almighty to help me achieve my aim. Ameen.
+Every person should have a clear aim in life, because without a goal, life has no direction. My aim of life is to become a member of the jail police and serve my country with honesty and courage. I want to help maintain law, order, and discipline inside prisons. This job gives me the chance to protect society by guarding prisoners and preventing crime. It also allows me to treat inmates fairly and help them reform. To achieve my aim, I am working hard, staying fit, and building discipline and punctuality. I believe that with sincere effort and the blessings of Allah, I will succeed. Serving my nation in this field is my dream.
 
 ## 19. میرا مقصدِ زندگی
-
-زندگی میں مقصد ہونا بہت ضروری ہے، اور ہر چیز حاصل کرنے کے لیے مقصد کا ہونا لازمی ہے۔ میں پولیس والا بننا چاہتا ہوں۔ پولیس والا ایک بہت اہم سرکاری ملازم ہے۔ وہ معاشرے میں امن و امان برقرار رکھتا ہے۔ وہ معاشرے کے دشمنوں کے لیے دہشت کی علامت ہے۔ پولیس والے عام عوام اور سرکاری افسران کی جان و مال کی حفاظت کرتے ہیں۔ پولیس والا خاکی پینٹ اور کالی قمیص پہنتا ہے۔ اس کے سر پر کالی ٹوپی ہوتی ہے۔ کمر پر چمڑے کی کالی بیلٹ بندھی ہوتی ہے۔ ڈیوٹی کے دوران اس کے پاس ڈنڈا یا بندوق ہوتی ہے اور وہ اپنا فرض پوری ایمانداری سے انجام دیتا ہے۔ پولیس والا ایک اہم عوامی اور سرکاری ملازم ہے۔ اللہ پاک سے دعا ہے کہ وہ میرے مقصد میں میری مدد فرمائے۔ آمین۔
+ہر انسان کا زندگی میں ایک واضح مقصد ہونا چاہیے، کیونکہ مقصد کے بغیر زندگی بے سمت ہو جاتی ہے۔ میرا مقصدِ حیات جیل پولیس کا حصہ بننا اور ایمانداری اور بہادری کے ساتھ اپنے ملک کی خدمت کرنا ہے۔ میں جیلوں میں امن و امان اور نظم و ضبط قائم رکھنے میں مدد کرنا چاہتا ہوں۔ یہ نوکری مجھے قیدیوں کی نگرانی اور جرائم کی روک تھام کے ذریعے معاشرے کی حفاظت کا موقع دیتی ہے۔ اس کے ذریعے میں قیدیوں سے منصفانہ سلوک کر کے ان کی اصلاح میں بھی مدد کر سکتا ہوں۔ اپنا مقصد حاصل کرنے کے لیے میں محنت کر رہا ہوں، خود کو فٹ رکھ رہا ہوں اور نظم و ضبط اور وقت کی پابندی اپنا رہا ہوں۔ مجھے یقین ہے کہ سچی کوشش اور اللہ کی مدد سے میں کامیاب ہوں گا۔ اس شعبے میں اپنے وطن کی خدمت کرنا میرا خواب ہے۔
 
 ## <hr>
 
@@ -358,11 +357,10 @@ The national game of Pakistan is hockey. It is an exciting sport played with a s
 
 ## 25. My Hobby
 
-My hobby is cricket. I play it with my friends in the park every evening. We run, hit the ball, bowl and have a lot of fun together. Watching cricket on TV is enjoyable too. I like it because it makes me happy and healthy. Cricket teaches me teamwork, patience and discipline. It keeps my body active and makes me smile. I enjoy every moment of playing and cheering for my team. My favourite team is the Pakistan cricket team, and my favourite moment is when our players win a match for the country. Cricket is truly the best hobby for me.
+My hobby is running and exercise. Every morning I wake up early and run for thirty minutes. This hobby keeps my body healthy and my mind fresh. It has also taught me discipline, patience, and punctuality. Through regular practice, I have learned that hard work always brings success. My hobby is not just a pastime, it is also part of my preparation for my aim in life. I want to join the jail police and serve my country with honesty and courage. A strong body and a disciplined mind are very important for this job. I enjoy my hobby and I will continue it throughout my life.
 
 ## 25. میرا شوق (کرکٹ)
-
-میرا شوق کرکٹ ہے۔ میں ہر شام اپنے دوستوں کے ساتھ پارک میں کھیلتا ہوں۔ ہم دوڑتے ہیں، گیند کو مارتے ہیں، باؤلنگ کرتے ہیں اور مل کر بہت مزہ کرتے ہیں۔ ٹی وی پر کرکٹ دیکھنا بھی بہت اچھا لگتا ہے۔ مجھے یہ اس لیے پسند ہے کیونکہ یہ مجھے خوش اور صحت مند رکھتی ہے۔ کرکٹ مجھے ٹیم ورک، صبر اور نظم و ضبط سکھاتی ہے۔ یہ میرے جسم کو متحرک رکھتی ہے اور مجھے مسکرانے پر مجبور کرتی ہے۔ مجھے کھیلنے اور اپنی ٹیم کی حوصلہ افزائی کرنے کا ہر لمحہ پسند ہے۔ میری پسندیدہ ٹیم پاکستان کرکٹ ٹیم ہے، اور میرا پسندیدہ لمحہ وہ ہوتا ہے جب ہمارے کھلاڑی ملک کے لیے میچ جیتتے ہیں۔ کرکٹ واقعی میرے لیے سب سے بہترین شوق ہے۔
+میرا شوق دوڑ اور ورزش ہے۔ میں ہر صبح جلدی اٹھ کر تیس منٹ دوڑتا ہوں۔ یہ شوق میرے جسم کو صحت مند اور ذہن کو تازہ رکھتا ہے۔ اس نے مجھے نظم و ضبط، صبر اور وقت کی پابندی بھی سکھائی ہے۔ مسلسل مشق سے میں نے سیکھا ہے کہ محنت ہمیشہ کامیابی دیتی ہے۔ میرا شوق صرف وقت گزاری نہیں بلکہ زندگی کے مقصد کی تیاری بھی ہے۔ میں جیل پولیس میں شامل ہو کر ایمانداری اور بہادری سے ملک کی خدمت کرنا چاہتا ہوں۔ اس کام کے لیے مضبوط جسم اور منظم ذہن بہت ضروری ہیں۔ مجھے اپنا شوق پسند ہے اور میں اسے ہمیشہ جاری رکھوں گا۔
 
 ## <hr>
 
