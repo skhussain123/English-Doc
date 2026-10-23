@@ -237,7 +237,7 @@ Health is wealth. A fit body is one that is disease-free and active. There are s
 
 ## 15. Allama Iqbal
 
-Allama Muhammad Iqbal was a great poet and philosopher, and the national poet of Pakistan. He was born on 9 November 1877 in Sialkot. Iqbal received his early education in Sialkot and later went to Europe for higher education. He is famous for his poetry in Urdu and Persian. Through his poetry, he awakened the Muslims of the subcontinent and gave the idea of a separate Muslim state. His famous poetry collections include Bang-e-Dra, Bal-e-Jibril, and Zarb-e-Kalim. He is also known as Mufakkir-e-Pakistan (the Thinker of Pakistan). Allama Iqbal died on 21 April 1938 in Lahore. His poetry still inspires millions of people.
+Allama Muhammad Iqbal was a great poet and philosopher, and the national poet of Pakistan. He was born on 9 November 1877 in Sialkot. Iqbal received his early education in Sialkot and later went to Europe for higher education. He is famous for his poetry in Urdu and Persian. Through his poetry, he awakened the Muslims of the subcontinent and gave the idea of a separate Muslim state. His famous poetry collections include Bang-e-Dra, Bal-e-Jibril, and Zarb-e-Kalim. He is also known as Mufakkir-e-Pakistan (the Thinker of Pakistan). Allama Iqbal died on 21 April 1938 in Lahore. Iqbal poetry still inspires millions of people.
 
 
 ## 15. علامہ اقبال
