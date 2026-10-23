@@ -3,14 +3,13 @@
 1. [Punctuality](#punctuality)
 2. [My Best Friend](#my-best-friend)
 3. [Jail Police” / “Why Join Jail Police](#jailpolice)
-5.  [Responsibilities Jail Police](#responsbbilityjailpoilce) 
-4. [The Pakistan Super League (PSL)](#psl)
-5. [Education](#education)
-6. [Corona Virus](#corona-virus)
-7. [My Favorite Place](#my-favorite-place)
-8. [COMPUTER](#computer)
-9. [Road Traffic Accident](#road-traffic-accident)
-<!-- 10. [Responsibility of Police](#responsibility-of-police) -->
+4.  [Responsibilities Jail Police](#responsbbilityjailpoilce) 
+5. [The Pakistan Super League (PSL)](#psl)
+6. [Education](#education)
+7. [Corona Virus](#corona-virus)
+8. [My Favorite Place](#my-favorite-place)
+9. [COMPUTER](#computer)
+10. [Road Traffic Accident](#road-traffic-accident)
 11. [CRICKET](#cricket)
 12. [My Country](#my-country)
 13. [SHAH ABDUL LATIF BHITAI](#shah-abdul-latif-bhitai)
@@ -83,7 +82,7 @@ The jail police carry heavy responsibilities for the safety and discipline of pr
 ## <hr>
 <a id="psl"></a>
 
-## 4. The Pakistan Super League (PSL)
+## 5. The Pakistan Super League (PSL)
 
 The Pakistan Super League (PSL) is a professional T20 cricket league in Pakistan. It is organized by the Pakistan Cricket Board (PCB). The league started in 2016 with five teams. In 2018, the Multan Sultans joined the league, bringing the total to six teams. In 2026, two new teams, the Hyderabad Kingsmen and Rawalpindiz, joined the PSL. Now, there are eight teams.
 
@@ -102,7 +101,7 @@ The PSL is played every year, and the teams compete to win the trophy. The defen
 
 
 
-## 4. The Pakistan Super League (PSL)
+## 5. The Pakistan Super League (PSL)
 پاکستان سپر لیگ (پی ایس ایل) پاکستان کی ایک پیشہ ور ٹوئنٹی 20 کرکٹ لیگ ہے۔ اسے پاکستان کرکٹ بورڈ (پی سی بی) منظم کرتا ہے۔ لیگ کا آغاز 2016 میں پانچ ٹیموں کے ساتھ ہوا تھا۔ 2018 میں ملتان سلطانز لیگ میں شامل ہوئے جس سے ٹیمیں چھ ہو گئیں۔ 2026 میں دو نئی ٹیمیں حیدرآباد کنگزمین اور راولپنڈیز پی ایس ایل میں شامل ہوئیں۔ اب کل آٹھ ٹیمیں ہیں۔
 
 آٹھ ٹیمیں یہ ہیں:
@@ -121,11 +120,11 @@ The PSL is played every year, and the teams compete to win the trophy. The defen
 
 <a id="education"></a>
 
-## 5. Education
+## 6. Education
 
 Education is very important for every person and every nation. It teaches us how to think, how to speak, and how to live in society. An educated person can understand their rights and duties. Education also helps people get good jobs and earn an honest living. A country with more educated people progresses faster. Education helps remove poverty, crime, and ignorance from society. It is not only about books. It also teaches us good manners, discipline, and respect for others. Our religion, Islam, also gives great importance to knowledge. Therefore, every child, whether a boy or a girl, must go to school. We should work together to make education available to everyone in Pakistan.
 
-## 5. تعلیم
+## 6. تعلیم
 
 تعلیم ہر انسان اور ہر قوم کے لیے بہت ضروری ہے۔ یہ ہمیں سوچنا، بولنا اور معاشرے میں رہنا سکھاتی ہے۔ پڑھا لکھا انسان اپنے حقوق اور فرائض کو بہتر سمجھتا ہے۔ تعلیم لوگوں کو اچھی نوکری اور حلال روزی کمانے میں بھی مدد دیتی ہے۔ جس ملک میں تعلیم یافتہ لوگ زیادہ ہوں وہ تیزی سے ترقی کرتا ہے۔ تعلیم غربت، جرائم اور جہالت کو ختم کرتی ہے۔ تعلیم صرف کتابوں کا نام نہیں، یہ ہمیں اچھے اخلاق، نظم و ضبط اور دوسروں کی عزت کرنا بھی سکھاتی ہے۔ ہمارا دین اسلام بھی علم کو بہت اہمیت دیتا ہے۔ اس لیے ہر بچے اور بچی کو اسکول ضرور جانا چاہیے۔ ہمیں مل کر پاکستان میں سب کے لیے تعلیم عام کرنی چاہیے۔
 
@@ -133,12 +132,12 @@ Education is very important for every person and every nation. It teaches us how
 
 <a id="corona-virus"></a>
 
-## 6. Corona Virus
+## 7. Corona Virus
 
 The coronavirus is commonly called COVID-19. It is a very small virus, but it has spread throughout the world and has claimed millions of lives, making it one of the most dangerous viruses in recent history. The virus first affects the human respiratory system. It was first identified in December 2019 in the city of Wuhan, China. After that, millions of people were infected. The fear of the pandemic shook the whole world, and it also had a devastating effect on the economy. To prevent the spread of the virus, it is recommended to wash your hands frequently, cover your face when coughing, wear a mask, and keep your distance from others. Together, we can stop the virus and keep everyone safe.
 
 
-## 6. کورونا وائرس
+## 7. کورونا وائرس
 
 کورونا وائرس کو عام طور پر Covid-19 کہا جاتا ہے۔ کورونا وائرس بہت چھوٹا ہے لیکن پوری دنیا میں پھیل چکا ہے اور اب تک لاکھوں سے زیادہ لوگوں کی جان لے چکا ہے جو کہ سب سے خطرناک وائرس ہے۔ وائرس سب سے پہلے انسانی سانس کے نظام کو متاثر کرتا ہے۔ کورونا وائرس کی پہلی بار شناخت دسمبر 2019 میں چین کے شہر ووہان میں ہوئی۔ اس کے بعد لاکھوں لوگ وائرس کا شکار ہو گئے  وبا کے خوف نے پورے عالمی نظام کو ہلا کر رکھ دیا ہے۔ اس کا معیشت پر بھی تباہ کن اثر پڑا ہے۔ وبا کو روکنے کے لیے یہ تجویز کی جاتی ہے کہ کثرت سے اپنے ہاتھ دھوئیں، کھانستے وقت اپنے چہرے کو ڈھانپیں، ماسک استعمال کریں، دوسروں سے فاصلہ رکھیں اور مکمل طور پر الگ رہیں۔ ہمیں اس وبا سے نکلنے کے لیے فطرت کے مطابق زندگی گزارنی چاہیے۔
 
@@ -147,12 +146,12 @@ The coronavirus is commonly called COVID-19. It is a very small virus, but it ha
 ## <hr>
 <a id="my-favorite-place"></a>
 
-## 7. My Favorite Place
+## 8. My Favorite Place
 
 My favourite place is the seaside. Whenever I go there, I feel completely relaxed and happy. The sound of waves, the cool breeze, and the open sky make me forget all my worries. I love sitting on the sand and watching the sunset. The orange and pink colours in the sky look magical. Sometimes I walk along the shore and collect small shells. I also enjoy eating roasted corn and drinking cold drinks near the beach. This place gives me peace and energy at the same time. Whenever I feel stressed, I want to go to the seaside. It is not just a place for me; it is my favourite escape from the busy life.
 
 
-## 7. میری پسندیدہ جگہ
+## 8. میری پسندیدہ جگہ
 
 میری سب سے پسندیدہ جگہ ساحلِ سمندر ہے۔ جب بھی میں وہاں جاتا ہوں تو مجھے مکمل سکون اور خوشی محسوس ہوتی ہے۔ لہروں کی آواز، ٹھنڈی ہوا اور کھلا آسمان مجھے میری تمام پریشانیوں کو بھلا دیتا ہے۔ مجھے ریت پر بیٹھ کر سورج ڈوبتے دیکھنا بہت پسند ہے۔ آسمان کے نارنجی اور گلابی رنگ جادوئی لگتے ہیں۔ کبھی کبھی میں ساحل پر چلتا ہوں اور چھوٹے سیپ جمع کرتا ہوں۔ مجھے ساحل کے قریب بھنا ہوا مکئی کھانا اور ٹھنڈے مشروبات پینا بھی بہت اچھا لگتا ہے۔ یہ جگہ مجھے سکون اور توانائی دونوں دیتی ہے۔ جب بھی میں تناؤ محسوس کرتا ہوں تو ساحلِ سمندر جانا چاہتا ہوں۔ میرے لیے یہ صرف ایک جگہ نہیں بلکہ مصروف زندگی سے میری پسندیدہ پناہ گاہ ہے۔
 
@@ -161,37 +160,25 @@ My favourite place is the seaside. Whenever I go there, I feel completely relaxe
 ## <hr>
 <a id="computer"></a>
 
-## 8. COMPUTER
+## 9. COMPUTER
 
 A computer is a very useful electronic machine. It helps us in many ways. We use computers in offices, schools, banks, hospitals, and homes. Computers work very fast and do not make mistakes if we give them correct instructions. They can store a lot of data safely. A computer never gets tired and can work for long hours. Students use computers to study and do their homework. People use computers to send messages, watch videos, and search for information on the internet. Today, it is difficult to imagine life without computers. It is one of the most important inventions for human beings.
 
-## 8. کمپیوٹر
+## 9. کمپیوٹر
 
 کمپیوٹر ایک بہت مفید الیکٹرانک مشین ہے۔ یہ ہمیں بہت سے کاموں میں مدد دیتا ہے۔ ہم کمپیوٹر دفاتر، اسکولوں، بینکوں، اسپتالوں اور گھروں میں استعمال کرتے ہیں۔ کمپیوٹر بہت تیزی سے کام کرتا ہے اور اگر ہم اسے درست معلومات دیں تو یہ غلطی نہیں کرتا۔ یہ بہت زیادہ ڈیٹا محفوظ طریقے سے رکھ سکتا ہے۔ کمپیوٹر کبھی نہیں تھکتا اور لمبے وقت تک کام کر سکتا ہے۔ طلباء کمپیوٹر سے پڑھائی کرتے ہیں اور اپنا ہوم ورک مکمل کرتے ہیں۔ لوگ کمپیوٹر سے میسج بھیجتے ہیں، ویڈیوز دیکھتے ہیں اور انٹرنیٹ پر معلومات تلاش کرتے ہیں۔ آج کل کمپیوٹر کے بغیر زندگی بہت مشکل ہے۔ یہ انسانوں کی سب سے اہم ایجادات میں سے ایک ہے۔
 
 ## <hr>
 <a id="road-traffic-accident"></a>
 
-## 9. Road Traffic Accident
+## 10. Road Traffic Accident
 
 Traffic rules are made for the safety of drivers and pedestrians alike, so it is important to follow them. Unfortunately, many people break these rules by jumping red lights, exceeding the speed limit, and not wearing seat belts or helmets. Such carelessness puts lives in danger. We must ensure safety on the road for everyone. Most road accidents are avoidable if people drive carefully and follow the rules. Every citizen should respect traffic laws and teach others to do the same. By following traffic rules, we can make our lives safe and save precious lives. Safe driving is a duty, not a choice, for everyone.
 
 
-## 9. روڈ ٹریفک ایکسیڈنٹ
+## 10. روڈ ٹریفک ایکسیڈنٹ
 
 ٹریفک کے قوانین ڈرائیوروں اور پیدل چلنے والوں، دونوں کی حفاظت کے لیے بنائے گئے ہیں، اس لیے ان پر عمل کرنا ضروری ہے۔ افسوس کی بات ہے کہ بہت سے لوگ red light توڑ کر، رفتار کی حد سے تیز گاڑی چلا کر اور سیٹ بیلٹ یا ہیلمٹ نہ پہن کر ان قوانین کی خلاف ورزی کرتے ہیں۔ ایسی لاپروائی جانوں کو خطرے میں ڈال دیتی ہے۔ ہمیں سڑک پر اپنی، دوسرے ڈرائیوروں اور پیدل چلنے والوں کی حفاظت کو یقینی بنانا چاہیے۔ زیادہ تر سڑک حادثات سے بچا جا سکتا ہے اگر لوگ احتیاط سے گاڑی چلائیں اور قوانین کی پابندی کریں۔ ہر شہری کو ٹریفک قوانین کا احترام کرنا چاہیے اور دوسروں کو بھی اس کی تلقین کرنی چاہیے۔ ٹریفک قوانین پر عمل کر کے ہم اپنی زندگی کو محفوظ بنا سکتے ہیں اور قیمتی جانیں بچا سکتے ہیں۔
-
-
-## <hr>
-<a id="responsibility-of-police"></a>
-
-## 10. Responsibility of Police
-
-The police are the backbone of a peaceful society. The main responsibility of the police is to protect the public, serve the community, and maintain law and order. Police officers detect and prevent crime and make sure people follow the law. In general duty, they patrol assigned areas by car, on foot, by bicycle, or sometimes on horseback to keep the public safe and arrest criminal suspects. They also investigate accidents and crime scenes, secure evidence, interview witnesses, and prepare reports. In addition, police officers provide emergency help to victims of disasters, crimes, and accidents. Police work is very difficult and risky, yet important for peace and security. Every citizen should respect them.
-
-
-## 10. پولیس کی ذمہ داریاں
-ولیس پرامن معاشرے کی بنیاد ہے۔ پولیس کی بنیادی ذمہ داری عوام کی حفاظت کرنا، کمیونٹی کی خدمت کرنا اور امن و امان برقرار رکھنا ہے۔ پولیس افسران جرائم کا سراغ لگاتے اور انہیں روکتے ہیں اور اس بات کو یقینی بناتے ہیں کہ لوگ قانون پر عمل کریں۔ عام ڈیوٹی میں وہ مقررہ علاقوں میں گاڑی، پیدل، سائیکل یا بعض اوقات گھوڑے پر گشت کرتے ہیں تاکہ عوام محفوظ رہیں اور مشتبہ مجرموں کو گرفتار کیا جا سکے۔ وہ حادثات اور جائے وقوعہ کی تفتیش کرتے ہیں، شواہد محفوظ کرتے ہیں، گواہوں سے پوچھ گچھ کرتے ہیں اور رپورٹیں تیار کرتے ہیں۔ اس کے علاوہ وہ آفات، جرائم اور حادثات کے متاثرین کو ہنگامی مدد فراہم کرتے ہیں۔ ان کا کام مشکل اور خطرناک ہے، مگر امن و سلامتی کے لیے ضروری ہے۔ ہر شہری کو ان کا احترام کرنا چاہیے۔
 
 
 ## <hr>
