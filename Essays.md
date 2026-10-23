@@ -390,17 +390,15 @@ Terrorism is the use of violence and fear against innocent people to achieve pol
 <a id="myself"></a>
 
 ## 28. Myself / My Introduction
-<!-- 
-My name is Muhammad Hussain. I live in Karachi, Pakistan. meny intermidate complete . There are [number] members in my family, including my parents, brothers and sisters. My father is a hardworking man, and my mother takes great care of us. I am honest, polite and respectful towards my elders. My hobbies are playing cricket, reading books and spending time with my friends. I like to study regularly and help others. My aim in life is to become a [police officer / engineer] and serve my country. I love Pakistan very much and always try to be a good citizen. -->
+**Myself / My Introduction**
+
+My name is Muhammad Hussain. I belong to Karachi, Pakistan. I am a hardworking, honest, and responsible person. I always try to learn new things and improve myself. I respect my elders and obey my parents. My hobby is reading books and learning useful skills. My aim in life is to become a successful police officer. I have a great interest in Jail Police because I want to serve my country and protect society. I believe that discipline, honesty, courage, and punctuality are important qualities of a good police officer. I will work hard to achieve my goal and perform my duties sincerely.
 
 
+## 28. **میرا تعارف**
 
-
-## <hr>
-
-
-## <hr>
-
+میرا نام محمد حسین ہے۔ میرا تعلق کراچی، پاکستان سے ہے۔ میں ایک محنتی، ایماندار اور ذمہ دار انسان ہوں۔ میں ہمیشہ نئی چیزیں سیکھنے اور اپنی صلاحیتوں کو بہتر بنانے کی کوشش کرتا ہوں۔ میں اپنے بڑوں کی عزت کرتا ہوں اور اپنے والدین کی فرمانبرداری کرتا ہوں۔ میرا شوق کتابیں پڑھنا اور مفید چیزیں سیکھنا ہے۔ میری زندگی کا مقصد ایک کامیاب پولیس افسر بننا ہے۔ مجھے جیل پولیس میں بھرتی ہونے کا بہت شوق ہے۔ میں اپنے ملک کی خدمت اور معاشرے کی حفاظت کرنا چاہتا ہوں۔ میں اپنے مقصد کو حاصل کرنے کے لیے محنت کروں گا اور اپنی ڈیوٹی ایمانداری سے انجام دوں گا۔
 
 
 ## <hr>
+
