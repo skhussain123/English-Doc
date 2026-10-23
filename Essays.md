@@ -2,14 +2,15 @@
 
 1. [Punctuality](#punctuality)
 2. [My Best Friend](#my-best-friend)
-3. [Police](#police)
+3. [Jail Police” / “Why Join Jail Police](#jailpolice)
+5.  [Responsibilities Jail Police](#responsbbilityjailpoilce) 
 4. [The Pakistan Super League (PSL)](#psl)
 5. [Education](#education)
 6. [Corona Virus](#corona-virus)
 7. [My Favorite Place](#my-favorite-place)
 8. [COMPUTER](#computer)
 9. [Road Traffic Accident](#road-traffic-accident)
-10. [Responsibility of Police](#responsibility-of-police)
+<!-- 10. [Responsibility of Police](#responsibility-of-police) -->
 11. [CRICKET](#cricket)
 12. [My Country](#my-country)
 13. [SHAH ABDUL LATIF BHITAI](#shah-abdul-latif-bhitai)
@@ -55,17 +56,28 @@ My best friend is Ali. He is a kind, honest, and helpful person. We have a stron
 
 میرے بہترین دوست کا نام علی ہے۔ وہ ایک مہربان، ایماندار اور مددگار انسان ہے۔ ہماری دوستی اعتماد اور عزت پر قائم ہے۔ ہم اکثر ایک ساتھ وقت گزارتے ہیں، اپنے خیالات کا اظہار کرتے ہیں اور مستقبل کے مقاصد پر بات کرتے ہیں۔ وہ مشکل حالات میں میرا ساتھ دیتا ہے اور مجھے محنت کرنے کی ترغیب دیتا ہے۔ ہمیں باتیں کرنا، چہل قدمی کرنا اور کھیل کھیلنا پسند ہے۔ وہ دوسروں کی عزت کرتا ہے اور ہمیشہ سچ بولتا ہے۔ میں بلا خوف اپنے مسائل اس کے ساتھ شیئر کر سکتا ہوں۔ سچا دوست زندگی میں ایک نعمت ہے۔ میں ایسا مخلص دوست پا کر خوش قسمت ہوں۔ مجھے امید ہے کہ ہماری دوستی ہمیشہ قائم رہے گی۔
 
+
 ## <hr>
-<a id="police"></a>
+<a id="jailpolice"></a>
 
-## 3. Police (Why I Want to Join Sindh Police)
+## 3. Jail Police / Why Join Jail Police
+The jail police are an important department responsible for maintaining law, order, and discipline inside prisons. I want to join this force because I wish to serve my country with honesty and courage. Its duties include guarding prisoners, preventing escapes, and treating inmates fairly so that they can reform and return to society as good citizens. This job teaches discipline, patience, and responsibility. I am punctual, hardworking, and ready to face difficult conditions. By joining the jail police, I can earn an honorable living and help keep society safe. Therefore, I consider it a respectable and meaningful profession.
 
-The police play a vital role in the development of any country. Institutions are the backbone of a nation, and the police department is one of the most important among them. In Pakistan, the police work under the Home Department. Their main duty is to maintain law and order and protect the lives and property of citizens. We do not hate criminals; we hate crime. The Sindh Police is a respected and valuable department. Joining it is my greatest dream and ambition. I want to serve my country and my people through the Sindh Police, and my parents also want to see me in a police uniform. I am ready to sacrifice my life for my country.
+
+## 3. میں جیل پولیس میں کیوں شامل ہونا چاہتا ہوں
+
+جیل پولیس ایک اہم محکمہ ہے جو جیلوں میں امن و امان اور نظم و ضبط قائم رکھنے کی ذمہ دار ہے۔ میں اس فورس میں شامل ہونا چاہتا ہوں کیونکہ میں ایمانداری اور بہادری کے ساتھ اپنے ملک کی خدمت کرنا چاہتا ہوں۔ اس کے فرائض میں قیدیوں کی نگرانی، فرار کی روک تھام اور ان سے منصفانہ سلوک شامل ہے تاکہ وہ اصلاح پا کر معاشرے کے اچھے شہری بن سکیں۔ یہ نوکری نظم و ضبط، صبر اور ذمہ داری سکھاتی ہے۔ میں وقت کا پابند اور محنتی ہوں اور مشکل حالات کا سامنا کرنے کے لیے تیار ہوں۔ جیل پولیس میں شامل ہو کر میں باعزت روزگار کما سکتا ہوں اور معاشرے کو محفوظ رکھنے میں اپنا کردار ادا کر سکتا ہوں۔ اس لیے میں اسے ایک باعزت اور بامقصد پیشہ سمجھتا ہوں۔
 
 
-# 3. آپ سندھ پولیس کیوں جوائن کرنا چاہتے ہو
+## <hr>
+<a id="responsbbilityjailpoilce"></a>
 
-کسی بھی ملک کی ترقی میں پولیس نہایت اہم کردار ادا کرتی ہے۔ ادارے قوم کی بنیاد ہوتے ہیں اور ان میں پولیس کا محکمہ سب سے اہم اداروں میں شامل ہے۔ شہریوں کی جان و مال کی حفاظت اور امن و امان قائم رکھنا اس کی بنیادی ذمہ داری ہے۔ ہمیں انسانوں سے نفرت نہیں، ہمیں جرم سے نفرت ہے۔ سندھ پولیس ایک معزز محکمہ ہے۔ اس میں شامل ہونا میرا سب سے بڑا خواب اور مقصد ہے۔ میں سندھ پولیس کے ذریعے اپنے ملک اور اپنے لوگوں کی خدمت کرنا چاہتا ہوں، اور میرے والدین کی یہی خواہش ہے کہ میں وردی پہنوں۔ میں اپنے وطن کے لیے اپنی جان قربان کرنے کو تیار ہوں۔
+## 4. Responsibilities of Jail Police
+The jail police carry heavy responsibilities for the safety and discipline of prisons. Their first duty is to guard prisoners day and night and prevent any escape. They search visitors and inmates to stop banned items such as weapons and drugs from entering the jail. They maintain accurate records of prisoners, including entry, release, and court appearances. During emergencies like riots or fires, they must act quickly and keep everyone safe. They also ensure that prisoners receive food, medical care, and fair treatment according to the law. Moreover, they help inmates reform through discipline and guidance. A jail police officer must stay honest, alert, patient, and loyal to duty at all times.
+
+## 4. جیل پولیس کی ذمہ داریاں
+
+جیل پولیس پر جیلوں کی حفاظت اور نظم و ضبط کی بھاری ذمہ داریاں عائد ہوتی ہیں۔ ان کا پہلا فرض قیدیوں کی دن رات نگرانی کرنا اور ان کے فرار کو روکنا ہے۔ وہ ملاقاتیوں اور قیدیوں کی تلاشی لیتے ہیں تاکہ اسلحہ اور منشیات جیسی ممنوعہ اشیا جیل کے اندر نہ آ سکیں۔ وہ قیدیوں کا درست ریکارڈ رکھتے ہیں، جس میں داخلہ، رہائی اور عدالت میں پیشی شامل ہے۔ ہنگامی حالات جیسے بلوہ یا آگ لگنے کی صورت میں انہیں فوری کارروائی کر کے سب کو محفوظ رکھنا ہوتا ہے۔ وہ اس بات کو بھی یقینی بناتے ہیں کہ قیدیوں کو قانون کے مطابق خوراک، طبی سہولت اور منصفانہ سلوک ملے۔ مزید یہ کہ وہ نظم و ضبط اور رہنمائی کے ذریعے قیدیوں کی اصلاح میں مدد کرتے ہیں۔ جیل پولیس اہلکار کو ہر وقت ایماندار، چوکنا، صابر اور اپنے فرض کا وفادار رہنا چاہیے۔
 
 
 ## <hr>
