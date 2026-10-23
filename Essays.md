@@ -225,13 +225,12 @@ Shah Abdul Latif Bhitai, the great Sufi saint and poet of Sindh, is lovingly cal
 
 ## 14. HEALTH IS WEALTH
 
-Health is wealth. A fit body is one that is disease-free and active. There are several ways to stay fit. Running, swimming, exercising, doing yoga, maintaining a disciplined life, cleanliness, and a healthy diet all play a significant role. Good health is a blessing that not everyone enjoys easily. Being unhealthy will drain your savings through doctors’ fees, medicines, hospital bills, and more. Therefore, if you have good health, you can earn a good living. There are two kinds of people in the world: those who are very conscious about their health and work hard to stay fit, and couch potatoes who are lazier than a sloth.
+Health is wealth. A fit body is one that is disease-free and active. There are several ways to stay fit. Running, swimming, exercising, doing yoga, maintaining a disciplined life, cleanliness, and a healthy diet all play a significant role. Good health is a blessing that not everyone enjoys easily. Being unhealthy will drain your savings through doctors’ fees, medicines, hospital bills, and more. Therefore, if you have good health, you can earn a good living. There are two kinds of people in the world: those who are very conscious about their health and work hard to stay fit, and those who are very lazy.
 
 
 ## 14. # صحت دولت ہے
 
-صحت دولت ہے۔ ایک فٹ جسم وہ ہے جو بیماری سے پاک اور فعال ہو۔ فٹنس حاصل کرنے کے کئی طریقے ہیں جن میں دوڑنا، تیرنا، ورزش کرنا، یوگا کرنا، باقاعدہ زندگی گزارنا، صفائی ستھرائی اور صحت مند غذا وغیرہ اہم کردار ادا کرتے ہیں۔ صحت ایسی عیش و عشرت ہے جو ہر کسی کو آسانی سے نہیں ملتی۔ غیر صحت مند ہونے سے ڈاکٹروں کی ادائیگی، ادویات خریدنے، ہسپتال کے بلوں کی ادائیگی وغیرہ کے لیے آپ کے پیسے خود بخود ختم ہو جاتے ہیں۔ اس لیے اگر آپ کی صحت اچھی ہے تو آپ اپنی دولت کما سکتے ہیں۔ زمین پر دو طرح کے لوگ پائے جاتے ہیں، جو اپنی صحت کے بارے میں بہت زیادہ ہوشیار ہوتے ہیں اور اسے فٹ رکھنے کے لیے سخت محنت کرتے ہیں، اور دوسرے وہ بنیادی صوفے کے آلو ہیں جو کاہلی سے زیادہ سست ہوتے ہیں۔
-
+صحت دولت ہے۔ ایک فٹ جسم وہ ہے جو بیماری سے پاک اور فعال ہو۔ فٹنس حاصل کرنے کے کئی طریقے ہیں جن میں دوڑنا، تیرنا، ورزش کرنا، یوگا کرنا، باقاعدہ زندگی گزارنا، صفائی ستھرائی اور صحت مند غذا وغیرہ اہم کردار ادا کرتے ہیں۔ صحت ایسی عیش و عشرت ہے جو ہر کسی کو آسانی سے نہیں ملتی۔ غیر صحت مند ہونے سے ڈاکٹروں کی ادائیگی، ادویات خریدنے، ہسپتال کے بلوں کی ادائیگی وغیرہ کے لیے آپ کے پیسے خود بخود ختم ہو جاتے ہیں۔ اس لیے اگر آپ کی صحت اچھی ہے تو آپ اپنی دولت کما سکتے ہیں۔ زمین پر دو طرح کے لوگ پائے جاتے ہیں، جو اپنی صحت کے بارے میں بہت زیادہ ہوشیار ہوتے ہیں اور اسے فٹ رکھنے کے لیے سخت محنت کرتے ہیں، اوردوسرے صرف سست ہیں۔ 
 ## <hr>
 
 <a id="allama-iqbal"></a>
