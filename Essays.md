@@ -333,45 +333,6 @@ Many teachers have taught me very well, but I like Sir Shams Deen Gopang the mos
 
 ## <hr>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a id="sachal-sarmast"></a>
-
-## 19. Sachal Sarmast
-Sachal Sarmast was a great Sufi poet of Sindh. His real name was Abdul Wahab, and he was born in 1739 in Daraza Sharif, near Khairpur. He wrote poetry in many languages, including Sindhi, Siraiki, Urdu, Persian, Arabic, and Punjabi. The word “Sachal” means truthful, and “Sarmast” means someone intoxicated with divine love. His poetry spreads the message of love, peace, tolerance, and humanity, and it rejects hatred and religious divisions. He is respected by people of every faith. He passed away in 1829, and his shrine is in Daraza Sharif, where a large Urs (an annual festival marking his death anniversary) is held every year.
-
-
-## 19. سچل سرمست
-
-سچل سرمست سندھ کے ایک عظیم صوفی شاعر تھے۔ ان کا اصل نام عبدالوہاب تھا اور وہ 1739ء میں خیرپور کے قریب درازہ شریف میں پیدا ہوئے۔ انہوں نے سندھی، سرائیکی، اردو، فارسی، عربی اور پنجابی سمیت کئی زبانوں میں شاعری کی۔ "سچل" کا مطلب سچ بولنے والا اور "سرمست" کا مطلب عشقِ الٰہی میں مست ہے۔ ان کی شاعری محبت، امن، رواداری اور انسانیت کا پیغام دیتی ہے اور نفرت اور مذہبی تفرقے کو رد کرتی ہے۔ ہر مذہب کے لوگ ان کا احترام کرتے ہیں۔ ان کا انتقال 1829ء میں ہوا اور ان کا مزار درازہ شریف میں ہے، جہاں ہر سال عظیم الشان عرس منعقد ہوتا ہے۔
-
-
-
-<a id="my-school"></a>
-
-## 22. My School
-# Pending
-
-## <hr>
-
 <a id="hazrat-muhammad-saw"></a>
 
 ## 23. Essay on Hazrat Muhammad Mustafa (SAW)
@@ -383,30 +344,58 @@ Hazrat Muhammad Mustafa (SAW) is the most important prophet of Islam. Born in Me
 حضرت محمد مصطفیٰ ﷺ اسلام کے سب سے اہم نبی ہیں۔ آپ ﷺ مکہ مکرمہ میں پیدا ہوئے۔ آپ ﷺ مہربان، دانا اور انصاف پسند تھے۔ آپ ﷺ کو اللہ تعالیٰ کی طرف سے پیغامات (وحی) ملے، جنہیں قرآنِ پاک میں جمع کیا گیا۔ آپ ﷺ نے توحید، محبت اور انصاف کا پیغام پھیلایا۔ آپ ﷺ کی تعلیمات نیکی، عاجزی اور دوسروں کو قبول کرنے کا درس دیتی ہیں۔ آپ ﷺ نے ان لوگوں کی مدد کی جن کے ساتھ برا سلوک کیا گیا تھا۔ دنیا بھر کے لوگ آپ ﷺ کی بہترین مثال ہونے کی وجہ سے آپ کی عزت کرتے ہیں۔ آپ ﷺ آخری نبی ہیں اور محبت اور حکمت کے پیغام کے ساتھ لوگوں کی رہنمائی کرتے ہیں۔ مسلمان آپ ﷺ کی تعلیمات پر چل کر مہربان بنتے ہیں اور دنیا کو بہتر جگہ بنانے کی کوشش کرتے ہیں۔
 
 ## <hr>
+<a id="terrorism"></a>
 
+## 24. Terrorism
 
+Terrorism is the use of violence and fear against innocent people to achieve political, religious or personal goals. It is one of the biggest problems facing the world today. Pakistan has suffered greatly from terrorism, losing thousands of precious lives and facing heavy economic damage. Terrorists attack schools, markets, mosques and public places to spread panic. Their actions have no link with any religion, because Islam teaches peace and respects human life. Poverty, illiteracy, injustice and extremist thinking are the main causes of terrorism. To defeat it, we need education, justice, unity and strong security forces. Our army and police have made great sacrifices to protect the nation. Together, we can make Pakistan safe and peaceful.
 
+## 24. دہشت گردی
+
+دہشت گردی بے گناہ لوگوں کے خلاف سیاسی، مذہبی یا ذاتی مقاصد حاصل کرنے کے لیے تشدد اور خوف کا استعمال ہے۔ یہ آج دنیا کو درپیش سب سے بڑے مسائل میں سے ایک ہے۔ پاکستان نے دہشت گردی سے بہت نقصان اٹھایا ہے، ہزاروں قیمتی جانیں ضائع ہوئیں اور معیشت کو بھاری نقصان پہنچا۔ دہشت گرد اسکولوں، بازاروں، مساجد اور عوامی مقامات پر حملے کر کے خوف پھیلاتے ہیں۔ ان کے اعمال کا کسی مذہب سے کوئی تعلق نہیں، کیونکہ اسلام امن کا درس دیتا ہے اور انسانی جان کی حرمت کرتا ہے۔ غربت، ناخواندگی، ناانصافی اور انتہا پسندانہ سوچ دہشت گردی کی بڑی وجوہات ہیں۔ اسے شکست دینے کے لیے تعلیم، انصاف، اتحاد اور مضبوط سیکیورٹی فورسز ضروری ہیں۔ ہماری فوج اور پولیس نے وطن کی حفاظت کے لیے عظیم قربانیاں دی ہیں۔ مل کر ہم پاکستان کو محفوظ اور پرامن بنا سکتے ہیں۔
+
+## <hr>
 
 <a id="importance-of-discipline"></a>
 
-## 26. Importance of Discipline
+## 25. Importance of Discipline
 
 Discipline is the key to success in every field of life. It means following rules, respecting time and doing our duties on time. A disciplined student studies regularly, obeys teachers and respects elders. A disciplined nation progresses quickly because its people follow the law and work honestly. Quaid-e-Azam Muhammad Ali Jinnah gave us the motto of Unity, Faith and Discipline, which shows its great value. Discipline makes us punctual, responsible and confident. Without discipline, life becomes disorganized and full of problems. Therefore, everyone should practice discipline at home, at school and in society to become a successful and respected citizen.
 
-## 26. نظم و ضبط کی اہمیت
+## 25. نظم و ضبط کی اہمیت
 
 نظم و ضبط زندگی کے ہر شعبے میں کامیابی کی کنجی ہے۔ اس کا مطلب قوانین پر عمل کرنا، وقت کی قدر کرنا اور اپنے فرائض وقت پر ادا کرنا ہے۔ ایک باضابطہ طالب علم باقاعدگی سے پڑھتا ہے، اساتذہ کی بات مانتا ہے اور بڑوں کا احترام کرتا ہے۔ باضابطہ قوم تیزی سے ترقی کرتی ہے کیونکہ اس کے لوگ قانون کی پابندی کرتے ہیں اور ایمانداری سے کام کرتے ہیں۔ قائداعظم محمد علی جناح نے ہمیں اتحاد، ایمان اور نظم و ضبط کا اصول دیا، جو اس کی بڑی اہمیت کو ظاہر کرتا ہے۔ نظم و ضبط ہمیں وقت کا پابند، ذمہ دار اور پراعتماد بناتا ہے۔ نظم و ضبط کے بغیر زندگی بے ترتیب اور مسائل سے بھری ہو جاتی ہے۔ اس لیے ہر شخص کو گھر، اسکول اور معاشرے میں نظم و ضبط اپنانا چاہیے تاکہ وہ ایک کامیاب اور باعزت شہری بن سکے۔
 
 ## <hr>
-<a id="terrorism"></a>
 
-## 27. Terrorism
+<a id="my-school"></a>
 
-Terrorism is the use of violence and fear against innocent people to achieve political, religious or personal goals. It is one of the biggest problems facing the world today. Pakistan has suffered greatly from terrorism, losing thousands of precious lives and facing heavy economic damage. Terrorists attack schools, markets, mosques and public places to spread panic. Their actions have no link with any religion, because Islam teaches peace and respects human life. Poverty, illiteracy, injustice and extremist thinking are the main causes of terrorism. To defeat it, we need education, justice, unity and strong security forces. Our army and police have made great sacrifices to protect the nation. Together, we can make Pakistan safe and peaceful.
+## 26. My School
+# Pending
 
-## 27. دہشت گردی
 
-دہشت گردی بے گناہ لوگوں کے خلاف سیاسی، مذہبی یا ذاتی مقاصد حاصل کرنے کے لیے تشدد اور خوف کا استعمال ہے۔ یہ آج دنیا کو درپیش سب سے بڑے مسائل میں سے ایک ہے۔ پاکستان نے دہشت گردی سے بہت نقصان اٹھایا ہے، ہزاروں قیمتی جانیں ضائع ہوئیں اور معیشت کو بھاری نقصان پہنچا۔ دہشت گرد اسکولوں، بازاروں، مساجد اور عوامی مقامات پر حملے کر کے خوف پھیلاتے ہیں۔ ان کے اعمال کا کسی مذہب سے کوئی تعلق نہیں، کیونکہ اسلام امن کا درس دیتا ہے اور انسانی جان کی حرمت کرتا ہے۔ غربت، ناخواندگی، ناانصافی اور انتہا پسندانہ سوچ دہشت گردی کی بڑی وجوہات ہیں۔ اسے شکست دینے کے لیے تعلیم، انصاف، اتحاد اور مضبوط سیکیورٹی فورسز ضروری ہیں۔ ہماری فوج اور پولیس نے وطن کی حفاظت کے لیے عظیم قربانیاں دی ہیں۔ مل کر ہم پاکستان کو محفوظ اور پرامن بنا سکتے ہیں۔
+
+
+<a id="sachal-sarmast"></a>
+
+## 27. Sachal Sarmast
+Sachal Sarmast was a great Sufi poet of Sindh. His real name was Abdul Wahab, and he was born in 1739 in Daraza Sharif, near Khairpur. He wrote poetry in many languages, including Sindhi, Siraiki, Urdu, Persian, Arabic, and Punjabi. The word “Sachal” means truthful, and “Sarmast” means someone intoxicated with divine love. His poetry spreads the message of love, peace, tolerance, and humanity, and it rejects hatred and religious divisions. He is respected by people of every faith. He passed away in 1829, and his shrine is in Daraza Sharif, where a large Urs (an annual festival marking his death anniversary) is held every year.
+
+
+## 27. سچل سرمست
+
+سچل سرمست سندھ کے ایک عظیم صوفی شاعر تھے۔ ان کا اصل نام عبدالوہاب تھا اور وہ 1739ء میں خیرپور کے قریب درازہ شریف میں پیدا ہوئے۔ انہوں نے سندھی، سرائیکی، اردو، فارسی، عربی اور پنجابی سمیت کئی زبانوں میں شاعری کی۔ "سچل" کا مطلب سچ بولنے والا اور "سرمست" کا مطلب عشقِ الٰہی میں مست ہے۔ ان کی شاعری محبت، امن، رواداری اور انسانیت کا پیغام دیتی ہے اور نفرت اور مذہبی تفرقے کو رد کرتی ہے۔ ہر مذہب کے لوگ ان کا احترام کرتے ہیں۔ ان کا انتقال 1829ء میں ہوا اور ان کا مزار درازہ شریف میں ہے، جہاں ہر سال عظیم الشان عرس منعقد ہوتا ہے۔
+
+
+
+
+
+
+
+
+
+
+
 
 
 
