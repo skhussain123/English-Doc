@@ -262,7 +262,7 @@ Corruption is a big problem in our society. It means taking bribes or misusing p
 
 ## 17. Quaid-e-Azam Muhammad Ali Jinnah
 
-Quaid-e-Azam Muhammad Ali Jinnah was the founder of our country. He was born in Karachi on 25 December 1876. He received his early education at Sindh Madrasa in Karachi and later went to England for higher education. On his return, he started his practice as a lawyer, first in Karachi and later in Bombay. He loved his country and its people dearly. He worked day and night for the betterment of Pakistan. He succeeded in his struggle and achieved Pakistan, a separate homeland for the Muslims of the subcontinent, in 1947. He became the first Governor General of Pakistan. He died on 11 September 1948. His mausoleum is in Karachi.
+Quaid-e-Azam Muhammad Ali Jinnah was the founder of Pakistan. He was born in Karachi on 25 December 1876. He received his early education at Sindh Madrasa in Karachi and later went to England for higher education. On his return, he started his practice as a lawyer, first in Karachi and later in Bombay. He loved his country and its people dearly. He worked day and night for the betterment of Pakistan. He succeeded in his struggle and achieved Pakistan, a separate homeland for the Muslims of the subcontinent, in 1947. He became the first Governor General of Pakistan. He died on 11 September 1948. His Shrine is in Karachi.
 
 
 ## 17. قائداعظم محمد علی جناح
