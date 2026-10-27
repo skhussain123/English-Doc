@@ -40,6 +40,10 @@
 38. [Environment/Pollution](#EnvironmentPollution)
 39. [Unemployment](#Unemployment)
 40. [Inflation](#Inflation)
+41. [Honesty and Duty](#HonestyDuty)
+42. [Women Education](#WomenEducation)
+43. [Patriotism / 14 August (Independence Day)](#Patriotism14Independence Day)
+
 
 
 #### <hr>
@@ -553,7 +557,36 @@ Inflation means a continuous rise in the prices of goods and services, which red
 مہنگائی سے مراد اشیا اور خدمات کی قیمتوں میں مسلسل اضافہ ہے، جس سے پیسے کی قوتِ خرید کم ہو جاتی ہے۔ پاکستان میں یہ ایک بڑا مسئلہ ہے، جہاں آٹے، چینی، تیل اور ایندھن کی قیمتیں بڑھتی رہتی ہیں۔ اس کے بنیادی اسباب میں ایندھن اور بجلی کی بڑھتی قیمتیں، کمزور روپیہ، زیادہ ٹیکس، ذخیرہ اندوزی اور بازاروں پر حکومتی کنٹرول کی کمی شامل ہیں۔ مہنگائی کا سب سے زیادہ اثر غریب اور متوسط طبقے پر پڑتا ہے کیونکہ ان کی آمدنی اخراجات کے برابر نہیں ہوتی۔ یہ غربت، پریشانی اور جرائم میں اضافہ کرتی ہے۔ اسے قابو کرنے کے لیے حکومت کو ذخیرہ اندوزی روکنی چاہیے، مقامی پیداوار کی مدد کرنی چاہیے، غیر ضروری درآمدات کم کرنی چاہئیں اور مناسب قیمتیں یقینی بنانی چاہئیں۔ عوام کو بھی وسائل ضائع کرنے سے بچنا چاہیے اور اپنی آمدنی کے مطابق زندگی گزارنی چاہیے۔
 
 
+## <hr>
+<a id="HonestyDuty"></a>
+
+## 41. Honesty and Duty
+Honesty means always speaking the truth and doing the right thing, even when no one is watching. Duty means performing our responsibilities sincerely and on time. These two qualities go together, because a person who is honest in his work is truly dutiful. Islam teaches us that honesty is part of faith, and our Prophet (SAW) was known as Al-Amin, the trustworthy. In the jail police, honesty and duty are especially important. An officer must not accept bribes, favor anyone, or neglect his duty. Honest and dutiful people build a strong society, while corruption destroys it. Therefore, we should be honest in every field of life and perform our duty with full responsibility.
 
 
+## 41. ایمانداری اور فرض
+
+ایمانداری کا مطلب ہمیشہ سچ بولنا اور صحیح کام کرنا ہے، چاہے کوئی دیکھ نہ رہا ہو۔ فرض کا مطلب اپنی ذمہ داریاں خلوص اور وقت پر ادا کرنا ہے۔ یہ دونوں خوبیاں ساتھ ساتھ چلتی ہیں، کیونکہ جو شخص اپنے کام میں ایماندار ہو وہی حقیقی معنوں میں فرض شناس ہوتا ہے۔ اسلام ہمیں سکھاتا ہے کہ ایمانداری ایمان کا حصہ ہے، اور ہمارے نبی ﷺ امین کے لقب سے مشہور تھے۔ جیل پولیس میں ایمانداری اور فرض شناسی خاص طور پر اہم ہیں۔ اہلکار کو رشوت نہیں لینی چاہیے، کسی کی طرف داری نہیں کرنی چاہیے اور اپنے فرض میں غفلت نہیں کرنی چاہیے۔ ایماندار اور فرض شناس لوگ مضبوط معاشرہ بناتے ہیں، جبکہ کرپشن اسے تباہ کر دیتی ہے۔ اس لیے ہمیں زندگی کے ہر شعبے میں ایماندار رہنا چاہیے اور اپنا فرض پوری ذمہ داری سے ادا کرنا چاہیے۔
+
+## <hr>
+<a id="WomenEducation"></a>
+
+## 42. Women Education
+Education is the right of every human being, and women are no exception. An educated woman can raise a healthy and well-mannered family, because a mother is a child’s first teacher. Islam gives great importance to knowledge for both men and women. Educated women can work as doctors, teachers, police officers, and engineers, and they help reduce poverty by earning for their families. In Pakistan, many girls still cannot go to school because of poverty, early marriages, and old customs. The government and society must build more girls’ schools, provide scholarships, and change this thinking. When women are educated, the whole nation moves forward.
+
+## 42. خواتین کی تعلیم
+
+تعلیم ہر انسان کا حق ہے اور خواتین بھی اس میں شامل ہیں۔ ایک تعلیم یافتہ عورت صحت مند اور باادب خاندان کی پرورش کر سکتی ہے، کیونکہ ماں بچے کی پہلی استاد ہوتی ہے۔ اسلام مرد اور عورت دونوں کے لیے علم کی بڑی اہمیت بیان کرتا ہے۔ تعلیم یافتہ خواتین ڈاکٹر، استاد، پولیس افسر اور انجینئر بن کر خدمت کر سکتی ہیں اور اپنے خاندان کے لیے کما کر غربت کم کرنے میں مدد دیتی ہیں۔ پاکستان میں آج بھی کئی لڑکیاں غربت، کم عمری کی شادی اور پرانی روایات کی وجہ سے اسکول نہیں جا پاتیں۔ حکومت اور معاشرے کو چاہیے کہ لڑکیوں کے لیے مزید اسکول بنائیں، وظائف دیں اور اس سوچ کو بدلیں۔ جب خواتین تعلیم یافتہ ہوں گی تو پوری قوم ترقی کرے گی۔
 
 
+## <hr>
+<a id="Patriotism14Independence"></a>
+
+## 43. Patriotism and Independence Day
+
+Patriotism means deep love for one’s country and readiness to serve it. Pakistan came into being on 14 August 1947 after a long struggle led by Quaid-e-Azam Muhammad Ali Jinnah and Allama Iqbal’s dream of a separate homeland. Millions of people sacrificed their homes, wealth, and lives for this freedom. Every year, we celebrate Independence Day with flag hoisting, parades, and national songs. But true patriotism is not only celebration. It means being honest, obeying the law, working hard, and protecting public property. A jail police officer shows patriotism by performing his duty sincerely and without corruption. We must keep Pakistan strong and peaceful.
+
+
+## 43. حب الوطنی اور یومِ آزادی
+
+حب الوطنی کا مطلب اپنے وطن سے گہری محبت اور اس کی خدمت کے لیے تیار رہنا ہے۔ پاکستان 14 اگست 1947 کو قائداعظم محمد علی جناح کی قیادت میں طویل جدوجہد اور علامہ اقبال کے الگ وطن کے خواب کے نتیجے میں وجود میں آیا۔ لاکھوں لوگوں نے اس آزادی کے لیے اپنے گھر، مال اور جانیں قربان کیں۔ ہر سال ہم یومِ آزادی پرچم کشائی، پریڈ اور ملی نغموں کے ساتھ مناتے ہیں۔ لیکن حقیقی حب الوطنی صرف جشن منانا نہیں ہے۔ اس کا مطلب ایماندار ہونا، قانون کی پابندی کرنا، محنت کرنا اور سرکاری املاک کی حفاظت کرنا ہے۔ جیل پولیس کا اہلکار اپنا فرض خلوص اور بغیر کرپشن کے ادا کر کے حب الوطنی کا ثبوت دیتا ہے۔ ہمیں پاکستان کو مضبوط اور پرامن رکھنا چاہیے۔
