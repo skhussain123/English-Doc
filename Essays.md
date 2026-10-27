@@ -30,7 +30,12 @@
 28.  [Prison System and Problems in Sindh](#PrisonSystemandProblemsinSindh) 
 29.  [Purpose of Prison](#PurposeofPrison) 
 30.  [Reform of Prisoners in Jail](#ReformPrisonersJail) 
-31.  [Advantages and Disadvantages of Social Media](#AdvantagesDisadvantagesSocial) 
+31. [Rights of Prisoners](#RightsPrisoners) 
+32. [Security and Crime](#SecurityCrime)
+33. [Role of Jail Police in Crime Prevention](#RoleJailPoliceCrimePrevention) 
+34.  [My Favourite Personality](#MyFavouritePersonality)
+35.  [Role of Police and People in Eradicating Drugs](#RolePoliceEradicatingDrugs)
+36.  [Advantages and Disadvantages of Social Media](#AdvantagesDisadvantagesSocial) 
 
 
 
@@ -425,14 +430,75 @@ Reform of prisoners is the most important purpose of a modern prison. A criminal
 قیدیوں کی اصلاح جدید جیل کا سب سے اہم مقصد ہے۔ مجرم پیدائشی برا نہیں ہوتا، اکثر غربت، بری صحبت اور تعلیم کی کمی لوگوں کو جرم کی طرف لے جاتی ہے۔ جیلیں تعلیم، ہنر کی تربیت اور دینی رہنمائی کے ذریعے اس رجحان کو بدلنے کی کوشش کرتی ہیں۔ قیدی بڑھئی گیری، سلائی اور کمپیوٹر جیسے مفید ہنر سیکھتے ہیں جو رہائی کے بعد ان کے لیے باعزت روزگار کا ذریعہ بنتے ہیں۔ مشاورت اور اخلاقی تعلیم غصے کو کم کرتی اور اچھا کردار بناتی ہے۔ منصفانہ سلوک اور بنیادی حقوق کا احترام بھی قیدیوں میں امید پیدا کرتا ہے۔ جیل کا عملہ صبر اور نظم و ضبط کے ساتھ رہنمائی کر کے اہم کردار ادا کرتا ہے۔ جب قیدی اصلاح پا جاتے ہیں تو وہ ذمہ دار شہری بن کر معاشرے میں لوٹتے ہیں اور جرائم کم ہوتے ہیں۔
 
 
+## <hr>
+<a id="RightsPrisoners"></a>
+
+## 31. Rights of Prisoners
+
+Prisoners are human beings, and they do not lose their basic rights when they enter jail. Every prisoner has the right to be treated with dignity and without torture or abuse. They are entitled to proper food, clean drinking water, hygiene, and medical care. Prisoners have the right to a fair trial, legal counsel, and to meet their family and lawyers. They should also have the freedom to practice their religion and access education and skill training. Prisoners must be protected from discrimination and violence. Respecting these rights does not weaken discipline; it builds trust and helps reform. A society that treats its prisoners humanely shows true justice.
+
+## 31. قیدیوں کے حقوق
+
+قیدی بھی انسان ہیں اور جیل میں داخل ہونے سے وہ اپنے بنیادی حقوق سے محروم نہیں ہو جاتے۔ ہر قیدی کو عزت کے ساتھ، تشدد اور بدسلوکی کے بغیر پیش آنے کا حق حاصل ہے۔ انہیں مناسب خوراک، صاف پینے کا پانی، صفائی ستھرائی اور طبی سہولت ملنی چاہیے۔ قیدیوں کو منصفانہ مقدمے، وکیل کی سہولت اور اہلِ خانہ اور وکیلوں سے ملاقات کا حق ہے۔ انہیں اپنے مذہب پر عمل کرنے کی آزادی اور تعلیم و ہنر کی تربیت تک رسائی بھی ملنی چاہیے۔ قیدیوں کو امتیازی سلوک اور تشدد سے محفوظ رکھنا لازمی ہے۔ ان حقوق کا احترام نظم و ضبط کو کمزور نہیں کرتا بلکہ اعتماد پیدا کرتا اور اصلاح میں مدد دیتا ہے۔ جو معاشرہ اپنے قیدیوں سے انسانی سلوک کرے، وہی حقیقی انصاف کی علامت ہے۔
+
+
+## <hr>
+<a id="SecurityCrime"></a>
+
+## 32. Security and Crime
+Security and crime are closely linked, because where security is weak, crime grows. Crime includes theft, robbery, murder, drug dealing, and cyber fraud, and it creates fear and instability in society. Poverty, unemployment, illiteracy, and bad company are its main causes. Strong security protects lives, property, and the economy. The police, jail staff, and other law enforcement agencies play a key role by patrolling, investigating crimes, and punishing offenders. Modern tools like CCTV cameras and digital records also help control crime. However, security alone is not enough. Education, jobs, quick justice, and public cooperation are also needed. When people and institutions work together, society becomes safe and peaceful.
+
+## 32. سیکیورٹی اور جرائم
+
+سیکیورٹی اور جرائم کا آپس میں گہرا تعلق ہے، کیونکہ جہاں سیکیورٹی کمزور ہو وہاں جرائم بڑھتے ہیں۔ جرائم میں چوری، ڈکیتی، قتل، منشیات فروشی اور سائبر فراڈ شامل ہیں، جو معاشرے میں خوف اور بے چینی پیدا کرتے ہیں۔ غربت، بے روزگاری، ناخواندگی اور بری صحبت ان کے بنیادی اسباب ہیں۔ مضبوط سیکیورٹی جان، مال اور معیشت کی حفاظت کرتی ہے۔ پولیس، جیل کا عملہ اور دیگر قانون نافذ کرنے والے ادارے گشت، تفتیش اور مجرموں کو سزا دلوا کر اہم کردار ادا کرتے ہیں۔ سی سی ٹی وی کیمروں اور ڈیجیٹل ریکارڈ جیسے جدید ذرائع بھی جرائم پر قابو پانے میں مدد دیتے ہیں۔ تاہم صرف سیکیورٹی کافی نہیں، تعلیم، روزگار، فوری انصاف اور عوام کا تعاون بھی ضروری ہے۔ جب عوام اور ادارے مل کر کام کریں تو معاشرہ محفوظ اور پرامن بن جاتا ہے۔
+
+
+## <hr>
+<a id="RoleJailPoliceCrimePrevention"></a>
+
+## 33. Role of Jail Police in Crime Prevention
+
+The jail police play an important role in preventing crime and protecting society. First, by keeping dangerous criminals securely locked up, they stop them from harming the public again. They prevent escapes and block the smuggling of weapons, drugs, and mobile phones, which criminals often use to run illegal activities from inside jail. They also monitor prisoners to stop gang formation and the spread of extremist ideas. In addition, they support reform by guiding inmates with discipline, fair treatment, and access to education and skill training, so that released prisoners do not return to crime. Honest and alert jail staff therefore help keep society safe and peaceful.
+
+
+## 33. رائم کی روک تھام میں جیل پولیس کا کردار
+
+جیل پولیس جرائم کی روک تھام اور معاشرے کے تحفظ میں اہم کردار ادا کرتی ہے۔ سب سے پہلے خطرناک مجرموں کو محفوظ طریقے سے قید رکھ کر وہ انہیں دوبارہ عوام کو نقصان پہنچانے سے روکتی ہے۔ وہ فرار کی کوششوں کو ناکام بناتی ہے اور اسلحہ، منشیات اور موبائل فون کی اسمگلنگ روکتی ہے، جنہیں مجرم اکثر جیل کے اندر سے غیر قانونی سرگرمیاں چلانے کے لیے استعمال کرتے ہیں۔ وہ قیدیوں کی نگرانی کر کے گروہ بندی اور انتہا پسندانہ نظریات کے پھیلاؤ کو بھی روکتی ہے۔ اس کے علاوہ وہ نظم و ضبط، منصفانہ سلوک اور تعلیم و ہنر کی تربیت کے ذریعے قیدیوں کی اصلاح میں مدد دیتی ہے تاکہ رہائی کے بعد وہ دوبارہ جرم کی طرف نہ لوٹیں۔ ایماندار اور چوکنا جیل عملہ اس طرح معاشرے کو محفوظ اور پرامن رکھنے میں مدد دیتا ہے۔
+
+
+## <hr>
+<a id="MyFavouritePersonality"></a>
+
+## 34. My favourite personality 
+My favourite personality  is Field Marshal Asim Munir, the Chief of Army Staff of Pakistan. He started his career in the army after training at the Officers Training School, Mangla, where he received the Sword of Honour. He is also a Hafiz-e-Quran, which shows his strong faith. He served in many important positions, including Director General of the ISI. I admire his discipline, courage, and dedication to the country. He has worked to strengthen the defence of Pakistan. His life teaches me that hard work, honesty, and loyalty to duty bring success.
+
+
+## 34. میری پسندیدہ شخصیت: فیلڈ مارشل عاصم منیر
+
+میری پسندیدہ شخصیت فیلڈ مارشل عاصم منیر ہیں، جو پاکستان کے آرمی چیف ہیں۔ انہوں نے آفیسرز ٹریننگ اسکول منگلا میں تربیت حاصل کر کے فوجی کیریئر کا آغاز کیا، جہاں انہیں اعزازی تلوار (سورڈ آف آنر) ملی۔ وہ حافظِ قرآن بھی ہیں، جو ان کے مضبوط ایمان کی علامت ہے۔ انہوں نے ڈائریکٹر جنرل آئی ایس آئی سمیت کئی اہم عہدوں پر خدمات انجام دیں۔ مجھے ان کا نظم و ضبط، بہادری اور وطن سے لگن بہت پسند ہے۔ انہوں نے پاکستان کے دفاع کو مضبوط بنانے کے لیے کام کیا ہے۔ ان کی زندگی مجھے سکھاتی ہے کہ محنت، ایمانداری اور فرض سے وفاداری کامیابی دلاتی ہے۔
+
+
+## <hr>
+<a id="RolePoliceEradicatingDrugs"></a>
+
+## 35. Role of Police and People in Eradicating Drugs
+
+Drug abuse is a serious curse that destroys health, families, and the future of our youth. Eliminating it requires the efforts of both the police and the public. The police must arrest drug dealers, break smuggling networks, and take strict action against sellers near schools and colleges. The Anti-Narcotics Force and jail staff also help by stopping the entry of drugs into prisons. The people must also play their part. Parents should watch their children’s company, teachers should guide students, and citizens should report drug sellers without fear. Treatment and rehabilitation centers should help addicts recover. Only through cooperation between police and people can we build a drug-free society
+
+## 35. منشیات کے خاتمے میں پولیس اور عوام کا کردار
+
+منشیات ایک سنگین لعنت ہے جو صحت، خاندانوں اور نوجوانوں کے مستقبل کو تباہ کر دیتی ہے۔ اس کے خاتمے کے لیے پولیس اور عوام دونوں کی کوشش ضروری ہے۔ پولیس کو منشیات فروشوں کو گرفتار کرنا، اسمگلنگ کے نیٹ ورک توڑنا اور اسکولوں اور کالجوں کے قریب منشیات بیچنے والوں کے خلاف سخت کارروائی کرنی چاہیے۔ اینٹی نارکوٹکس فورس اور جیل کا عملہ بھی جیلوں میں منشیات کا داخلہ روک کر مدد کرتا ہے۔ عوام کو بھی اپنا کردار ادا کرنا ہوگا۔ والدین بچوں کی صحبت پر نظر رکھیں، اساتذہ طلبہ کی رہنمائی کریں اور شہری بلا خوف منشیات فروشوں کی اطلاع دیں۔ علاج اور بحالی کے مراکز نشے کے عادی افراد کی صحت یابی میں مدد کریں۔ پولیس اور عوام کے باہمی تعاون سے ہی ہم منشیات سے پاک معاشرہ بنا سکتے ہیں۔
+
+
+
 
 ## <hr>
 <a id="AdvantagesDisadvantagesSocial"></a>
 
-## 31. Advantages Disadvantages Social Media
+## 36. Advantages Disadvantages Social Media
 Social media has become an important part of modern life. Its biggest advantage is fast communication, as people can connect with family and friends anywhere in the world within seconds. It also provides quick news, online education, and business and job opportunities. However, it has serious disadvantages too. Excessive use wastes time and harms studies and health. Fake news and rumors spread easily, and cyberbullying and privacy theft are growing problems. It can also reduce real face-to-face relationships. Therefore, we should use social media wisely, limit our screen time, and verify information before sharing it. Used properly, it is a blessing; used carelessly, it becomes a curse.
 
-## 31. سوشل میڈیا کے فائدے اور نقصانات
+## 36. سوشل میڈیا کے فائدے اور نقصانات
 
 سوشل میڈیا جدید زندگی کا اہم حصہ بن چکا ہے۔ اس کا سب سے بڑا فائدہ تیز رابطہ ہے، کیونکہ لوگ دنیا کے کسی بھی کونے میں اپنے خاندان اور دوستوں سے چند سیکنڈ میں رابطہ کر سکتے ہیں۔ یہ فوری خبریں، آن لائن تعلیم اور کاروبار و روزگار کے مواقع بھی فراہم کرتا ہے۔ تاہم اس کے سنگین نقصانات بھی ہیں۔ حد سے زیادہ استعمال وقت ضائع کرتا ہے اور پڑھائی اور صحت کو نقصان پہنچاتا ہے۔ جھوٹی خبریں اور افواہیں تیزی سے پھیلتی ہیں، جبکہ سائبر بدمعاشی اور نجی معلومات کی چوری بھی بڑھتے ہوئے مسائل ہیں۔ یہ حقیقی ملاقاتوں اور رشتوں کو بھی کمزور کر سکتا ہے۔ اس لیے ہمیں سوشل میڈیا کو سمجھداری سے استعمال کرنا چاہیے، اسکرین ٹائم محدود رکھنا چاہیے اور خبر آگے بھیجنے سے پہلے اس کی تصدیق کرنی چاہیے۔ صحیح استعمال سے یہ نعمت ہے اور غلط استعمال سے زحمت۔
 
