@@ -271,26 +271,27 @@ Quaid-e-Azam Muhammad Ali Jinnah was the founder of Pakistan. He was born in Kar
 
 ## <hr>
 
-<a id="sachal-sarmast"></a>
-
-## 18. Sachal Sarmast
-Sachal Sarmast was a great Sufi poet of Sindh. His real name was Abdul Wahab, and he was born in 1739 in Daraza Sharif, near Khairpur. He wrote poetry in many languages, including Sindhi, Siraiki, Urdu, Persian, Arabic, and Punjabi. The word “Sachal” means truthful, and “Sarmast” means someone intoxicated with divine love. His poetry spreads the message of love, peace, tolerance, and humanity, and it rejects hatred and religious divisions. He is respected by people of every faith. He passed away in 1829, and his shrine is in Daraza Sharif, where a large Urs (an annual festival marking his death anniversary) is held every year.
-
-
-## 18. سچل سرمست
-
-سچل سرمست سندھ کے ایک عظیم صوفی شاعر تھے۔ ان کا اصل نام عبدالوہاب تھا اور وہ 1739ء میں خیرپور کے قریب درازہ شریف میں پیدا ہوئے۔ انہوں نے سندھی، سرائیکی، اردو، فارسی، عربی اور پنجابی سمیت کئی زبانوں میں شاعری کی۔ "سچل" کا مطلب سچ بولنے والا اور "سرمست" کا مطلب عشقِ الٰہی میں مست ہے۔ ان کی شاعری محبت، امن، رواداری اور انسانیت کا پیغام دیتی ہے اور نفرت اور مذہبی تفرقے کو رد کرتی ہے۔ ہر مذہب کے لوگ ان کا احترام کرتے ہیں۔ ان کا انتقال 1829ء میں ہوا اور ان کا مزار درازہ شریف میں ہے، جہاں ہر سال عظیم الشان عرس منعقد ہوتا ہے۔
-
-## <hr>
-
 <a id="my-aim-of-life"></a>
 
-## 19. My Aim of Life
+## 18. My Aim of Life
 
 Every person should have a clear aim in life, because without a goal, life has no direction. My aim of life is to become a member of the jail police and serve my country with honesty and courage. I want to help maintain law, order, and discipline inside prisons. This job gives me the chance to protect society by guarding prisoners and preventing crime. It also allows me to treat inmates fairly and help them reform. To achieve my aim, I am working hard, staying fit, and building discipline and punctuality. I believe that with sincere effort and the blessings of Allah, I will succeed. Serving my nation in this field is my dream.
 
-## 19. میرا مقصدِ زندگی
+## 18. میرا مقصدِ زندگی
 ہر انسان کا زندگی میں ایک واضح مقصد ہونا چاہیے، کیونکہ مقصد کے بغیر زندگی بے سمت ہو جاتی ہے۔ میرا مقصدِ حیات جیل پولیس کا حصہ بننا اور ایمانداری اور بہادری کے ساتھ اپنے ملک کی خدمت کرنا ہے۔ میں جیلوں میں امن و امان اور نظم و ضبط قائم رکھنے میں مدد کرنا چاہتا ہوں۔ یہ نوکری مجھے قیدیوں کی نگرانی اور جرائم کی روک تھام کے ذریعے معاشرے کی حفاظت کا موقع دیتی ہے۔ اس کے ذریعے میں قیدیوں سے منصفانہ سلوک کر کے ان کی اصلاح میں بھی مدد کر سکتا ہوں۔ اپنا مقصد حاصل کرنے کے لیے میں محنت کر رہا ہوں، خود کو فٹ رکھ رہا ہوں اور نظم و ضبط اور وقت کی پابندی اپنا رہا ہوں۔ مجھے یقین ہے کہ سچی کوشش اور اللہ کی مدد سے میں کامیاب ہوں گا۔ اس شعبے میں اپنے وطن کی خدمت کرنا میرا خواب ہے۔
+
+## <hr>
+
+
+<a id="sachal-sarmast"></a>
+
+## 19. Sachal Sarmast
+Sachal Sarmast was a great Sufi poet of Sindh. His real name was Abdul Wahab, and he was born in 1739 in Daraza Sharif, near Khairpur. He wrote poetry in many languages, including Sindhi, Siraiki, Urdu, Persian, Arabic, and Punjabi. The word “Sachal” means truthful, and “Sarmast” means someone intoxicated with divine love. His poetry spreads the message of love, peace, tolerance, and humanity, and it rejects hatred and religious divisions. He is respected by people of every faith. He passed away in 1829, and his shrine is in Daraza Sharif, where a large Urs (an annual festival marking his death anniversary) is held every year.
+
+
+## 19. سچل سرمست
+
+سچل سرمست سندھ کے ایک عظیم صوفی شاعر تھے۔ ان کا اصل نام عبدالوہاب تھا اور وہ 1739ء میں خیرپور کے قریب درازہ شریف میں پیدا ہوئے۔ انہوں نے سندھی، سرائیکی، اردو، فارسی، عربی اور پنجابی سمیت کئی زبانوں میں شاعری کی۔ "سچل" کا مطلب سچ بولنے والا اور "سرمست" کا مطلب عشقِ الٰہی میں مست ہے۔ ان کی شاعری محبت، امن، رواداری اور انسانیت کا پیغام دیتی ہے اور نفرت اور مذہبی تفرقے کو رد کرتی ہے۔ ہر مذہب کے لوگ ان کا احترام کرتے ہیں۔ ان کا انتقال 1829ء میں ہوا اور ان کا مزار درازہ شریف میں ہے، جہاں ہر سال عظیم الشان عرس منعقد ہوتا ہے۔
 
 ## <hr>
 
