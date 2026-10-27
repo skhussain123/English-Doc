@@ -23,14 +23,14 @@
 21. [National Game / My Favourite Game](#national-game)
 22. [My Favorite Teacher](#my-favorite-teacher)
 23. [Essay on Hazrat Muhammad Mustafa (SAW)](#hazrat-muhammad-saw)
-24. [Terrorism](#terrorism)
+24. [Terrorism & Its Prevention](#terrorism)
 25. [Importance of Discipline](#importance-of-discipline)
 26. [My School](#my-school)
 27. [Sachal Sarmast](#sachal-sarmast)
 28.  [Prison System and Problems in Sindh](#PrisonSystemandProblemsinSindh) 
 29.  [Purpose of Prison](#PurposeofPrison) 
-30.  [Advantages and Disadvantages of Social Media](#AdvantagesDisadvantagesSocial) 
-
+30.  [Reform of Prisoners in Jail](#ReformPrisonersJail) 
+31.  [Advantages and Disadvantages of Social Media](#AdvantagesDisadvantagesSocial) 
 
 
 
@@ -350,12 +350,11 @@ Hazrat Muhammad Mustafa (SAW) is the most important prophet of Islam. Born in Me
 ## <hr>
 <a id="terrorism"></a>
 
-## 24. Terrorism
+## 24. Terrorism and Its Prevention
 
 Terrorism is the use of violence and fear against innocent people to achieve political, religious or personal goals. It is one of the biggest problems facing the world today. Pakistan has suffered greatly from terrorism, losing thousands of precious lives and facing heavy economic damage. Terrorists attack schools, markets, mosques and public places to spread panic. Their actions have no link with any religion, because Islam teaches peace and respects human life. Poverty, illiteracy, injustice and extremist thinking are the main causes of terrorism. To defeat it, we need education, justice, unity and strong security forces. Our army and police have made great sacrifices to protect the nation. Together, we can make Pakistan safe and peaceful.
 
-## 24. دہشت گردی
-
+## 24. دہشت گردی اور اس کی روک تھام 
 دہشت گردی بے گناہ لوگوں کے خلاف سیاسی، مذہبی یا ذاتی مقاصد حاصل کرنے کے لیے تشدد اور خوف کا استعمال ہے۔ یہ آج دنیا کو درپیش سب سے بڑے مسائل میں سے ایک ہے۔ پاکستان نے دہشت گردی سے بہت نقصان اٹھایا ہے، ہزاروں قیمتی جانیں ضائع ہوئیں اور معیشت کو بھاری نقصان پہنچا۔ دہشت گرد اسکولوں، بازاروں، مساجد اور عوامی مقامات پر حملے کر کے خوف پھیلاتے ہیں۔ ان کے اعمال کا کسی مذہب سے کوئی تعلق نہیں، کیونکہ اسلام امن کا درس دیتا ہے اور انسانی جان کی حرمت کرتا ہے۔ غربت، ناخواندگی، ناانصافی اور انتہا پسندانہ سوچ دہشت گردی کی بڑی وجوہات ہیں۔ اسے شکست دینے کے لیے تعلیم، انصاف، اتحاد اور مضبوط سیکیورٹی فورسز ضروری ہیں۔ ہماری فوج اور پولیس نے وطن کی حفاظت کے لیے عظیم قربانیاں دی ہیں۔ مل کر ہم پاکستان کو محفوظ اور پرامن بنا سکتے ہیں۔
 
 ## <hr>
@@ -413,13 +412,27 @@ The purpose of a prison is not only to punish criminals but also to protect soci
 
 جیل کا مقصد صرف مجرموں کو سزا دینا نہیں بلکہ معاشرے کی حفاظت اور مجرموں کی اصلاح بھی ہے۔ سب سے پہلے جیلیں خطرناک افراد کو عوام سے دور رکھتی ہیں، جس سے امن و امان قائم رہتا ہے۔ دوسرا، جیل کی سزا دوسروں کو جرم کرنے سے باز رکھتی ہے۔ تیسرا اور سب سے اہم مقصد قیدیوں کی تعلیم، ہنر کی تربیت اور دینی رہنمائی کے ذریعے اصلاح کرنا ہے تاکہ وہ ذمہ دار شہری بن کر معاشرے میں واپس آ سکیں۔ جیلیں متاثرین کو انصاف دلانے میں بھی مدد کرتی ہیں کیونکہ مجرم کو اپنے عمل کا نتیجہ بھگتنا پڑتا ہے۔ ایک اچھی جیل قیدیوں سے منصفانہ سلوک کرتی ہے، ان کے بنیادی حقوق کا احترام کرتی ہے اور انہیں نئی زندگی شروع کرنے کا موقع دیتی ہے۔ اس لیے جیل صرف سزا کی جگہ نہیں بلکہ اصلاح کی جگہ ہونی چاہیے۔
 
+
+## <hr>
+<a id="ReformPrisonersJail"></a>
+
+## 30. Reform of Prisoners in Jail
+Reform of prisoners is the most important purpose of a modern prison. A criminal is not born bad; poverty, bad company, and lack of education often push people toward crime. Jails try to change this through education, skill training, and religious guidance. Prisoners learn useful trades like carpentry, tailoring, and computer skills, which help them earn an honest living after release. Counseling and moral teaching reduce anger and build good character. Fair treatment and respect for basic rights also give prisoners hope. Jail staff play a key role by guiding inmates with patience and discipline. When prisoners are reformed, they return to society as responsible citizens and crime decreases.
+
+
+## 30. جیل میں قیدیوں کی اصلاح
+
+قیدیوں کی اصلاح جدید جیل کا سب سے اہم مقصد ہے۔ مجرم پیدائشی برا نہیں ہوتا، اکثر غربت، بری صحبت اور تعلیم کی کمی لوگوں کو جرم کی طرف لے جاتی ہے۔ جیلیں تعلیم، ہنر کی تربیت اور دینی رہنمائی کے ذریعے اس رجحان کو بدلنے کی کوشش کرتی ہیں۔ قیدی بڑھئی گیری، سلائی اور کمپیوٹر جیسے مفید ہنر سیکھتے ہیں جو رہائی کے بعد ان کے لیے باعزت روزگار کا ذریعہ بنتے ہیں۔ مشاورت اور اخلاقی تعلیم غصے کو کم کرتی اور اچھا کردار بناتی ہے۔ منصفانہ سلوک اور بنیادی حقوق کا احترام بھی قیدیوں میں امید پیدا کرتا ہے۔ جیل کا عملہ صبر اور نظم و ضبط کے ساتھ رہنمائی کر کے اہم کردار ادا کرتا ہے۔ جب قیدی اصلاح پا جاتے ہیں تو وہ ذمہ دار شہری بن کر معاشرے میں لوٹتے ہیں اور جرائم کم ہوتے ہیں۔
+
+
+
 ## <hr>
 <a id="AdvantagesDisadvantagesSocial"></a>
 
-## 30. Advantages Disadvantages Social Media
+## 31. Advantages Disadvantages Social Media
 Social media has become an important part of modern life. Its biggest advantage is fast communication, as people can connect with family and friends anywhere in the world within seconds. It also provides quick news, online education, and business and job opportunities. However, it has serious disadvantages too. Excessive use wastes time and harms studies and health. Fake news and rumors spread easily, and cyberbullying and privacy theft are growing problems. It can also reduce real face-to-face relationships. Therefore, we should use social media wisely, limit our screen time, and verify information before sharing it. Used properly, it is a blessing; used carelessly, it becomes a curse.
 
-## 30. سوشل میڈیا کے فائدے اور نقصانات
+## 31. سوشل میڈیا کے فائدے اور نقصانات
 
 سوشل میڈیا جدید زندگی کا اہم حصہ بن چکا ہے۔ اس کا سب سے بڑا فائدہ تیز رابطہ ہے، کیونکہ لوگ دنیا کے کسی بھی کونے میں اپنے خاندان اور دوستوں سے چند سیکنڈ میں رابطہ کر سکتے ہیں۔ یہ فوری خبریں، آن لائن تعلیم اور کاروبار و روزگار کے مواقع بھی فراہم کرتا ہے۔ تاہم اس کے سنگین نقصانات بھی ہیں۔ حد سے زیادہ استعمال وقت ضائع کرتا ہے اور پڑھائی اور صحت کو نقصان پہنچاتا ہے۔ جھوٹی خبریں اور افواہیں تیزی سے پھیلتی ہیں، جبکہ سائبر بدمعاشی اور نجی معلومات کی چوری بھی بڑھتے ہوئے مسائل ہیں۔ یہ حقیقی ملاقاتوں اور رشتوں کو بھی کمزور کر سکتا ہے۔ اس لیے ہمیں سوشل میڈیا کو سمجھداری سے استعمال کرنا چاہیے، اسکرین ٹائم محدود رکھنا چاہیے اور خبر آگے بھیجنے سے پہلے اس کی تصدیق کرنی چاہیے۔ صحیح استعمال سے یہ نعمت ہے اور غلط استعمال سے زحمت۔
 
