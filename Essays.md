@@ -27,6 +27,10 @@
 25. [Importance of Discipline](#importance-of-discipline)
 26. [My School](#my-school)
 27. [Sachal Sarmast](#sachal-sarmast)
+28.  [Prison System and Problems in Sindh](#PrisonSystemandProblemsinSindh) 
+29.  [Purpose of Prison](#PurposeofPrison) 
+30.  [Advantages and Disadvantages of Social Media](#AdvantagesDisadvantagesSocial) 
+
 
 
 
@@ -78,7 +82,6 @@ The jail police carry heavy responsibilities for the safety and discipline of pr
 ## 4. جیل پولیس کی ذمہ داریاں
 
 جیل پولیس پر جیلوں کی حفاظت اور نظم و ضبط کی بھاری ذمہ داریاں عائد ہوتی ہیں۔ ان کا پہلا فرض قیدیوں کی دن رات نگرانی کرنا اور ان کے فرار کو روکنا ہے۔ وہ ملاقاتیوں اور قیدیوں کی تلاشی لیتے ہیں تاکہ اسلحہ اور منشیات جیسی ممنوعہ اشیا جیل کے اندر نہ آ سکیں۔ وہ قیدیوں کا درست ریکارڈ رکھتے ہیں، جس میں داخلہ، رہائی اور عدالت میں پیشی شامل ہے۔ ہنگامی حالات جیسے بلوہ یا آگ لگنے کی صورت میں انہیں فوری کارروائی کر کے سب کو محفوظ رکھنا ہوتا ہے۔ وہ اس بات کو بھی یقینی بناتے ہیں کہ قیدیوں کو قانون کے مطابق خوراک، طبی سہولت اور منصفانہ سلوک ملے۔ جیل پولیس اہلکار کو ہر وقت ایماندار، چوکنا، صابر اور اپنے فرض کا وفادار رہنا چاہیے۔
-
 
 ## <hr>
 <a id="psl"></a>
@@ -388,10 +391,37 @@ Sachal Sarmast was a great Sufi poet of Sindh. His real name was Abdul Wahab, an
 سچل سرمست سندھ کے ایک عظیم صوفی شاعر تھے۔ ان کا اصل نام عبدالوہاب تھا اور وہ 1739ء میں خیرپور کے قریب درازہ شریف میں پیدا ہوئے۔ انہوں نے سندھی، سرائیکی، اردو، فارسی، عربی اور پنجابی سمیت کئی زبانوں میں شاعری کی۔ "سچل" کا مطلب سچ بولنے والا اور "سرمست" کا مطلب عشقِ الٰہی میں مست ہے۔ ان کی شاعری محبت، امن، رواداری اور انسانیت کا پیغام دیتی ہے اور نفرت اور مذہبی تفرقے کو رد کرتی ہے۔ ہر مذہب کے لوگ ان کا احترام کرتے ہیں۔ ان کا انتقال 1829ء میں ہوا اور ان کا مزار درازہ شریف میں ہے، جہاں ہر سال عظیم الشان عرس منعقد ہوتا ہے۔
 
 
+## <hr>
+<a id="PrisonSystemandProblemsinSindh"></a>
+
+## 28. Prison System and Problems in Sindh
+
+The prison system in Sindh is run by the Sindh Prisons Department, which looks after jails across the province, including Karachi, Hyderabad, Sukkur, and Larkana. Its purpose is to keep prisoners safe, maintain discipline, and help them reform. However, several problems exist. Many jails are overcrowded, and under-trial prisoners wait years for their cases to be decided. Shortage of staff, poor medical facilities, and weak sanitation also affect inmates. Corruption and smuggling of banned items remain serious concerns. To improve the system, the government should increase staff, build new jails, speed up court cases, and provide training and education to prisoners.
+
+## 28. سندھ میں جیل خانہ جات کا نظام اور مسائل
+
+سندھ میں جیلوں کا نظام محکمہ جیل خانہ جات سندھ کے زیرِ انتظام ہے، جو کراچی، حیدرآباد، سکھر اور لاڑکانہ سمیت پورے صوبے کی جیلوں کی دیکھ بھال کرتا ہے۔ اس کا مقصد قیدیوں کی حفاظت، نظم و ضبط اور اصلاح ہے۔ تاہم کئی مسائل موجود ہیں۔ بہت سی جیلوں میں گنجائش سے زیادہ قیدی ہیں اور حوالاتی قیدی برسوں مقدمات کے فیصلوں کے منتظر رہتے ہیں۔ عملے کی کمی، ناقص طبی سہولیات اور صفائی کی خراب صورتحال بھی قیدیوں کو متاثر کرتی ہے۔ کرپشن اور ممنوعہ اشیا کی اسمگلنگ بھی سنگین مسائل ہیں۔ نظام بہتر بنانے کے لیے عملہ بڑھانا، نئی جیلیں بنانا، مقدمات جلد نمٹانا اور قیدیوں کو تعلیم و تربیت دینا ضروری ہے۔
 
 
+## <hr>
+<a id="PurposeofPrison"></a>
 
+## 29. PurposeofPrison
+The purpose of a prison is not only to punish criminals but also to protect society and reform offenders. First, prisons keep dangerous people away from the public, which helps maintain law and order. Second, punishment in jail discourages others from committing crimes. Third, and most important, prisons aim to reform inmates through education, skill training, and religious guidance, so that they can return to society as responsible citizens. Prisons also provide justice to victims by ensuring that wrongdoers face consequences. A well-run jail treats prisoners fairly, respects their basic rights, and gives them a chance to start a new life. Thus, a prison should be a place of correction, not just of punishment.
 
+## 29. جیل کا مقصد
+
+جیل کا مقصد صرف مجرموں کو سزا دینا نہیں بلکہ معاشرے کی حفاظت اور مجرموں کی اصلاح بھی ہے۔ سب سے پہلے جیلیں خطرناک افراد کو عوام سے دور رکھتی ہیں، جس سے امن و امان قائم رہتا ہے۔ دوسرا، جیل کی سزا دوسروں کو جرم کرنے سے باز رکھتی ہے۔ تیسرا اور سب سے اہم مقصد قیدیوں کی تعلیم، ہنر کی تربیت اور دینی رہنمائی کے ذریعے اصلاح کرنا ہے تاکہ وہ ذمہ دار شہری بن کر معاشرے میں واپس آ سکیں۔ جیلیں متاثرین کو انصاف دلانے میں بھی مدد کرتی ہیں کیونکہ مجرم کو اپنے عمل کا نتیجہ بھگتنا پڑتا ہے۔ ایک اچھی جیل قیدیوں سے منصفانہ سلوک کرتی ہے، ان کے بنیادی حقوق کا احترام کرتی ہے اور انہیں نئی زندگی شروع کرنے کا موقع دیتی ہے۔ اس لیے جیل صرف سزا کی جگہ نہیں بلکہ اصلاح کی جگہ ہونی چاہیے۔
+
+## <hr>
+<a id="AdvantagesDisadvantagesSocial"></a>
+
+## 30. Advantages Disadvantages Social Media
+Social media has become an important part of modern life. Its biggest advantage is fast communication, as people can connect with family and friends anywhere in the world within seconds. It also provides quick news, online education, and business and job opportunities. However, it has serious disadvantages too. Excessive use wastes time and harms studies and health. Fake news and rumors spread easily, and cyberbullying and privacy theft are growing problems. It can also reduce real face-to-face relationships. Therefore, we should use social media wisely, limit our screen time, and verify information before sharing it. Used properly, it is a blessing; used carelessly, it becomes a curse.
+
+## 30. سوشل میڈیا کے فائدے اور نقصانات
+
+سوشل میڈیا جدید زندگی کا اہم حصہ بن چکا ہے۔ اس کا سب سے بڑا فائدہ تیز رابطہ ہے، کیونکہ لوگ دنیا کے کسی بھی کونے میں اپنے خاندان اور دوستوں سے چند سیکنڈ میں رابطہ کر سکتے ہیں۔ یہ فوری خبریں، آن لائن تعلیم اور کاروبار و روزگار کے مواقع بھی فراہم کرتا ہے۔ تاہم اس کے سنگین نقصانات بھی ہیں۔ حد سے زیادہ استعمال وقت ضائع کرتا ہے اور پڑھائی اور صحت کو نقصان پہنچاتا ہے۔ جھوٹی خبریں اور افواہیں تیزی سے پھیلتی ہیں، جبکہ سائبر بدمعاشی اور نجی معلومات کی چوری بھی بڑھتے ہوئے مسائل ہیں۔ یہ حقیقی ملاقاتوں اور رشتوں کو بھی کمزور کر سکتا ہے۔ اس لیے ہمیں سوشل میڈیا کو سمجھداری سے استعمال کرنا چاہیے، اسکرین ٹائم محدود رکھنا چاہیے اور خبر آگے بھیجنے سے پہلے اس کی تصدیق کرنی چاہیے۔ صحیح استعمال سے یہ نعمت ہے اور غلط استعمال سے زحمت۔
 
 
 
