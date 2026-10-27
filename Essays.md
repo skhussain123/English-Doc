@@ -17,8 +17,8 @@
 15. [Allama Iqbal](#allama-iqbal)
 16. [Corruption](#corruption)
 17. [Quaid-e-Azam Muhammad Ali Jinnah](#quaid-e-azam)
-18. [Sachal Sarmast](#sachal-sarmast)
-19. [My Aim of Life](#my-aim-of-life)
+18. [My Aim of Life](#my-aim-of-life)
+19. [Sachal Sarmast](#sachal-sarmast)
 20. [National Game / My Favourite Game](#national-game)
 21. [My Favorite Teacher](#my-favorite-teacher)
 22. [My School](#my-school)
@@ -281,6 +281,76 @@ Every person should have a clear aim in life, because without a goal, life has n
 ہر انسان کا زندگی میں ایک واضح مقصد ہونا چاہیے، کیونکہ مقصد کے بغیر زندگی بے سمت ہو جاتی ہے۔ میرا مقصدِ حیات جیل پولیس کا حصہ بننا اور ایمانداری اور بہادری کے ساتھ اپنے ملک کی خدمت کرنا ہے۔ میں جیلوں میں امن و امان اور نظم و ضبط قائم رکھنے میں مدد کرنا چاہتا ہوں۔ یہ نوکری مجھے قیدیوں کی نگرانی اور جرائم کی روک تھام کے ذریعے معاشرے کی حفاظت کا موقع دیتی ہے۔ اس کے ذریعے میں قیدیوں سے منصفانہ سلوک کر کے ان کی اصلاح میں بھی مدد کر سکتا ہوں۔ اپنا مقصد حاصل کرنے کے لیے میں محنت کر رہا ہوں، خود کو فٹ رکھ رہا ہوں اور نظم و ضبط اور وقت کی پابندی اپنا رہا ہوں۔ مجھے یقین ہے کہ سچی کوشش اور اللہ کی مدد سے میں کامیاب ہوں گا۔ اس شعبے میں اپنے وطن کی خدمت کرنا میرا خواب ہے۔
 
 ## <hr>
+<a id="myself"></a>
+
+## 19. Myself / My Introduction
+**Myself / My Introduction**
+
+My name is Muhammad Hussain. I belong to Karachi, Pakistan. I am a hardworking, honest, and responsible person. I always try to learn new things and improve myself. I respect my elders and obey my parents. My hobby is reading books and learning useful skills. My aim in life is to become a successful police officer. I have a great interest in Jail Police because I want to serve my country and protect society. I believe that discipline, honesty, courage, and punctuality are important qualities of a good police officer. I will work hard to achieve my goal and perform my duties sincerely.
+
+
+## 19. **میرا تعارف**
+
+میرا نام محمد حسین ہے۔ میرا تعلق کراچی، پاکستان سے ہے۔ میں ایک محنتی، ایماندار اور ذمہ دار انسان ہوں۔ میں ہمیشہ نئی چیزیں سیکھنے اور اپنی صلاحیتوں کو بہتر بنانے کی کوشش کرتا ہوں۔ میں اپنے بڑوں کی عزت کرتا ہوں اور اپنے والدین کی فرمانبرداری کرتا ہوں۔ میرا شوق کتابیں پڑھنا اور مفید چیزیں سیکھنا ہے۔ میری زندگی کا مقصد ایک کامیاب پولیس افسر بننا ہے۔ مجھے جیل پولیس میں بھرتی ہونے کا بہت شوق ہے۔ میں اپنے ملک کی خدمت اور معاشرے کی حفاظت کرنا چاہتا ہوں۔ میں اپنے مقصد کو حاصل کرنے کے لیے محنت کروں گا اور اپنی ڈیوٹی ایمانداری سے انجام دوں گا۔
+
+
+## <hr>
+
+<a id="my-hobby"></a>
+
+## 20. My Hobby
+
+My hobby is running and exercise. Every morning I wake up early and run for thirty minutes. This hobby keeps my body healthy and my mind fresh. It has also taught me discipline, patience, and punctuality. Through regular practice, I have learned that hard work always brings success. My hobby is not just a pastime, it is also part of my preparation for my aim in life. I want to join the jail police and serve my country with honesty and courage. A strong body and a disciplined mind are very important for this job. I enjoy my hobby and I will continue it throughout my life.
+
+## 20. میرا شوق (کرکٹ)
+میرا شوق دوڑ اور ورزش ہے۔ میں ہر صبح جلدی اٹھ کر تیس منٹ دوڑتا ہوں۔ یہ شوق میرے جسم کو صحت مند اور ذہن کو تازہ رکھتا ہے۔ اس نے مجھے نظم و ضبط، صبر اور وقت کی پابندی بھی سکھائی ہے۔ مسلسل مشق سے میں نے سیکھا ہے کہ محنت ہمیشہ کامیابی دیتی ہے۔ میرا شوق صرف وقت گزاری نہیں بلکہ زندگی کے مقصد کی تیاری بھی ہے۔ میں جیل پولیس میں شامل ہو کر ایمانداری اور بہادری سے ملک کی خدمت کرنا چاہتا ہوں۔ اس کام کے لیے مضبوط جسم اور منظم ذہن بہت ضروری ہیں۔ مجھے اپنا شوق پسند ہے اور میں اسے ہمیشہ جاری رکھوں گا۔
+
+## <hr>
+
+<a id="national-game"></a>
+
+## 21. National Game / My Favourite Game
+
+Hockey is the national game of our beloved country, Pakistan. It is played outdoors between two teams. Each team has 11 players, who use sticks to hit the ball into the opponent’s goal. It is my favourite game, and I enjoy playing it very much. Hockey is one of the most popular sports in the world. It teaches us teamwork, discipline, and fitness. Pakistan has won the Hockey World Cup four times, in 1971, 1978, 1982, and 1994, which makes us proud. Our hockey team wears green and white jerseys and represents the nation with pride.
+
+
+## 21. قومی کھیل / میرا پسندیدہ کھیل
+
+ہاکی ہمارے پیارے ملک پاکستان کا قومی کھیل ہے۔ یہ ایک بیرونی کھیل ہے جو کھلے میدان میں دو ٹیموں کے درمیان کھیلا جاتا ہے۔ ہر ٹیم میں 11 کھلاڑی ہوتے ہیں، جو اسٹک سے گیند کو مار کر گول کرتے ہیں۔ یہ میرا پسندیدہ کھیل ہے اور مجھے اسے کھیلنا بہت پسند ہے۔ ہاکی دنیا کے مقبول ترین کھیلوں میں سے ایک ہے۔ یہ ہمیں ٹیم ورک، نظم و ضبط اور صحت مند رہنا سکھاتی ہے۔ پاکستان نے ہاکی کا ورلڈ کپ چار مرتبہ جیتا ہے، یعنی 1971، 1978، 1982 اور 1994 میں، جس پر ہمیں فخر ہے۔ ہماری ہاکی ٹیم سبز اور سفید لباس پہنتی ہے اور فخر کے ساتھ ملک کی نمائندگی کرتی ہے۔
+
+## <hr>
+
+<a id="my-favorite-teacher"></a>
+
+## 22. My Favorite Teacher
+
+Many teachers have taught me very well, but I like Sir Shams Deen Gopang the most. He is my best and favorite teacher. He is kind, humble and very intelligent. His teaching method is simple, easy and attractive. He supports, encourages and motivates every student. He is my class teacher and teaches us English regularly in an easy way. He also teaches us good habits and morals, which help us become better people. He treats everyone equally and never makes us feel afraid. He is the greatest teacher in our school, and I respect him from my heart. I like his way of teaching very much.
+
+
+## 22. میرا پسندیدہ استاد
+
+کئی اساتذہ نے مجھے بہت اچھا پڑھایا ہے، لیکن مجھے استاد شمس الدین گوپانگ سب سے زیادہ پسند ہیں۔ وہ میرے بہترین اور پسندیدہ استاد ہیں۔ وہ مہربان، عاجز اور بہت ذہین ہیں۔ ان کا پڑھانے کا طریقہ سادہ، آسان اور پرکشش ہے۔ وہ ہر طالب علم کی حمایت اور حوصلہ افزائی کرتے ہیں۔ وہ میرے کلاس ٹیچر ہیں اور ہمیں باقاعدگی سے آسان انداز میں انگریزی پڑھاتے ہیں۔ وہ ہمیں اچھی عادات اور اخلاقیات بھی سکھاتے ہیں، جو ہمیں بہتر انسان بننے میں مدد دیتی ہیں۔ وہ سب کے ساتھ برابری کا سلوک کرتے ہیں اور ہمیں کبھی خوفزدہ نہیں کرتے۔ وہ ہمارے اسکول کے سب سے عظیم استاد ہیں اور میں دل سے ان کی عزت کرتا ہوں۔ مجھے ان کا پڑھانے کا انداز بہت پسند ہے۔
+
+## <hr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <a id="sachal-sarmast"></a>
@@ -293,33 +363,7 @@ Sachal Sarmast was a great Sufi poet of Sindh. His real name was Abdul Wahab, an
 
 سچل سرمست سندھ کے ایک عظیم صوفی شاعر تھے۔ ان کا اصل نام عبدالوہاب تھا اور وہ 1739ء میں خیرپور کے قریب درازہ شریف میں پیدا ہوئے۔ انہوں نے سندھی، سرائیکی، اردو، فارسی، عربی اور پنجابی سمیت کئی زبانوں میں شاعری کی۔ "سچل" کا مطلب سچ بولنے والا اور "سرمست" کا مطلب عشقِ الٰہی میں مست ہے۔ ان کی شاعری محبت، امن، رواداری اور انسانیت کا پیغام دیتی ہے اور نفرت اور مذہبی تفرقے کو رد کرتی ہے۔ ہر مذہب کے لوگ ان کا احترام کرتے ہیں۔ ان کا انتقال 1829ء میں ہوا اور ان کا مزار درازہ شریف میں ہے، جہاں ہر سال عظیم الشان عرس منعقد ہوتا ہے۔
 
-## <hr>
 
-<a id="national-game"></a>
-
-## 20. National Game / My Favourite Game
-
-Hockey is the national game of our beloved country, Pakistan. It is played outdoors between two teams. Each team has 11 players, who use sticks to hit the ball into the opponent’s goal. It is my favourite game, and I enjoy playing it very much. Hockey is one of the most popular sports in the world. It teaches us teamwork, discipline, and fitness. Pakistan has won the Hockey World Cup four times, in 1971, 1978, 1982, and 1994, which makes us proud. Our hockey team wears green and white jerseys and represents the nation with pride.
-
-
-## 20. قومی کھیل / میرا پسندیدہ کھیل
-
-ہاکی ہمارے پیارے ملک پاکستان کا قومی کھیل ہے۔ یہ ایک بیرونی کھیل ہے جو کھلے میدان میں دو ٹیموں کے درمیان کھیلا جاتا ہے۔ ہر ٹیم میں 11 کھلاڑی ہوتے ہیں، جو اسٹک سے گیند کو مار کر گول کرتے ہیں۔ یہ میرا پسندیدہ کھیل ہے اور مجھے اسے کھیلنا بہت پسند ہے۔ ہاکی دنیا کے مقبول ترین کھیلوں میں سے ایک ہے۔ یہ ہمیں ٹیم ورک، نظم و ضبط اور صحت مند رہنا سکھاتی ہے۔ پاکستان نے ہاکی کا ورلڈ کپ چار مرتبہ جیتا ہے، یعنی 1971، 1978، 1982 اور 1994 میں، جس پر ہمیں فخر ہے۔ ہماری ہاکی ٹیم سبز اور سفید لباس پہنتی ہے اور فخر کے ساتھ ملک کی نمائندگی کرتی ہے۔
-
-## <hr>
-
-<a id="my-favorite-teacher"></a>
-
-## 21. My Favorite Teacher
-
-Many teachers have taught me very well, but I like Sir Shams Deen Gopang the most. He is my best and favorite teacher. He is kind, humble and very intelligent. His teaching method is simple, easy and attractive. He supports, encourages and motivates every student. He is my class teacher and teaches us English regularly in an easy way. He also teaches us good habits and morals, which help us become better people. He treats everyone equally and never makes us feel afraid. He is the greatest teacher in our school, and I respect him from my heart. I like his way of teaching very much.
-
-
-## 21. میرا پسندیدہ استاد
-
-کئی اساتذہ نے مجھے بہت اچھا پڑھایا ہے، لیکن مجھے استاد شمس الدین گوپانگ سب سے زیادہ پسند ہیں۔ وہ میرے بہترین اور پسندیدہ استاد ہیں۔ وہ مہربان، عاجز اور بہت ذہین ہیں۔ ان کا پڑھانے کا طریقہ سادہ، آسان اور پرکشش ہے۔ وہ ہر طالب علم کی حمایت اور حوصلہ افزائی کرتے ہیں۔ وہ میرے کلاس ٹیچر ہیں اور ہمیں باقاعدگی سے آسان انداز میں انگریزی پڑھاتے ہیں۔ وہ ہمیں اچھی عادات اور اخلاقیات بھی سکھاتے ہیں، جو ہمیں بہتر انسان بننے میں مدد دیتی ہیں۔ وہ سب کے ساتھ برابری کا سلوک کرتے ہیں اور ہمیں کبھی خوفزدہ نہیں کرتے۔ وہ ہمارے اسکول کے سب سے عظیم استاد ہیں اور میں دل سے ان کی عزت کرتا ہوں۔ مجھے ان کا پڑھانے کا انداز بہت پسند ہے۔
-
-## <hr>
 
 <a id="my-school"></a>
 
@@ -341,29 +385,7 @@ Hazrat Muhammad Mustafa (SAW) is the most important prophet of Islam. Born in Me
 ## <hr>
 
 
-<a id="national-game-of-pakistan"></a>
 
-## 24. National Game of Pakistan
-
-The national game of Pakistan is hockey. It is an exciting sport played with a stick and a ball between two teams of eleven players each. The players try to score goals by hitting the ball into the opponent's net. I like how fast and thrilling hockey is. In Pakistan, people love watching and playing it. Our national team wears green and white and makes us proud. Pakistan has won the Hockey World Cup four times, which is a great achievement. Hockey brings people together and makes us cheer for our country. It is fun to play, and it shows how strong and united we are as a nation.
-
-## 24. پاکستان کا قومی کھیل
-
-پاکستان کا قومی کھیل ہاکی ہے۔ یہ ایک دلچسپ کھیل ہے جو اسٹک اور گیند کے ساتھ گیارہ گیارہ کھلاڑیوں کی دو ٹیموں کے درمیان کھیلا جاتا ہے۔ کھلاڑی گیند کو مخالف ٹیم کے نیٹ میں مار کر گول کرنے کی کوشش کرتے ہیں۔ مجھے ہاکی کی تیزی اور سنسنی بہت پسند ہے۔ پاکستان میں لوگ اسے دیکھنا اور کھیلنا بہت پسند کرتے ہیں۔ ہماری قومی ٹیم سبز اور سفید لباس پہنتی ہے اور ہمیں فخر کا احساس دلاتی ہے۔ پاکستان نے ہاکی کا ورلڈ کپ چار مرتبہ جیتا ہے، جو ایک عظیم کامیابی ہے۔ ہاکی لوگوں کو آپس میں جوڑتی ہے اور ہمیں اپنے ملک کے لیے نعرے لگانے پر مجبور کرتی ہے۔ اسے کھیلنے میں بہت مزہ آتا ہے، اور یہ ظاہر کرتا ہے کہ ہم بطور قوم کتنے مضبوط اور متحد ہیں۔
-
-
-## <hr>
-
-<a id="my-hobby"></a>
-
-## 25. My Hobby
-
-My hobby is running and exercise. Every morning I wake up early and run for thirty minutes. This hobby keeps my body healthy and my mind fresh. It has also taught me discipline, patience, and punctuality. Through regular practice, I have learned that hard work always brings success. My hobby is not just a pastime, it is also part of my preparation for my aim in life. I want to join the jail police and serve my country with honesty and courage. A strong body and a disciplined mind are very important for this job. I enjoy my hobby and I will continue it throughout my life.
-
-## 25. میرا شوق (کرکٹ)
-میرا شوق دوڑ اور ورزش ہے۔ میں ہر صبح جلدی اٹھ کر تیس منٹ دوڑتا ہوں۔ یہ شوق میرے جسم کو صحت مند اور ذہن کو تازہ رکھتا ہے۔ اس نے مجھے نظم و ضبط، صبر اور وقت کی پابندی بھی سکھائی ہے۔ مسلسل مشق سے میں نے سیکھا ہے کہ محنت ہمیشہ کامیابی دیتی ہے۔ میرا شوق صرف وقت گزاری نہیں بلکہ زندگی کے مقصد کی تیاری بھی ہے۔ میں جیل پولیس میں شامل ہو کر ایمانداری اور بہادری سے ملک کی خدمت کرنا چاہتا ہوں۔ اس کام کے لیے مضبوط جسم اور منظم ذہن بہت ضروری ہیں۔ مجھے اپنا شوق پسند ہے اور میں اسے ہمیشہ جاری رکھوں گا۔
-
-## <hr>
 
 <a id="importance-of-discipline"></a>
 
@@ -387,19 +409,5 @@ Terrorism is the use of violence and fear against innocent people to achieve pol
 دہشت گردی بے گناہ لوگوں کے خلاف سیاسی، مذہبی یا ذاتی مقاصد حاصل کرنے کے لیے تشدد اور خوف کا استعمال ہے۔ یہ آج دنیا کو درپیش سب سے بڑے مسائل میں سے ایک ہے۔ پاکستان نے دہشت گردی سے بہت نقصان اٹھایا ہے، ہزاروں قیمتی جانیں ضائع ہوئیں اور معیشت کو بھاری نقصان پہنچا۔ دہشت گرد اسکولوں، بازاروں، مساجد اور عوامی مقامات پر حملے کر کے خوف پھیلاتے ہیں۔ ان کے اعمال کا کسی مذہب سے کوئی تعلق نہیں، کیونکہ اسلام امن کا درس دیتا ہے اور انسانی جان کی حرمت کرتا ہے۔ غربت، ناخواندگی، ناانصافی اور انتہا پسندانہ سوچ دہشت گردی کی بڑی وجوہات ہیں۔ اسے شکست دینے کے لیے تعلیم، انصاف، اتحاد اور مضبوط سیکیورٹی فورسز ضروری ہیں۔ ہماری فوج اور پولیس نے وطن کی حفاظت کے لیے عظیم قربانیاں دی ہیں۔ مل کر ہم پاکستان کو محفوظ اور پرامن بنا سکتے ہیں۔
 
 
-## <hr>
-<a id="myself"></a>
 
-## 28. Myself / My Introduction
-**Myself / My Introduction**
-
-My name is Muhammad Hussain. I belong to Karachi, Pakistan. I am a hardworking, honest, and responsible person. I always try to learn new things and improve myself. I respect my elders and obey my parents. My hobby is reading books and learning useful skills. My aim in life is to become a successful police officer. I have a great interest in Jail Police because I want to serve my country and protect society. I believe that discipline, honesty, courage, and punctuality are important qualities of a good police officer. I will work hard to achieve my goal and perform my duties sincerely.
-
-
-## 28. **میرا تعارف**
-
-میرا نام محمد حسین ہے۔ میرا تعلق کراچی، پاکستان سے ہے۔ میں ایک محنتی، ایماندار اور ذمہ دار انسان ہوں۔ میں ہمیشہ نئی چیزیں سیکھنے اور اپنی صلاحیتوں کو بہتر بنانے کی کوشش کرتا ہوں۔ میں اپنے بڑوں کی عزت کرتا ہوں اور اپنے والدین کی فرمانبرداری کرتا ہوں۔ میرا شوق کتابیں پڑھنا اور مفید چیزیں سیکھنا ہے۔ میری زندگی کا مقصد ایک کامیاب پولیس افسر بننا ہے۔ مجھے جیل پولیس میں بھرتی ہونے کا بہت شوق ہے۔ میں اپنے ملک کی خدمت اور معاشرے کی حفاظت کرنا چاہتا ہوں۔ میں اپنے مقصد کو حاصل کرنے کے لیے محنت کروں گا اور اپنی ڈیوٹی ایمانداری سے انجام دوں گا۔
-
-
-## <hr>
 
