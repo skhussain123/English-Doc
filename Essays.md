@@ -36,8 +36,10 @@
 34.  [My Favourite Personality](#MyFavouritePersonality)
 35.  [Role of Police and People in Eradicating Drugs](#RolePoliceEradicatingDrugs)
 36.  [Advantages and Disadvantages of Social Media](#AdvantagesDisadvantagesSocial) 
-
-
+37. [Culture of Sindh](#CultureSindh)
+38. [Environment/Pollution](#EnvironmentPollution)
+39. [Unemployment](#Unemployment)
+40. [Inflation](#Inflation)
 
 
 #### <hr>
@@ -490,8 +492,6 @@ Drug abuse is a serious curse that destroys health, families, and the future of 
 منشیات ایک سنگین لعنت ہے جو صحت، خاندانوں اور نوجوانوں کے مستقبل کو تباہ کر دیتی ہے۔ اس کے خاتمے کے لیے پولیس اور عوام دونوں کی کوشش ضروری ہے۔ پولیس کو منشیات فروشوں کو گرفتار کرنا، اسمگلنگ کے نیٹ ورک توڑنا اور اسکولوں اور کالجوں کے قریب منشیات بیچنے والوں کے خلاف سخت کارروائی کرنی چاہیے۔ اینٹی نارکوٹکس فورس اور جیل کا عملہ بھی جیلوں میں منشیات کا داخلہ روک کر مدد کرتا ہے۔ عوام کو بھی اپنا کردار ادا کرنا ہوگا۔ والدین بچوں کی صحبت پر نظر رکھیں، اساتذہ طلبہ کی رہنمائی کریں اور شہری بلا خوف منشیات فروشوں کی اطلاع دیں۔ علاج اور بحالی کے مراکز نشے کے عادی افراد کی صحت یابی میں مدد کریں۔ پولیس اور عوام کے باہمی تعاون سے ہی ہم منشیات سے پاک معاشرہ بنا سکتے ہیں۔
 
 
-
-
 ## <hr>
 <a id="AdvantagesDisadvantagesSocial"></a>
 
@@ -503,7 +503,54 @@ Social media has become an important part of modern life. Its biggest advantage 
 سوشل میڈیا جدید زندگی کا اہم حصہ بن چکا ہے۔ اس کا سب سے بڑا فائدہ تیز رابطہ ہے، کیونکہ لوگ دنیا کے کسی بھی کونے میں اپنے خاندان اور دوستوں سے چند سیکنڈ میں رابطہ کر سکتے ہیں۔ یہ فوری خبریں، آن لائن تعلیم اور کاروبار و روزگار کے مواقع بھی فراہم کرتا ہے۔ تاہم اس کے سنگین نقصانات بھی ہیں۔ حد سے زیادہ استعمال وقت ضائع کرتا ہے اور پڑھائی اور صحت کو نقصان پہنچاتا ہے۔ جھوٹی خبریں اور افواہیں تیزی سے پھیلتی ہیں، جبکہ سائبر بدمعاشی اور نجی معلومات کی چوری بھی بڑھتے ہوئے مسائل ہیں۔ یہ حقیقی ملاقاتوں اور رشتوں کو بھی کمزور کر سکتا ہے۔ اس لیے ہمیں سوشل میڈیا کو سمجھداری سے استعمال کرنا چاہیے، اسکرین ٹائم محدود رکھنا چاہیے اور خبر آگے بھیجنے سے پہلے اس کی تصدیق کرنی چاہیے۔ صحیح استعمال سے یہ نعمت ہے اور غلط استعمال سے زحمت۔
 
 
+## <hr>
+<a id="CultureSindh"></a>
 
+## 37. Culture of Sindh
+
+Sindh has one of the oldest and richest cultures in the world. Its history goes back to the Indus Valley Civilization, whose ruins at Mohenjo-daro are famous across the globe. The people of Sindh are known for their love, peace, and hospitality. Ajrak and the Sindhi topi are proud symbols of their identity, and Sindhi Cultural Day is celebrated every year with great joy. Sufi saints like Shah Abdul Latif Bhitai and Sachal Sarmast spread the message of love and tolerance through poetry and music. Sindhi language, folk songs, and traditional food are also part of this heritage. We must preserve this culture for future generations.
+
+
+## 38. سندھ کی ثقافت
+
+سندھ کی ثقافت دنیا کی قدیم اور امیر ترین ثقافتوں میں سے ایک ہے۔ اس کی تاریخ وادی سندھ کی تہذیب تک جاتی ہے، جس کے آثار موہنجو داڑو پوری دنیا میں مشہور ہیں۔ سندھ کے لوگ محبت، امن اور مہمان نوازی کے لیے جانے جاتے ہیں۔ اجرک اور سندھی ٹوپی ان کی پہچان کی قابلِ فخر علامتیں ہیں، اور ہر سال سندھی ثقافت کا دن بڑے جوش و خروش سے منایا جاتا ہے۔ شاہ عبداللطیف بھٹائی اور سچل سرمست جیسے صوفی بزرگوں نے شاعری اور موسیقی کے ذریعے محبت اور برداشت کا پیغام پھیلایا۔ سندھی زبان، لوک گیت اور روایتی کھانے بھی اس ورثے کا حصہ ہیں۔ ہمیں اس ثقافت کو آنے والی نسلوں کے لیے محفوظ رکھنا چاہیے۔
+
+
+## <hr>
+<a id="EnvironmentPollution"></a>
+
+## 38. Environmental Pollution
+
+Environmental pollution is the contamination of air, water, and land with harmful substances. Its main causes are factory smoke, vehicle exhaust, burning garbage, and dumping waste into rivers and the sea. In cities like Karachi, polluted air and dirty water cause diseases such as asthma, cholera, and skin infections. Pollution also harms animals, crops, and marine life, and it contributes to climate change. To control it, we should plant more trees, throw garbage in dustbins, avoid plastic bags, and use public transport. The government must also enforce strict laws on factories. A clean environment is necessary for a healthy life, and protecting it is everyone’s duty.
+
+## 38. ماحولیاتی آلودگی
+
+ماحولیاتی آلودگی سے مراد ہوا، پانی اور زمین میں نقصان دہ اشیا کا شامل ہو جانا ہے۔ اس کے بنیادی اسباب میں فیکٹریوں کا دھواں، گاڑیوں کا دھواں، کچرا جلانا اور دریاؤں اور سمندر میں گندگی پھینکنا شامل ہیں۔ کراچی جیسے شہروں میں آلودہ ہوا اور گندا پانی دمہ، ہیضہ اور جلدی بیماریوں کا سبب بنتے ہیں۔ آلودگی جانوروں، فصلوں اور سمندری حیات کو بھی نقصان پہنچاتی ہے اور موسمیاتی تبدیلی میں اضافہ کرتی ہے۔ اسے قابو میں رکھنے کے لیے ہمیں زیادہ درخت لگانے چاہئیں، کچرا کوڑے دان میں ڈالنا چاہیے، پلاسٹک کے تھیلوں سے بچنا چاہیے اور پبلک ٹرانسپورٹ استعمال کرنی چاہیے۔ حکومت کو بھی فیکٹریوں پر سخت قوانین نافذ کرنے چاہئیں۔ صاف ماحول صحت مند زندگی کے لیے ضروری ہے اور اس کی حفاظت ہر شخص کا فرض ہے۔
+
+
+## <hr>
+<a id="Unemployment"></a>
+
+## 39. Unemployment
+
+Unemployment means that educated and able people cannot find jobs. It is a serious problem in Pakistan, especially among young people. Its main causes are rapid population growth, lack of industries, weak economy, and an education system that does not teach practical skills. Corruption and favoritism in hiring also make it worse. Unemployment leads to poverty, frustration, crime, and drug abuse. To solve it, the government should set up new industries, support small businesses, and provide technical and vocational training. Jobs should be given on merit. Youth should also learn skills such as computing and freelancing. When every hand has work, the country grows stronger.
+
+
+## 39. بے روزگاری
+
+بے روزگاری سے مراد یہ ہے کہ تعلیم یافتہ اور قابل لوگ ملازمت حاصل نہیں کر پاتے۔ پاکستان میں یہ ایک سنگین مسئلہ ہے، خاص طور پر نوجوانوں میں۔ اس کے بنیادی اسباب میں آبادی میں تیزی سے اضافہ، صنعتوں کی کمی، کمزور معیشت اور ایسا تعلیمی نظام شامل ہیں جو عملی ہنر نہیں سکھاتا۔ بھرتیوں میں کرپشن اور سفارش بھی اس مسئلے کو بڑھاتی ہے۔ بے روزگاری غربت، مایوسی، جرائم اور نشے کی لت کا سبب بنتی ہے۔ اسے حل کرنے کے لیے حکومت کو نئی صنعتیں لگانی چاہئیں، چھوٹے کاروبار کی مدد کرنی چاہیے اور فنی تربیت فراہم کرنی چاہیے۔ ملازمتیں میرٹ پر دی جائیں۔ نوجوانوں کو بھی کمپیوٹر اور فری لانسنگ جیسے ہنر سیکھنے چاہئیں۔ جب ہر ہاتھ کو کام ملے گا تو ملک مضبوط ہوگا۔
+
+
+## <hr>
+<a id="Inflation"></a>
+
+## 40. Inflation
+
+Inflation means a continuous rise in the prices of goods and services, which reduces the buying power of money. It is a major problem in Pakistan, where the prices of flour, sugar, oil, and fuel keep going up. Its main causes are rising fuel and electricity costs, a weak rupee, high taxes, hoarding, and poor government control over markets. Inflation hits poor and middle-class families the hardest, as their income does not match their expenses. It increases poverty, stress, and crime. To control it, the government should check hoarding, support local production, reduce unnecessary imports, and ensure fair prices. People should also avoid wasting resources and live within their means.
+
+## 40. مہنگائی
+
+مہنگائی سے مراد اشیا اور خدمات کی قیمتوں میں مسلسل اضافہ ہے، جس سے پیسے کی قوتِ خرید کم ہو جاتی ہے۔ پاکستان میں یہ ایک بڑا مسئلہ ہے، جہاں آٹے، چینی، تیل اور ایندھن کی قیمتیں بڑھتی رہتی ہیں۔ اس کے بنیادی اسباب میں ایندھن اور بجلی کی بڑھتی قیمتیں، کمزور روپیہ، زیادہ ٹیکس، ذخیرہ اندوزی اور بازاروں پر حکومتی کنٹرول کی کمی شامل ہیں۔ مہنگائی کا سب سے زیادہ اثر غریب اور متوسط طبقے پر پڑتا ہے کیونکہ ان کی آمدنی اخراجات کے برابر نہیں ہوتی۔ یہ غربت، پریشانی اور جرائم میں اضافہ کرتی ہے۔ اسے قابو کرنے کے لیے حکومت کو ذخیرہ اندوزی روکنی چاہیے، مقامی پیداوار کی مدد کرنی چاہیے، غیر ضروری درآمدات کم کرنی چاہئیں اور مناسب قیمتیں یقینی بنانی چاہئیں۔ عوام کو بھی وسائل ضائع کرنے سے بچنا چاہیے اور اپنی آمدنی کے مطابق زندگی گزارنی چاہیے۔
 
 
 
