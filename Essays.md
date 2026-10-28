@@ -301,13 +301,11 @@ Every person should have a clear aim in life, because without a goal, life has n
 ## 19. Myself / My Introduction
 **Myself / My Introduction**
 
-My name is Muhammad Hussain. I belong to Karachi, Pakistan. I am a hardworking, honest, and responsible person. I always try to learn new things and improve myself. I respect my elders and obey my parents. My hobby is reading books and learning useful skills. My aim in life is to become a successful police officer. I have a great interest in Jail Police because I want to serve my country and protect society. I believe that discipline, honesty, courage, and punctuality are important qualities of a good police officer. I will work hard to achieve my goal and perform my duties sincerely.
-
+Every person should have a clear aim in life, because without a goal, life has no direction. My aim of life is to become a member of the jail police and serve my country with honesty and courage. The duties of the jail police include guarding prisoners, preventing escapes, and treating inmates fairly so that they can reform and return to society as good citizens. This job teaches discipline, patience, and responsibility. I am punctual, hardworking, and ready to face difficult conditions. By joining the jail police, I can earn an honorable living and help keep society safe. To achieve my aim, I am working hard, staying fit, and building discipline and punctuality. I believe I will succeed, because serving my nation in this field is my dream.
 
 ## 19. **میرا تعارف**
 
-میرا نام محمد حسین ہے۔ میرا تعلق کراچی، پاکستان سے ہے۔ میں ایک محنتی، ایماندار اور ذمہ دار انسان ہوں۔ میں ہمیشہ نئی چیزیں سیکھنے اور اپنی صلاحیتوں کو بہتر بنانے کی کوشش کرتا ہوں۔ میں اپنے بڑوں کی عزت کرتا ہوں اور اپنے والدین کی فرمانبرداری کرتا ہوں۔ میرا شوق کتابیں پڑھنا اور مفید چیزیں سیکھنا ہے۔ میری زندگی کا مقصد ایک کامیاب پولیس افسر بننا ہے۔ مجھے جیل پولیس میں بھرتی ہونے کا بہت شوق ہے۔ میں اپنے ملک کی خدمت اور معاشرے کی حفاظت کرنا چاہتا ہوں۔ میں اپنے مقصد کو حاصل کرنے کے لیے محنت کروں گا اور اپنی ڈیوٹی ایمانداری سے انجام دوں گا۔
-
+ہر انسان کا زندگی میں ایک واضح مقصد ہونا چاہیے، کیونکہ مقصد کے بغیر زندگی بے سمت ہو جاتی ہے۔ میرا مقصدِ حیات جیل پولیس کا حصہ بننا اور ایمانداری اور بہادری کے ساتھ اپنے ملک کی خدمت کرنا ہے۔ جیل پولیس کے فرائض میں قیدیوں کی نگرانی، فرار کی روک تھام اور ان سے منصفانہ سلوک شامل ہے تاکہ وہ اصلاح پا کر معاشرے کے اچھے شہری بن سکیں۔ یہ نوکری نظم و ضبط، صبر اور ذمہ داری سکھاتی ہے۔ میں وقت کا پابند، محنتی اور مشکل حالات کا سامنا کرنے کے لیے تیار ہوں۔ جیل پولیس میں شامل ہو کر میں باعزت روزگار کما سکتا ہوں اور معاشرے کو محفوظ رکھنے میں مدد کر سکتا ہوں۔ اپنا مقصد حاصل کرنے کے لیے میں محنت کر رہا ہوں، خود کو فٹ رکھ رہا ہوں اور نظم و ضبط اور وقت کی پابندی اپنا رہا ہوں۔ مجھے یقین ہے کہ میں کامیاب ہوں گا، کیونکہ اس شعبے میں اپنے وطن کی خدمت کرنا میرا خواب ہے۔
 
 ## <hr>
 
