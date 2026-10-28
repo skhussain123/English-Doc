@@ -18,8 +18,8 @@
 16. [Corruption](#corruption)
 17. [Quaid-e-Azam Muhammad Ali Jinnah](#quaid-e-azam)
 18. [My Aim of Life](#my-aim-of-life)
-19. [Myself / My Introduction](#myself)
-20. [My Hobby](#my-hobby)
+19. [My Hobby](#my-hobby)
+20. [Myself / My Introduction](#myself)
 21. [National Game / My Favourite Game](#national-game)
 22. [My Favorite Teacher](#my-favorite-teacher)
 23. [Essay on Hazrat Muhammad Mustafa (SAW)](#hazrat-muhammad-saw)
@@ -296,29 +296,30 @@ Every person should have a clear aim in life, because without a goal, life has n
 ہر انسان کا زندگی میں ایک واضح مقصد ہونا چاہیے، کیونکہ مقصد کے بغیر زندگی بے سمت ہو جاتی ہے۔ میرا مقصدِ حیات جیل پولیس کا حصہ بننا اور ایمانداری اور بہادری کے ساتھ اپنے ملک کی خدمت کرنا ہے۔ جیل پولیس کے فرائض میں قیدیوں کی نگرانی، فرار کی روک تھام اور ان سے منصفانہ سلوک شامل ہے تاکہ وہ اصلاح پا کر معاشرے کے اچھے شہری بن سکیں۔ یہ نوکری نظم و ضبط، صبر اور ذمہ داری سکھاتی ہے۔ میں وقت کا پابند، محنتی اور مشکل حالات کا سامنا کرنے کے لیے تیار ہوں۔ جیل پولیس میں شامل ہو کر میں باعزت روزگار کما سکتا ہوں اور معاشرے کو محفوظ رکھنے میں مدد کر سکتا ہوں۔ اپنا مقصد حاصل کرنے کے لیے میں محنت کر رہا ہوں، خود کو فٹ رکھ رہا ہوں اور نظم و ضبط اور وقت کی پابندی اپنا رہا ہوں۔ مجھے یقین ہے کہ میں کامیاب ہوں گا، کیونکہ اس شعبے میں اپنے وطن کی خدمت کرنا میرا خواب ہے۔
 
 ## <hr>
+<a id="my-hobby"></a>
+
+## 19. My Hobby
+
+My hobby is running and exercise. Every morning I wake up early and run for thirty minutes. This hobby keeps my healthy body and my mind fresh. It has also taught me discipline, patience, and punctuality. Through regular practice, I have learned that hard work always brings success. My hobby is not just a pastime, it is also part of my preparation for my aim in life. I want to join the jail police and serve my country with honesty and courage. A strong body and a disciplined mind are very important for this job. I enjoy my hobby and I will continue it throughout my life.
+
+## 19. میرا شوق (کرکٹ)
+میرا شوق دوڑ اور ورزش ہے۔ میں ہر صبح جلدی اٹھ کر تیس منٹ دوڑتا ہوں۔ یہ شوق میرے جسم کو صحت مند اور ذہن کو تازہ رکھتا ہے۔ اس نے مجھے نظم و ضبط، صبر اور وقت کی پابندی بھی سکھائی ہے۔ مسلسل مشق سے میں نے سیکھا ہے کہ محنت ہمیشہ کامیابی دیتی ہے۔ میرا شوق صرف وقت گزاری نہیں بلکہ زندگی کے مقصد کی تیاری بھی ہے۔ میں جیل پولیس میں شامل ہو کر ایمانداری اور بہادری سے ملک کی خدمت کرنا چاہتا ہوں۔ اس کام کے لیے مضبوط جسم اور منظم ذہن بہت ضروری ہیں۔ مجھے اپنا شوق پسند ہے اور میں اسے ہمیشہ جاری رکھوں گا۔
+
+
+## <hr>
 <a id="myself"></a>
 
-## 19. Myself / My Introduction
+## 20. Myself / My Introduction
 **Myself / My Introduction**
 
 My name is Muhammad Hussain. I belong to Karachi, Pakistan. I am a hardworking, honest, and responsible person. I always try to learn new things and improve myself. I respect my elders and obey my parents. My hobby is reading books and learning useful skills. My aim in life is to become a successful police officer. I have a great interest in Jail Police because I want to serve my country and protect society. I believe that discipline, honesty, courage, and punctuality are important qualities of a good police officer. I will work hard to achieve my goal and perform my duties sincerely.
 
 
-## 19. **میرا تعارف**
+## 20. **میرا تعارف**
 
 میرا نام محمد حسین ہے۔ میرا تعلق کراچی، پاکستان سے ہے۔ میں ایک محنتی، ایماندار اور ذمہ دار انسان ہوں۔ میں ہمیشہ نئی چیزیں سیکھنے اور اپنی صلاحیتوں کو بہتر بنانے کی کوشش کرتا ہوں۔ میں اپنے بڑوں کی عزت کرتا ہوں اور اپنے والدین کی فرمانبرداری کرتا ہوں۔ میرا شوق کتابیں پڑھنا اور مفید چیزیں سیکھنا ہے۔ میری زندگی کا مقصد ایک کامیاب پولیس افسر بننا ہے۔ مجھے جیل پولیس میں بھرتی ہونے کا بہت شوق ہے۔ میں اپنے ملک کی خدمت اور معاشرے کی حفاظت کرنا چاہتا ہوں۔ میں اپنے مقصد کو حاصل کرنے کے لیے محنت کروں گا اور اپنی ڈیوٹی ایمانداری سے انجام دوں گا۔
 
 
-## <hr>
-
-<a id="my-hobby"></a>
-
-## 20. My Hobby
-
-My hobby is running and exercise. Every morning I wake up early and run for thirty minutes. This hobby keeps my healthy body and my mind fresh. It has also taught me discipline, patience, and punctuality. Through regular practice, I have learned that hard work always brings success. My hobby is not just a pastime, it is also part of my preparation for my aim in life. I want to join the jail police and serve my country with honesty and courage. A strong body and a disciplined mind are very important for this job. I enjoy my hobby and I will continue it throughout my life.
-
-## 20. میرا شوق (کرکٹ)
-میرا شوق دوڑ اور ورزش ہے۔ میں ہر صبح جلدی اٹھ کر تیس منٹ دوڑتا ہوں۔ یہ شوق میرے جسم کو صحت مند اور ذہن کو تازہ رکھتا ہے۔ اس نے مجھے نظم و ضبط، صبر اور وقت کی پابندی بھی سکھائی ہے۔ مسلسل مشق سے میں نے سیکھا ہے کہ محنت ہمیشہ کامیابی دیتی ہے۔ میرا شوق صرف وقت گزاری نہیں بلکہ زندگی کے مقصد کی تیاری بھی ہے۔ میں جیل پولیس میں شامل ہو کر ایمانداری اور بہادری سے ملک کی خدمت کرنا چاہتا ہوں۔ اس کام کے لیے مضبوط جسم اور منظم ذہن بہت ضروری ہیں۔ مجھے اپنا شوق پسند ہے اور میں اسے ہمیشہ جاری رکھوں گا۔
 
 ## <hr>
 
