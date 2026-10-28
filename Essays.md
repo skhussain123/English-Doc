@@ -315,7 +315,7 @@ My name is Muhammad Hussain. I belong to Karachi, Pakistan. I am a hardworking, 
 
 ## 20. My Hobby
 
-My hobby is running and exercise. Every morning I wake up early and run for thirty minutes. This hobby keeps my body healthy and my mind fresh. It has also taught me discipline, patience, and punctuality. Through regular practice, I have learned that hard work always brings success. My hobby is not just a pastime, it is also part of my preparation for my aim in life. I want to join the jail police and serve my country with honesty and courage. A strong body and a disciplined mind are very important for this job. I enjoy my hobby and I will continue it throughout my life.
+My hobby is running and exercise. Every morning I wake up early and run for thirty minutes. This hobby keeps my healthy body and my mind fresh. It has also taught me discipline, patience, and punctuality. Through regular practice, I have learned that hard work always brings success. My hobby is not just a pastime, it is also part of my preparation for my aim in life. I want to join the jail police and serve my country with honesty and courage. A strong body and a disciplined mind are very important for this job. I enjoy my hobby and I will continue it throughout my life.
 
 ## 20. میرا شوق (کرکٹ)
 میرا شوق دوڑ اور ورزش ہے۔ میں ہر صبح جلدی اٹھ کر تیس منٹ دوڑتا ہوں۔ یہ شوق میرے جسم کو صحت مند اور ذہن کو تازہ رکھتا ہے۔ اس نے مجھے نظم و ضبط، صبر اور وقت کی پابندی بھی سکھائی ہے۔ مسلسل مشق سے میں نے سیکھا ہے کہ محنت ہمیشہ کامیابی دیتی ہے۔ میرا شوق صرف وقت گزاری نہیں بلکہ زندگی کے مقصد کی تیاری بھی ہے۔ میں جیل پولیس میں شامل ہو کر ایمانداری اور بہادری سے ملک کی خدمت کرنا چاہتا ہوں۔ اس کام کے لیے مضبوط جسم اور منظم ذہن بہت ضروری ہیں۔ مجھے اپنا شوق پسند ہے اور میں اسے ہمیشہ جاری رکھوں گا۔
