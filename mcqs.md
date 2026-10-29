@@ -144,3 +144,23 @@
 14 اگست 2026 کو لاڑکانہ میں 60 فٹ لمبا قومی پرچم کس مقام پر آویزاں کیا گیا؟
 #### Pakistani Chowk (پاکستانی چوک)
 
+
+37. Who is the Current Chairman of SUPARCO?
+سپارکو کے موجودہ چیئرمین کون ہیں؟
+#### Major General Amer Nadeem (میجر جنرل عامر ندیم)
+
+38. Who is the Current Deputy Prime Minister of Pakistan?
+پاکستان کے موجودہ نائب وزیراعظم کون ہیں؟
+#### Ishaq Dar (اسحاق ڈار)
+
+39. In January 2025, what type of taxis did the Sindh government introduce for unemployed youth?
+جنوری 2025 میں سندھ حکومت نے بے روزگار نوجوانوں کے لیے کس قسم کی ٹیکسیاں متعارف کرائیں؟
+#### Electric Vehicles (EV) taxis (الیکٹرک وہیکل (ای وی) ٹیکسیاں)
+
+40. According to the latest Henley Passport Index, what is Pakistan's global passport ranking?
+تازہ ترین ہینلے پاسپورٹ انڈیکس کے مطابق پاکستان کے پاسپورٹ کی عالمی درجہ بندی کیا ہے؟
+#### 103rd (103واں نمبر)
+
+41. How many destinations can Pakistani passport holders travel to without requiring a visa in advance?
+پاکستانی پاسپورٹ ہولڈرز پیشگی ویزا کے بغیر کتنے ممالک/مقامات کا سفر کر سکتے ہیں؟
+#### 33 (33)
