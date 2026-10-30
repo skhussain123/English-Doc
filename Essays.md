@@ -427,7 +427,16 @@ Many teachers have taught me very well, but I like Sir Shams Deen Gopang the mos
 <a id="my-school"></a>
 
 ## 29. My School
-# Pending
+My school played an important role in my life. It was a place where I learned many useful things. My teachers were kind, hardworking, and helpful. They taught us different subjects and guided us towards success. My school had classrooms, a playground, a library, and other facilities. I enjoyed spending time with my classmates and taking part in different activities. School life taught me discipline, honesty, respect, and teamwork. I learned how to work hard and achieve my goals. I always respect my teachers because they helped me build my future. My school memories are very special, and I will never forget them.
+
+<br>
+
+میرا اسکول میری زندگی میں ایک اہم کردار ادا کرتا تھا۔ یہ ایک ایسی جگہ تھی جہاں میں نے بہت سی مفید چیزیں سیکھیں۔ میرے اساتذہ مہربان، محنتی اور مددگار تھے۔ وہ ہمیں مختلف مضامین پڑھاتے اور کامیابی کی طرف رہنمائی کرتے تھے۔
+
+میرے اسکول میں کلاس رومز، کھیل کا میدان، لائبریری اور دیگر سہولیات موجود تھیں۔ مجھے اپنے ہم جماعتوں کے ساتھ وقت گزارنا اور مختلف سرگرمیوں میں حصہ لینا اچھا لگتا تھا۔
+
+اسکول کی زندگی نے مجھے نظم و ضبط، ایمانداری، احترام اور ٹیم ورک سکھایا۔ میں نے محنت کرنا اور اپنے مقاصد حاصل کرنا سیکھا۔ میں اپنے اساتذہ کی ہمیشہ عزت کرتا ہوں کیونکہ انہوں نے میرا مستقبل بنانے میں مدد کی۔ میرے اسکول کی
+
 
 
 ## <hr>
@@ -436,11 +445,15 @@ Many teachers have taught me very well, but I like Sir Shams Deen Gopang the mos
 
 ## 30. Essay on Hazrat Muhammad Mustafa (SAW)
 
-Hazrat Muhammad Mustafa (SAW) is the most important prophet of Islam. Born in Mecca, he was kind, wise, and fair. He received messages from Allah, which were compiled in the Holy Quran. Muhammad (SAW) spread the message of one God, love, and justice. His teachings talk about being good, humble, and accepting of others. He helped those who were treated badly. People around the world respect him for being a good example. Muhammad (SAW) is the last prophet, guiding people with a message of love and wisdom. Muslims follow his teachings to be kind and to make the world a better place.
+Hazrat Muhammad Mustafa (PBUH) is the last Prophet of Allah. He was born in Makkah in 570 AD. His father's name was Abdullah and his mother's name was Hazrat Amina. He was known as Sadiq and Ameen because of his honesty and truthfulness. He taught us to speak the truth, respect elders, help the poor, and treat everyone kindly. He received the first revelation at the age of 40. He spread the message of Islam and guided people towards the right path. He was a great leader and the best example for all Muslims. We should follow his teachings in our daily lives.
 
 ## 30. مضمون: حضرت محمد مصطفیٰ ﷺ
 
-حضرت محمد مصطفیٰ ﷺ اسلام کے سب سے اہم نبی ہیں۔ آپ ﷺ مکہ مکرمہ میں پیدا ہوئے۔ آپ ﷺ مہربان، دانا اور انصاف پسند تھے۔ آپ ﷺ کو اللہ تعالیٰ کی طرف سے پیغامات (وحی) ملے، جنہیں قرآنِ پاک میں جمع کیا گیا۔ آپ ﷺ نے توحید، محبت اور انصاف کا پیغام پھیلایا۔ آپ ﷺ کی تعلیمات نیکی، عاجزی اور دوسروں کو قبول کرنے کا درس دیتی ہیں۔ آپ ﷺ نے ان لوگوں کی مدد کی جن کے ساتھ برا سلوک کیا گیا تھا۔ دنیا بھر کے لوگ آپ ﷺ کی بہترین مثال ہونے کی وجہ سے آپ کی عزت کرتے ہیں۔ آپ ﷺ آخری نبی ہیں اور محبت اور حکمت کے پیغام کے ساتھ لوگوں کی رہنمائی کرتے ہیں۔ مسلمان آپ ﷺ کی تعلیمات پر چل کر مہربان بنتے ہیں اور دنیا کو بہتر جگہ بنانے کی کوشش کرتے ہیں۔
+حضرت محمد مصطفیٰ ﷺ اللہ تعالیٰ کے آخری نبی ہیں۔ آپ ﷺ مکہ مکرمہ میں 570 عیسوی میں پیدا ہوئے۔ آپ ﷺ کے والد کا نام عبداللہ اور والدہ کا نام حضرت آمنہ تھا۔
+
+آپ ﷺ اپنی ایمانداری اور سچائی کی وجہ سے صادق اور امین کے نام سے مشہور تھے۔ آپ ﷺ نے ہمیں سچ بولنا، بڑوں کا احترام کرنا، غریبوں کی مدد کرنا اور سب کے ساتھ اچھا سلوک کرنا سکھایا۔
+
+آپ ﷺ کو 40 سال کی عمر میں پہلی وحی موصول ہوئی۔ آپ ﷺ نے اسلام کا پیغام پھیلایا اور لوگوں کو سیدھے راستے کی طرف رہنمائی فرمائی۔ آپ ﷺ ایک عظیم رہنما اور تمام مسلمانوں کے لیے بہترین نمونہ ہیں۔ ہمیں اپنی روزمرہ زندگی میں آپ ﷺ کی تعلیمات پر عمل کرنا چاہیے۔
 
 ## <hr>
 <a id="terrorism"></a>
