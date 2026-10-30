@@ -284,15 +284,16 @@ Cricket is an important part of our lives. It is the favorite sport of most peop
 <a id="national-game"></a>
 
 ## 18. National Game
-
-## <hr>
-<a id="my-country"></a>
 Hockey is the national game of Pakistan. It is a popular and exciting sport. Hockey is played between two teams, and each team has eleven players. The main purpose of the game is to score goals against the opponent. Players use hockey sticks to hit the ball. Pakistan has a great history in international hockey. Our national team has won many international tournaments, including the Hockey World Cup and Olympic medals. Hockey teaches us teamwork, discipline, fitness, and sportsmanship. We should encourage young people to take part in sports. The government should provide better facilities and training to improve hockey in Pakistan.
 
 <br>
 پاکستان کا قومی کھیل ہاکی ہے۔ یہ ایک مشہور اور دلچسپ کھیل ہے۔ ہاکی دو ٹیموں کے درمیان کھیلی جاتی ہے اور ہر ٹیم میں گیارہ کھلاڑی ہوتے ہیں۔ اس کھیل کا بنیادی مقصد مخالف ٹیم کے خلاف گول کرنا ہے۔ کھلاڑی گیند کو مارنے کے لیے ہاکی اسٹک استعمال کرتے ہیں۔
 
 پاکستان کی بین الاقوامی ہاکی میں شاندار تاریخ ہے۔ ہماری قومی ٹیم نے ہاکی ورلڈ کپ اور اولمپکس میں تمغے سمیت کئی بین الاقوامی کامیابیاں حاصل کی ہیں۔ ہاکی ہمیں ٹیم ورک، نظم و ضبط، جسمانی صحت اور کھیل کے اصول سکھاتی ہے۔ ہمیں نوجوانوں کو کھیلوں میں حصہ لینے کی ترغیب دینی چاہیے۔ حکومت کو پاکستان میں ہاکی کو بہتر بنانے کے لیے اچھی سہولیات اور تربیت فراہم کرنی چاہیے۔
+
+
+## <hr>
+<a id="my-country"></a>
 
 ## 19. My Country
 
