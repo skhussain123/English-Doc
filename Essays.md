@@ -274,11 +274,16 @@ Traffic rules are made for the safety of drivers and pedestrians alike, so it is
 
 ## 17. CRICKET
 
-Cricket is an important part of our lives. It is the favorite sport of most people. Cricket entertains us and keeps us healthy. When it was first introduced, it was considered a “royal game.” Cricket is played between two teams, and each team has 11 players. It is played with a bat, a ball, and wickets (stumps) in an open field. Today, cricket has many formats, such as One Day, T20, Test matches, and international championships. The team that scores the most runs wins the match. Currently, cricket is the most popular sport in countries like Pakistan, India, and England.
+Cricket is an important part of our lives. It is my favourite game and one of the most popular sports in Pakistan. Cricket entertains us and keeps us healthy and active. Cricket is played between two teams, and each team has eleven players. It is played with a bat, a ball, and wickets in an open field. There are different formats of cricket, such as Test matches, One Day Internationals, and T20 matches. The team that scores the most runs wins the match. Cricket teaches us teamwork, discipline, and sportsmanship. I love watching and playing cricket with my friends. Pakistan has many talented cricket players.
 
 ## 17. کرکٹ
 
-کرکٹ ہماری زندگی کا بنیادی کھیل ہے۔ زیادہ تر لوگوں کا پسندیدہ کھیل کرکٹ ہے۔ کرکٹ ہمیں تفریح بھی دیتی ہے اور ہماری صحت کو بھی اچھا بناتی ہے۔ جب یہ کھیل پہلی بار متعارف کرایا گیا تو اسے "رائل گیم" سمجھا جاتا تھا۔ کرکٹ دو ٹیموں کے درمیان کھیلا جاتا ہے۔ دونوں ٹیموں میں 11-11 کھلاڑی ہوتے ہیں۔ یہ کھیل کھلے میدان میں بیٹ، گیند اور وکٹ (اسٹمپ) کی مدد سے کھیلا جاتا ہے۔ آج کی زندگی میں کرکٹ کی کئی اقسام ہیں جیسے ون ڈے، ٹی 20، ٹیسٹ میچز، انٹرنیشنل چیمپئن شپس وغیرہ۔ اس کھیل میں سب سے زیادہ رنز بنانے والی ٹیم فاتح ہوتی ہے۔ اس وقت کرکٹ پاکستان، انڈیا، انگلینڈ اور ویسٹ انڈیز جیسے ممالک میں سب سے زیادہ مقبول کھیل ہے۔
+کرکٹ ہماری زندگی کا ایک اہم حصہ ہے۔ یہ میرا پسندیدہ کھیل اور پاکستان کے مشہور ترین کھیلوں میں سے ایک ہے۔ کرکٹ ہمارا دل بہلاتی ہے اور ہمیں صحت مند اور چاق و چوبند رکھتی ہے۔
+
+کرکٹ دو ٹیموں کے درمیان کھیلی جاتی ہے اور ہر ٹیم میں گیارہ کھلاڑی ہوتے ہیں۔ یہ کھیل کھلے میدان میں بلے، گیند اور وکٹوں کے ساتھ کھیلا جاتا ہے۔ کرکٹ کے مختلف فارمیٹس ہیں، جیسے ٹیسٹ میچ، ون ڈے انٹرنیشنل اور ٹی ٹوئنٹی میچ۔ جو ٹیم سب سے زیادہ رنز بناتی ہے وہ میچ جیت جاتی ہے۔
+
+کرکٹ ہمیں ٹیم ورک، نظم و ضبط اور کھیل کے اصول سکھاتی ہے۔ مجھے اپنے دوستوں کے ساتھ کرکٹ دیکھنا اور کھیلنا
+
 
 ## <hr>
 <a id="national-game"></a>
