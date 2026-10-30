@@ -99,12 +99,13 @@ The jail police carry heavy responsibilities for the safety and discipline of pr
 
 ## 5. Prison System and Problems in Sindh
 
-The prison system in Sindh is run by the Sindh Prisons Department, which looks after jails across the province, including Karachi, Hyderabad, Sukkur, and Larkana. Its purpose is to keep prisoners safe, maintain discipline, and help them reform. However, several problems exist. Many jails are overcrowded, and under-trial prisoners wait years for their cases to be decided. Shortage of staff, poor medical facilities, and weak sanitation also affect inmates. Corruption and smuggling of banned items remain serious concerns. To improve the system, the government should increase staff, build new jails, speed up court cases, and provide training and education to prisoners.
+The prison system is an important part of the justice system in Sindh. Its main purpose is to keep criminals in custody and maintain law and order. However, prisons in Sindh face many problems, such as overcrowding, lack of facilities, poor healthcare, and shortage of staff. Many prisoners do not get proper education and training. The government should improve prison buildings, provide clean food, medical facilities, and better security. Prison staff should perform their duties with honesty, discipline, and responsibility. Prisoners should also be given opportunities to learn useful skills and become better citizens. A good prison system helps reduce crime and makes society safer. We should work together to improve prisons in Sindh.
 
 ## 5. سندھ میں جیل خانہ جات کا نظام اور مسائل
 
-سندھ میں جیلوں کا نظام محکمہ جیل خانہ جات سندھ کے زیرِ انتظام ہے، جو کراچی، حیدرآباد، سکھر اور لاڑکانہ سمیت پورے صوبے کی جیلوں کی دیکھ بھال کرتا ہے۔ اس کا مقصد قیدیوں کی حفاظت، نظم و ضبط اور اصلاح ہے۔ تاہم کئی مسائل موجود ہیں۔ بہت سی جیلوں میں گنجائش سے زیادہ قیدی ہیں اور حوالاتی قیدی برسوں مقدمات کے فیصلوں کے منتظر رہتے ہیں۔ عملے کی کمی، ناقص طبی سہولیات اور صفائی کی خراب صورتحال بھی قیدیوں کو متاثر کرتی ہے۔ کرپشن اور ممنوعہ اشیا کی اسمگلنگ بھی سنگین مسائل ہیں۔ نظام بہتر بنانے کے لیے عملہ بڑھانا، نئی جیلیں بنانا، مقدمات جلد نمٹانا اور قیدیوں کو تعلیم و تربیت دینا ضروری ہے۔
+سندھ میں جیل کا نظام عدالتی نظام کا ایک اہم حصہ ہے۔ اس کا بنیادی مقصد مجرموں کو حراست میں رکھنا اور امن و امان برقرار رکھنا ہے۔ تاہم، سندھ کی جیلوں کو بہت سے مسائل کا سامنا ہے، جیسے قیدیوں کی زیادہ تعداد، سہولیات کی کمی، صحت کی ناقص سہولیات اور عملے کی کمی۔
 
+بہت سے قیدیوں کو مناسب تعلیم اور تربیت نہیں ملتی۔ حکومت کو جیلوں کی عمارتوں کو بہتر بنانا چاہیے، صاف کھانا، طبی سہولیات اور بہتر سیکیورٹی فراہم کرنی چاہیے۔ جیل کے عملے کو ایمانداری، نظم و ضبط اور ذمہ داری کے ساتھ اپنے فرائض انجام دینے چاہئیں۔ قیدیوں کو بھی مفید ہنر سیکھنے اور بہتر شہری بننے کے مواقع ملنے چاہئیں۔ ایک اچھا جیل نظام
 
 ## <hr>
 <a id="PurposeofPrison"></a>
