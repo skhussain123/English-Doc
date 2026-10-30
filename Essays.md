@@ -272,11 +272,11 @@ Traffic rules are made for the safety of drivers and pedestrians alike, so it is
 
 <a id="cricket"></a>
 
-## 17. CRICKET
+## 17. Cricket / My Favourite Game
 
 Cricket is an important part of our lives. It is my favourite game and one of the most popular sports in Pakistan. Cricket entertains us and keeps us healthy and active. Cricket is played between two teams, and each team has eleven players. It is played with a bat, a ball, and wickets in an open field. There are different formats of cricket, such as Test matches, One Day Internationals, and T20 matches. The team that scores the most runs wins the match. Cricket teaches us teamwork, discipline, and sportsmanship. I love watching and playing cricket with my friends. Pakistan has many talented cricket players.
 
-## 17. کرکٹ
+## 17. Cricket / My Favourite Game
 
 کرکٹ ہماری زندگی کا ایک اہم حصہ ہے۔ یہ میرا پسندیدہ کھیل اور پاکستان کے مشہور ترین کھیلوں میں سے ایک ہے۔ کرکٹ ہمارا دل بہلاتی ہے اور ہمیں صحت مند اور چاق و چوبند رکھتی ہے۔
 
