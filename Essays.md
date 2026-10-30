@@ -99,21 +99,15 @@ The jail police carry heavy responsibilities for the safety and discipline of pr
 
 ## 5. Prison System and Problems in Sindh
 
-The prison system is an important part of the justice system in Sindh. Its main purpose is to keep criminals in custody and maintain law and order. However, prisons in Sindh face many problems, such as overcrowding, lack of facilities, poor healthcare, and shortage of staff. Many prisoners do not get proper education and training. The government should improve prison buildings and provide clean food, medical facilities, and better security. Prison staff should perform their duties with honesty, discipline, and responsibility. A good prison system helps reduce crime and makes society safer. We should work together to improve prisons in Sindh and reduce crime in society.
-.
+The prison system is an important part of the justice system in Sindh. Its main purpose is to keep criminals in custody and maintain law and order. However, prisons in Sindh face many problems, such as overcrowding, lack of facilities, poor healthcare, and shortage of staff. Many prisoners do not get proper education and training. The government should improve prison buildings and provide clean food, medical facilities, and better security. Prison staff should perform their duties with honesty, discipline, and responsibility. A good prison system helps control crime and makes society safer. We should work together to improve prisons in Sindh and build a peaceful society.
 
 ## 5. سندھ میں جیل خانہ جات کا نظام اور مسائل
 
 سندھ میں جیل کا نظام عدالتی نظام کا ایک اہم حصہ ہے۔ اس کا بنیادی مقصد مجرموں کو جیل میں رکھنا اور امن و امان برقرار رکھنا ہے۔
-
 لیکن سندھ کی جیلوں کو بہت سے مسائل کا سامنا ہے، جیسے قیدیوں کی زیادہ تعداد، سہولیات کی کمی، علاج معالجے کی ناقص سہولیات اور عملے کی کمی۔
-
 بہت سے قیدیوں کو مناسب تعلیم اور تربیت نہیں ملتی۔ حکومت کو جیلوں کی عمارتوں کو بہتر بنانا چاہیے اور صاف کھانا، علاج معالجے کی سہولیات اور بہتر سیکیورٹی فراہم کرنی چاہیے۔
-
 جیل کے عملے کو ایمانداری، نظم و ضبط اور ذمہ داری کے ساتھ اپنے فرائض انجام دینے چاہئیں۔
-
-جیل کا ایک اچھا نظام جرائم کو کم کرنے اور معاشرے کو محفوظ بنانے میں مدد کرتا ہے۔ ہمیں سندھ کی جیلوں کو بہتر بنانے اور معاشرے میں جرائم کو کم کرنے کے لیے مل کر کام کرنا چاہیے۔
-
+جیل کا ایک اچھا نظام جرائم پر قابو پانے اور معاشرے کو محفوظ بنانے میں مدد کرتا ہے۔ ہمیں سندھ کی جیلوں کو بہتر بنانے اور ایک پُرامن معاشرہ قائم کرنے کے لیے مل کر کام کرنا چاہیے۔
 ## <hr>
 <a id="PurposeofPrison"></a>
 
