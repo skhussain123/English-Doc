@@ -30,17 +30,17 @@
 28. [My Favorite Teacher](#my-favorite-teacher)
 29. [My School](#my-school)
 30. [Essay on Hazrat Muhammad Mustafa (SAW)](#hazrat-muhammad-saw)
+31. [Culture of Sindh](#CultureSindh)
 31. [Terrorism & Its Prevention](#terrorism)
 32. [Importance of Discipline](#importance-of-discipline)
 33. [Sachal Sarmast](#sachal-sarmast)
 34. [Security and Crime](#SecurityCrime)
 35.  [My Favourite Personality](#MyFavouritePersonality)
 36.  [Advantages and Disadvantages of Social Media](#AdvantagesDisadvantagesSocial) 
-37. [Culture of Sindh](#CultureSindh)
 38. [Environment/Pollution](#EnvironmentPollution)
 39. [Unemployment](#Unemployment)
 40. [Inflation](#Inflation)
-41. [Honesty and Duty](#HonestyDuty)
+<!-- 41. [Honesty and Duty](#HonestyDuty) -->
 42. [Women Education](#WomenEducation)
 43. [Patriotism 14 August Independence Day](#Patriotism14Independence)
 
@@ -448,25 +448,39 @@ Hazrat Muhammad Mustafa (PBUH) is the last Prophet of Allah. He was born in Makk
 
 آپ ﷺ کو 40 سال کی عمر میں پہلی وحی موصول ہوئی۔ آپ ﷺ نے اسلام کا پیغام پھیلایا اور لوگوں کو سیدھے راستے کی طرف رہنمائی فرمائی۔ آپ ﷺ ایک عظیم رہنما اور تمام مسلمانوں کے لیے بہترین نمونہ ہیں۔ ہمیں اپنی روزمرہ زندگی میں آپ ﷺ کی تعلیمات پر عمل کرنا چاہیے۔
 
+
+## <hr>
+<a id="CultureSindh"></a>
+
+## 31. Culture of Sindh
+
+Sindh has one of the oldest and richest cultures in the world. Its history goes back to the Indus Valley Civilization, whose ruins at Mohenjo-daro are famous across the globe. The people of Sindh are known for their love, peace, and hospitality. Ajrak and the Sindhi topi are proud symbols of their identity, and Sindhi Cultural Day is celebrated every year with great joy. Sufi saints like Shah Abdul Latif Bhitai and Sachal Sarmast spread the message of love and tolerance through poetry and music. Sindhi language, folk songs, and traditional food are also part of this heritage. We must preserve this culture for future generations.
+
+
+## 31. سندھ کی ثقافت
+
+سندھ کی ثقافت دنیا کی قدیم اور امیر ترین ثقافتوں میں سے ایک ہے۔ اس کی تاریخ وادی سندھ کی تہذیب تک جاتی ہے، جس کے آثار موہنجو داڑو پوری دنیا میں مشہور ہیں۔ سندھ کے لوگ محبت، امن اور مہمان نوازی کے لیے جانے جاتے ہیں۔ اجرک اور سندھی ٹوپی ان کی پہچان کی قابلِ فخر علامتیں ہیں، اور ہر سال سندھی ثقافت کا دن بڑے جوش و خروش سے منایا جاتا ہے۔ شاہ عبداللطیف بھٹائی اور سچل سرمست جیسے صوفی بزرگوں نے شاعری اور موسیقی کے ذریعے محبت اور برداشت کا پیغام پھیلایا۔ سندھی زبان، لوک گیت اور روایتی کھانے بھی اس ورثے کا حصہ ہیں۔ ہمیں اس ثقافت کو آنے والی نسلوں کے لیے محفوظ رکھنا چاہیے۔
+
+
 ## <hr>
 <a id="terrorism"></a>
 
-## 31. Terrorism and Its Prevention
+## 32. Terrorism and Its Prevention
 
 Terrorism is the use of violence and fear against innocent people to achieve political, religious or personal goals. It is one of the biggest problems facing the world today. Pakistan has suffered greatly from terrorism, losing thousands of precious lives and facing heavy economic damage. Terrorists attack schools, markets, mosques and public places to spread panic. Their actions have no link with any religion, because Islam teaches peace and respects human life. Poverty, illiteracy, injustice and extremist thinking are the main causes of terrorism. To defeat it, we need education, justice, unity and strong security forces. Our army and police have made great sacrifices to protect the nation. Together, we can make Pakistan safe and peaceful.
 
-## 31. دہشت گردی اور اس کی روک تھام 
+## 32. دہشت گردی اور اس کی روک تھام 
 دہشت گردی بے گناہ لوگوں کے خلاف سیاسی، مذہبی یا ذاتی مقاصد حاصل کرنے کے لیے تشدد اور خوف کا استعمال ہے۔ یہ آج دنیا کو درپیش سب سے بڑے مسائل میں سے ایک ہے۔ پاکستان نے دہشت گردی سے بہت نقصان اٹھایا ہے، ہزاروں قیمتی جانیں ضائع ہوئیں اور معیشت کو بھاری نقصان پہنچا۔ دہشت گرد اسکولوں، بازاروں، مساجد اور عوامی مقامات پر حملے کر کے خوف پھیلاتے ہیں۔ ان کے اعمال کا کسی مذہب سے کوئی تعلق نہیں، کیونکہ اسلام امن کا درس دیتا ہے اور انسانی جان کی حرمت کرتا ہے۔ غربت، ناخواندگی، ناانصافی اور انتہا پسندانہ سوچ دہشت گردی کی بڑی وجوہات ہیں۔ اسے شکست دینے کے لیے تعلیم، انصاف، اتحاد اور مضبوط سیکیورٹی فورسز ضروری ہیں۔ ہماری فوج اور پولیس نے وطن کی حفاظت کے لیے عظیم قربانیاں دی ہیں۔ مل کر ہم پاکستان کو محفوظ اور پرامن بنا سکتے ہیں۔
 
 ## <hr>
 
 <a id="importance-of-discipline"></a>
 
-## 32. Importance of Discipline
+## 33. Importance of Discipline
 
 Discipline is the key to success in every field of life. It means following rules, respecting time and doing our duties on time. A disciplined student studies regularly, obeys teachers and respects elders. A disciplined nation progresses quickly because its people follow the law and work honestly. Quaid-e-Azam Muhammad Ali Jinnah gave us the motto of Unity, Faith and Discipline, which shows its great value. Discipline makes us punctual, responsible and confident. Without discipline, life becomes disorganized and full of problems. Therefore, everyone should practice discipline at home, at school and in society to become a successful and respected citizen.
 
-## 32. نظم و ضبط کی اہمیت
+## 33. نظم و ضبط کی اہمیت
 
 نظم و ضبط زندگی کے ہر شعبے میں کامیابی کی کنجی ہے۔ اس کا مطلب قوانین پر عمل کرنا، وقت کی قدر کرنا اور اپنے فرائض وقت پر ادا کرنا ہے۔ ایک باضابطہ طالب علم باقاعدگی سے پڑھتا ہے، اساتذہ کی بات مانتا ہے اور بڑوں کا احترام کرتا ہے۔ باضابطہ قوم تیزی سے ترقی کرتی ہے کیونکہ اس کے لوگ قانون کی پابندی کرتے ہیں اور ایمانداری سے کام کرتے ہیں۔ قائداعظم محمد علی جناح نے ہمیں اتحاد، ایمان اور نظم و ضبط کا اصول دیا، جو اس کی بڑی اہمیت کو ظاہر کرتا ہے۔ نظم و ضبط ہمیں وقت کا پابند، ذمہ دار اور پراعتماد بناتا ہے۔ نظم و ضبط کے بغیر زندگی بے ترتیب اور مسائل سے بھری ہو جاتی ہے۔ اس لیے ہر شخص کو گھر، اسکول اور معاشرے میں نظم و ضبط اپنانا چاہیے تاکہ وہ ایک کامیاب اور باعزت شہری بن سکے۔
 
@@ -475,21 +489,21 @@ Discipline is the key to success in every field of life. It means following rule
 
 <a id="sachal-sarmast"></a>
 
-## 33. Sachal Sarmast
+## 34. Sachal Sarmast
 Sachal Sarmast was a great Sufi poet of Sindh. His real name was Abdul Wahab, and he was born in 1739 in Daraza Sharif, near Khairpur. He wrote poetry in many languages, including Sindhi, Siraiki, Urdu, Persian, Arabic, and Punjabi. The word “Sachal” means truthful, and “Sarmast” means someone intoxicated with divine love. His poetry spreads the message of love, peace, tolerance, and humanity, and it rejects hatred and religious divisions. He is respected by people of every faith. He passed away in 1829, and his shrine is in Daraza Sharif, where a large Urs (an annual festival marking his death anniversary) is held every year.
 
 
-## 33. سچل سرمست
+## 34. سچل سرمست
 
 سچل سرمست سندھ کے ایک عظیم صوفی شاعر تھے۔ ان کا اصل نام عبدالوہاب تھا اور وہ 1739ء میں خیرپور کے قریب درازہ شریف میں پیدا ہوئے۔ انہوں نے سندھی، سرائیکی، اردو، فارسی، عربی اور پنجابی سمیت کئی زبانوں میں شاعری کی۔ "سچل" کا مطلب سچ بولنے والا اور "سرمست" کا مطلب عشقِ الٰہی میں مست ہے۔ ان کی شاعری محبت، امن، رواداری اور انسانیت کا پیغام دیتی ہے اور نفرت اور مذہبی تفرقے کو رد کرتی ہے۔ ہر مذہب کے لوگ ان کا احترام کرتے ہیں۔ ان کا انتقال 1829ء میں ہوا اور ان کا مزار درازہ شریف میں ہے، جہاں ہر سال عظیم الشان عرس منعقد ہوتا ہے۔
 
 
 <a id="SecurityCrime"></a>
 
-## 34. Security and Crime
+## 35. Security and Crime
 Security and crime are closely linked, because where security is weak, crime grows. Crime includes theft, robbery, murder, drug dealing, and cyber fraud, and it creates fear and instability in society. Poverty, unemployment, illiteracy, and bad company are its main causes. Strong security protects lives, property, and the economy. The police, jail staff, and other law enforcement agencies play a key role by patrolling, investigating crimes, and punishing offenders. Modern tools like CCTV cameras and digital records also help control crime. However, security alone is not enough. Education, jobs, quick justice, and public cooperation are also needed. When people and institutions work together, society becomes safe and peaceful.
 
-## 34. سیکیورٹی اور جرائم
+## 35. سیکیورٹی اور جرائم
 
 سیکیورٹی اور جرائم کا آپس میں گہرا تعلق ہے، کیونکہ جہاں سیکیورٹی کمزور ہو وہاں جرائم بڑھتے ہیں۔ جرائم میں چوری، ڈکیتی، قتل، منشیات فروشی اور سائبر فراڈ شامل ہیں، جو معاشرے میں خوف اور بے چینی پیدا کرتے ہیں۔ غربت، بے روزگاری، ناخواندگی اور بری صحبت ان کے بنیادی اسباب ہیں۔ مضبوط سیکیورٹی جان، مال اور معیشت کی حفاظت کرتی ہے۔ پولیس، جیل کا عملہ اور دیگر قانون نافذ کرنے والے ادارے گشت، تفتیش اور مجرموں کو سزا دلوا کر اہم کردار ادا کرتے ہیں۔ سی سی ٹی وی کیمروں اور ڈیجیٹل ریکارڈ جیسے جدید ذرائع بھی جرائم پر قابو پانے میں مدد دیتے ہیں۔ تاہم صرف سیکیورٹی کافی نہیں، تعلیم، روزگار، فوری انصاف اور عوام کا تعاون بھی ضروری ہے۔ جب عوام اور ادارے مل کر کام کریں تو معاشرہ محفوظ اور پرامن بن جاتا ہے۔
 
@@ -497,11 +511,11 @@ Security and crime are closely linked, because where security is weak, crime gro
 ## <hr>
 <a id="MyFavouritePersonality"></a>
 
-## 35. My favourite personality 
+## 36. My favourite personality 
 My favourite personality  is Field Marshal Asim Munir, the Chief of Army Staff of Pakistan. He started his career in the army after training at the Officers Training School, Mangla, where he received the Sword of Honour. He is also a Hafiz-e-Quran, which shows his strong faith. He served in many important positions, including Director General of the ISI. I admire his discipline, courage, and dedication to the country. He has worked to strengthen the defence of Pakistan. His life teaches me that hard work, honesty, and loyalty to duty bring success.
 
 
-## 35. میری پسندیدہ شخصیت: فیلڈ مارشل عاصم منیر
+## 36. میری پسندیدہ شخصیت: فیلڈ مارشل عاصم منیر
 
 میری پسندیدہ شخصیت فیلڈ مارشل عاصم منیر ہیں، جو پاکستان کے آرمی چیف ہیں۔ انہوں نے آفیسرز ٹریننگ اسکول منگلا میں تربیت حاصل کر کے فوجی کیریئر کا آغاز کیا، جہاں انہیں اعزازی تلوار (سورڈ آف آنر) ملی۔ وہ حافظِ قرآن بھی ہیں، جو ان کے مضبوط ایمان کی علامت ہے۔ انہوں نے ڈائریکٹر جنرل آئی ایس آئی سمیت کئی اہم عہدوں پر خدمات انجام دیں۔ مجھے ان کا نظم و ضبط، بہادری اور وطن سے لگن بہت پسند ہے۔ انہوں نے پاکستان کے دفاع کو مضبوط بنانے کے لیے کام کیا ہے۔ ان کی زندگی مجھے سکھاتی ہے کہ محنت، ایمانداری اور فرض سے وفاداری کامیابی دلاتی ہے۔
 
@@ -509,25 +523,12 @@ My favourite personality  is Field Marshal Asim Munir, the Chief of Army Staff o
 ## <hr>
 <a id="AdvantagesDisadvantagesSocial"></a>
 
-## 36. Advantages Disadvantages Social Media
+## 37. Advantages Disadvantages Social Media
 Social media has become an important part of modern life. Its biggest advantage is fast communication, as people can connect with family and friends anywhere in the world within seconds. It also provides quick news, online education, and business and job opportunities. However, it has serious disadvantages too. Excessive use wastes time and harms studies and health. Fake news and rumors spread easily, and cyberbullying and privacy theft are growing problems. It can also reduce real face-to-face relationships. Therefore, we should use social media wisely, limit our screen time, and verify information before sharing it. Used properly, it is a blessing; used carelessly, it becomes a curse.
 
-## 36. سوشل میڈیا کے فائدے اور نقصانات
+## 37. سوشل میڈیا کے فائدے اور نقصانات
 
 سوشل میڈیا جدید زندگی کا اہم حصہ بن چکا ہے۔ اس کا سب سے بڑا فائدہ تیز رابطہ ہے، کیونکہ لوگ دنیا کے کسی بھی کونے میں اپنے خاندان اور دوستوں سے چند سیکنڈ میں رابطہ کر سکتے ہیں۔ یہ فوری خبریں، آن لائن تعلیم اور کاروبار و روزگار کے مواقع بھی فراہم کرتا ہے۔ تاہم اس کے سنگین نقصانات بھی ہیں۔ حد سے زیادہ استعمال وقت ضائع کرتا ہے اور پڑھائی اور صحت کو نقصان پہنچاتا ہے۔ جھوٹی خبریں اور افواہیں تیزی سے پھیلتی ہیں، جبکہ سائبر بدمعاشی اور نجی معلومات کی چوری بھی بڑھتے ہوئے مسائل ہیں۔ یہ حقیقی ملاقاتوں اور رشتوں کو بھی کمزور کر سکتا ہے۔ اس لیے ہمیں سوشل میڈیا کو سمجھداری سے استعمال کرنا چاہیے، اسکرین ٹائم محدود رکھنا چاہیے اور خبر آگے بھیجنے سے پہلے اس کی تصدیق کرنی چاہیے۔ صحیح استعمال سے یہ نعمت ہے اور غلط استعمال سے زحمت۔
-
-
-## <hr>
-<a id="CultureSindh"></a>
-
-## 37. Culture of Sindh
-
-Sindh has one of the oldest and richest cultures in the world. Its history goes back to the Indus Valley Civilization, whose ruins at Mohenjo-daro are famous across the globe. The people of Sindh are known for their love, peace, and hospitality. Ajrak and the Sindhi topi are proud symbols of their identity, and Sindhi Cultural Day is celebrated every year with great joy. Sufi saints like Shah Abdul Latif Bhitai and Sachal Sarmast spread the message of love and tolerance through poetry and music. Sindhi language, folk songs, and traditional food are also part of this heritage. We must preserve this culture for future generations.
-
-
-## 37. سندھ کی ثقافت
-
-سندھ کی ثقافت دنیا کی قدیم اور امیر ترین ثقافتوں میں سے ایک ہے۔ اس کی تاریخ وادی سندھ کی تہذیب تک جاتی ہے، جس کے آثار موہنجو داڑو پوری دنیا میں مشہور ہیں۔ سندھ کے لوگ محبت، امن اور مہمان نوازی کے لیے جانے جاتے ہیں۔ اجرک اور سندھی ٹوپی ان کی پہچان کی قابلِ فخر علامتیں ہیں، اور ہر سال سندھی ثقافت کا دن بڑے جوش و خروش سے منایا جاتا ہے۔ شاہ عبداللطیف بھٹائی اور سچل سرمست جیسے صوفی بزرگوں نے شاعری اور موسیقی کے ذریعے محبت اور برداشت کا پیغام پھیلایا۔ سندھی زبان، لوک گیت اور روایتی کھانے بھی اس ورثے کا حصہ ہیں۔ ہمیں اس ثقافت کو آنے والی نسلوں کے لیے محفوظ رکھنا چاہیے۔
 
 
 ## <hr>
@@ -566,9 +567,7 @@ Inflation means a continuous rise in the prices of goods and services, which red
 
 مہنگائی سے مراد اشیا اور خدمات کی قیمتوں میں مسلسل اضافہ ہے، جس سے پیسے کی قوتِ خرید کم ہو جاتی ہے۔ پاکستان میں یہ ایک بڑا مسئلہ ہے، جہاں آٹے، چینی، تیل اور ایندھن کی قیمتیں بڑھتی رہتی ہیں۔ اس کے بنیادی اسباب میں ایندھن اور بجلی کی بڑھتی قیمتیں، کمزور روپیہ، زیادہ ٹیکس، ذخیرہ اندوزی اور بازاروں پر حکومتی کنٹرول کی کمی شامل ہیں۔ مہنگائی کا سب سے زیادہ اثر غریب اور متوسط طبقے پر پڑتا ہے کیونکہ ان کی آمدنی اخراجات کے برابر نہیں ہوتی۔ یہ غربت، پریشانی اور جرائم میں اضافہ کرتی ہے۔ اسے قابو کرنے کے لیے حکومت کو ذخیرہ اندوزی روکنی چاہیے، مقامی پیداوار کی مدد کرنی چاہیے، غیر ضروری درآمدات کم کرنی چاہئیں اور مناسب قیمتیں یقینی بنانی چاہئیں۔ عوام کو بھی وسائل ضائع کرنے سے بچنا چاہیے اور اپنی آمدنی کے مطابق زندگی گزارنی چاہیے۔
 
-
-## <hr>
-<a id="HonestyDuty"></a>
+<!-- <a id="HonestyDuty"></a>
 
 ## 41. Honesty and Duty
 Honesty means always speaking the truth and doing the right thing, even when no one is watching. Duty means performing our responsibilities sincerely and on time. These two qualities go together, because a person who is honest in his work is truly dutiful. Islam teaches us that honesty is part of faith, and our Prophet (SAW) was known as Al-Amin, the trustworthy. In the jail police, honesty and duty are especially important. An officer must not accept bribes, favor anyone, or neglect his duty. Honest and dutiful people build a strong society, while corruption destroys it. Therefore, we should be honest in every field of life and perform our duty with full responsibility.
@@ -576,15 +575,15 @@ Honesty means always speaking the truth and doing the right thing, even when no 
 
 ## 41. ایمانداری اور فرض
 
-ایمانداری کا مطلب ہمیشہ سچ بولنا اور صحیح کام کرنا ہے، چاہے کوئی دیکھ نہ رہا ہو۔ فرض کا مطلب اپنی ذمہ داریاں خلوص اور وقت پر ادا کرنا ہے۔ یہ دونوں خوبیاں ساتھ ساتھ چلتی ہیں، کیونکہ جو شخص اپنے کام میں ایماندار ہو وہی حقیقی معنوں میں فرض شناس ہوتا ہے۔ اسلام ہمیں سکھاتا ہے کہ ایمانداری ایمان کا حصہ ہے، اور ہمارے نبی ﷺ امین کے لقب سے مشہور تھے۔ جیل پولیس میں ایمانداری اور فرض شناسی خاص طور پر اہم ہیں۔ اہلکار کو رشوت نہیں لینی چاہیے، کسی کی طرف داری نہیں کرنی چاہیے اور اپنے فرض میں غفلت نہیں کرنی چاہیے۔ ایماندار اور فرض شناس لوگ مضبوط معاشرہ بناتے ہیں، جبکہ کرپشن اسے تباہ کر دیتی ہے۔ اس لیے ہمیں زندگی کے ہر شعبے میں ایماندار رہنا چاہیے اور اپنا فرض پوری ذمہ داری سے ادا کرنا چاہیے۔
+ایمانداری کا مطلب ہمیشہ سچ بولنا اور صحیح کام کرنا ہے، چاہے کوئی دیکھ نہ رہا ہو۔ فرض کا مطلب اپنی ذمہ داریاں خلوص اور وقت پر ادا کرنا ہے۔ یہ دونوں خوبیاں ساتھ ساتھ چلتی ہیں، کیونکہ جو شخص اپنے کام میں ایماندار ہو وہی حقیقی معنوں میں فرض شناس ہوتا ہے۔ اسلام ہمیں سکھاتا ہے کہ ایمانداری ایمان کا حصہ ہے، اور ہمارے نبی ﷺ امین کے لقب سے مشہور تھے۔ جیل پولیس میں ایمانداری اور فرض شناسی خاص طور پر اہم ہیں۔ اہلکار کو رشوت نہیں لینی چاہیے، کسی کی طرف داری نہیں کرنی چاہیے اور اپنے فرض میں غفلت نہیں کرنی چاہیے۔ ایماندار اور فرض شناس لوگ مضبوط معاشرہ بناتے ہیں، جبکہ کرپشن اسے تباہ کر دیتی ہے۔ اس لیے ہمیں زندگی کے ہر شعبے میں ایماندار رہنا چاہیے اور اپنا فرض پوری ذمہ داری سے ادا کرنا چاہیے۔ -->
 
 ## <hr>
 <a id="WomenEducation"></a>
 
-## 42. Women Education
+## 41. Women Education
 Education is the right of every human being, and women are no exception. An educated woman can raise a healthy and well-mannered family, because a mother is a child’s first teacher. Islam gives great importance to knowledge for both men and women. Educated women can work as doctors, teachers, police officers, and engineers, and they help reduce poverty by earning for their families. In Pakistan, many girls still cannot go to school because of poverty, early marriages, and old customs. The government and society must build more girls’ schools, provide scholarships, and change this thinking. When women are educated, the whole nation moves forward.
 
-## 42. خواتین کی تعلیم
+## 41. خواتین کی تعلیم
 
 تعلیم ہر انسان کا حق ہے اور خواتین بھی اس میں شامل ہیں۔ ایک تعلیم یافتہ عورت صحت مند اور باادب خاندان کی پرورش کر سکتی ہے، کیونکہ ماں بچے کی پہلی استاد ہوتی ہے۔ اسلام مرد اور عورت دونوں کے لیے علم کی بڑی اہمیت بیان کرتا ہے۔ تعلیم یافتہ خواتین ڈاکٹر، استاد، پولیس افسر اور انجینئر بن کر خدمت کر سکتی ہیں اور اپنے خاندان کے لیے کما کر غربت کم کرنے میں مدد دیتی ہیں۔ پاکستان میں آج بھی کئی لڑکیاں غربت، کم عمری کی شادی اور پرانی روایات کی وجہ سے اسکول نہیں جا پاتیں۔ حکومت اور معاشرے کو چاہیے کہ لڑکیوں کے لیے مزید اسکول بنائیں، وظائف دیں اور اس سوچ کو بدلیں۔ جب خواتین تعلیم یافتہ ہوں گی تو پوری قوم ترقی کرے گی۔
 
@@ -592,11 +591,11 @@ Education is the right of every human being, and women are no exception. An educ
 ## <hr>
 <a id="Patriotism14Independence"></a>
 
-## 43. Patriotism and Independence Day
+## 42. Patriotism and Independence Day
 
 Patriotism means deep love for one’s country and readiness to serve it. Pakistan came into being on 14 August 1947 after a long struggle led by Quaid-e-Azam Muhammad Ali Jinnah and Allama Iqbal’s dream of a separate homeland. Millions of people sacrificed their homes, wealth, and lives for this freedom. Every year, we celebrate Independence Day with flag hoisting, parades, and national songs. But true patriotism is not only celebration. It means being honest, obeying the law, working hard, and protecting public property. A jail police officer shows patriotism by performing his duty sincerely and without corruption. We must keep Pakistan strong and peaceful.
 
 
-## 43. حب الوطنی اور یومِ آزادی
+## 42. حب الوطنی اور یومِ آزادی
 
 حب الوطنی کا مطلب اپنے وطن سے گہری محبت اور اس کی خدمت کے لیے تیار رہنا ہے۔ پاکستان 14 اگست 1947 کو قائداعظم محمد علی جناح کی قیادت میں طویل جدوجہد اور علامہ اقبال کے الگ وطن کے خواب کے نتیجے میں وجود میں آیا۔ لاکھوں لوگوں نے اس آزادی کے لیے اپنے گھر، مال اور جانیں قربان کیں۔ ہر سال ہم یومِ آزادی پرچم کشائی، پریڈ اور ملی نغموں کے ساتھ مناتے ہیں۔ لیکن حقیقی حب الوطنی صرف جشن منانا نہیں ہے۔ اس کا مطلب ایماندار ہونا، قانون کی پابندی کرنا، محنت کرنا اور سرکاری املاک کی حفاظت کرنا ہے۔ جیل پولیس کا اہلکار اپنا فرض خلوص اور بغیر کرپشن کے ادا کر کے حب الوطنی کا ثبوت دیتا ہے۔ ہمیں پاکستان کو مضبوط اور پرامن رکھنا چاہیے۔
