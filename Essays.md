@@ -395,13 +395,12 @@ My hobby is running and exercise. Every morning I wake up early and run for thir
 ## 27. Myself / My Introduction
 **Myself / My Introduction**
 
-My name is Muhammad Hussain. I belong to Karachi, Pakistan. I am a hardworking, honest, and responsible person. I always try to learn new things and improve myself. I respect my elders and obey my parents. My hobby is reading books and learning useful skills. My aim in life is to become a successful police officer. I have a great interest in Jail Police because I want to serve my country and protect society. I believe that discipline, honesty, courage, and punctuality are important qualities of a good police officer. I will work hard to achieve my goal and perform my duties sincerely.
-
+My name is Muhammad Hussain. I belong to Malir District, Karachi. I respect my elders and obey my parents. I completed my Intermediate education in Commerce in 2021 from Government Degree Boys College. After that, I joined Aptech and completed a three-year diploma in Information Technology, where I learned various computer technologies. My aim of life is to become a member of the jail police and serve my country with honesty and courage.To achieve my aim, I am working hard, staying fit, and building discipline and punctuality. I believe I will succeed, because serving my nation is my dream.
 
 ## 27. **میرا تعارف**
 
-میرا نام محمد حسین ہے۔ میرا تعلق کراچی، پاکستان سے ہے۔ میں ایک محنتی، ایماندار اور ذمہ دار انسان ہوں۔ میں ہمیشہ نئی چیزیں سیکھنے اور اپنی صلاحیتوں کو بہتر بنانے کی کوشش کرتا ہوں۔ میں اپنے بڑوں کی عزت کرتا ہوں اور اپنے والدین کی فرمانبرداری کرتا ہوں۔ میرا شوق کتابیں پڑھنا اور مفید چیزیں سیکھنا ہے۔ میری زندگی کا مقصد ایک کامیاب پولیس افسر بننا ہے۔ مجھے جیل پولیس میں بھرتی ہونے کا بہت شوق ہے۔ میں اپنے ملک کی خدمت اور معاشرے کی حفاظت کرنا چاہتا ہوں۔ میں اپنے مقصد کو حاصل کرنے کے لیے محنت کروں گا اور اپنی ڈیوٹی ایمانداری سے انجام دوں گا۔
-
+میرا نام محمد حسین ہے۔ میرا تعلق کراچی کے ضلع ملیر سے ہے۔ میں اپنے بڑوں کا احترام کرتا ہوں اور اپنے والدین کی فرمانبرداری کرتا ہوں۔ میں نے 2021 میں گورنمنٹ ڈگری بوائز کالج سے کامرس گروپ میں انٹرمیڈیٹ مکمل کیا۔ اس کے بعد میں نے اپٹیک میں داخلہ لیا اور انفارمیشن ٹیکنالوجی میں تین سالہ ڈپلومہ مکمل کیا، جہاں میں نے کمپیوٹر کی مختلف ٹیکنالوجیز سیکھیں۔
+میری زندگی کا مقصد جیل پولیس کا حصہ بننا اور ایمانداری اور بہادری کے ساتھ اپنے ملک کی خدمت کرنا ہے۔ اپنے مقصد کو حاصل کرنے کے لیے میں سخت محنت کر رہا ہوں، خود کو جسمانی طور پر فٹ رکھتا ہوں اور نظم و ضبط اور وقت کی پابندی اختیار کر رہا ہوں۔ مجھے یقین ہے کہ میں کامیاب ہوں گا کیونکہ اپنے ملک کی خدمت کرنا میرا خواب ہے۔
 
 ## <hr>
 
