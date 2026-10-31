@@ -111,7 +111,7 @@ The prison system is an important part of the justice system in Sindh. Its main 
 <a id="PurposeofPrison"></a>
 
 ## 6. PurposeofPrison
-The purpose of a prison is not only to punish criminals but also to protect society and reform offenders. First, prisons keep dangerous people away from the public, which helps maintain law and order. Second, punishment in jail discourages others from committing crimes. Third, and most important, prisons aim to reform inmates through education, skill training, and religious guidance, so that they can return to society as responsible citizens. Prisons also provide justice to victims by ensuring that wrongdoers face consequences. A well-run jail treats prisoners fairly, respects their basic rights, and gives them a chance to start a new life. Thus, a prison should be a place of correction, not just of punishment.
+The purpose of a prison is not only to punish criminals but also to protect society and reform offenders. First, prisons keep dangerous people away from the public, which helps maintain law and order. Second, punishment in jail discourages others from committing crimes. Third, and most important, prisons aim to reform inmates through education, skill training, and religious guidance, so that they can reform and return to society as good citizens. Prisons also provide justice to victims by ensuring that wrongdoers face consequences. A well-run jail treats prisoners fairly, respects their basic rights, and gives them a chance to start a new life. Thus, a prison should be a place of correction, not just of punishment.
 
 ## 6. جیل کا مقصد
 
