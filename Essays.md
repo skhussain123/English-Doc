@@ -111,24 +111,21 @@ The prison system is an important part of the justice system in Sindh. Its main 
 <a id="PurposeofPrison"></a>
 
 ## 6. PurposeofPrison
-The purpose of a prison is not only to punish criminals but also to protect society and reform offenders. First, prisons keep dangerous people away from the public, which helps maintain law and order. Second, punishment in jail discourages others from committing crimes. Third, and most important, prisons aim to reform inmates through education, skill training, and religious guidance, so that they can reform and return to society as good citizens. Prisons also provide justice to victims by ensuring that wrongdoers face consequences. A well-run jail treats prisoners fairly, respects their basic rights, and gives them a chance to start a new life. Thus, a prison should be a place of correction, not just of punishment.
+The purpose of a prison is not only to punish criminals but also to protect society and reform offenders. First, prisons keep dangerous people away from the public, which helps maintain law and order. Second, punishment in jail discourages others from committing crimes. Third, and most important, prisons aim to reform inmates through education, skill training, and religious guidance, so that they can reform and return to society as good citizens.Inmates should be treated fairly and given a chance to become better people. A good prison helps prisoners learn from their mistakes and live a better life after release.
 
 ## 6. جیل کا مقصد
 
-جیل کا مقصد صرف مجرموں کو سزا دینا نہیں بلکہ معاشرے کی حفاظت اور مجرموں کی اصلاح بھی ہے۔ سب سے پہلے جیلیں خطرناک افراد کو عوام سے دور رکھتی ہیں، جس سے امن و امان قائم رہتا ہے۔ دوسرا، جیل کی سزا دوسروں کو جرم کرنے سے باز رکھتی ہے۔ تیسرا اور سب سے اہم مقصد قیدیوں کی تعلیم، ہنر کی تربیت اور دینی رہنمائی کے ذریعے اصلاح کرنا ہے تاکہ وہ ذمہ دار شہری بن کر معاشرے میں واپس آ سکیں۔ جیلیں متاثرین کو انصاف دلانے میں بھی مدد کرتی ہیں کیونکہ مجرم کو اپنے عمل کا نتیجہ بھگتنا پڑتا ہے۔ ایک اچھی جیل قیدیوں سے منصفانہ سلوک کرتی ہے، ان کے بنیادی حقوق کا احترام کرتی ہے اور انہیں نئی زندگی شروع کرنے کا موقع دیتی ہے۔ اس لیے جیل صرف سزا کی جگہ نہیں بلکہ اصلاح کی جگہ ہونی چاہیے۔
-
+جیل کا مقصد صرف مجرموں کو سزا دینا نہیں بلکہ معاشرے کی حفاظت کرنا اور مجرموں کی اصلاح کرنا بھی ہے۔ سب سے پہلے، جیل خطرناک لوگوں کو عوام سے دور رکھتی ہے، جس سے امن و امان برقرار رکھنے میں مدد ملتی ہے۔ دوسرا، جیل کی سزا دوسروں کو جرائم کرنے سے روکتی ہے۔ تیسرا اور سب سے اہم مقصد قیدیوں کی تعلیم، ہنر کی تربیت اور دینی رہنمائی کے ذریعے اصلاح کرنا ہے تاکہ وہ اچھے شہری بن کر دوبارہ معاشرے میں واپس آ سکیں۔ قیدیوں کے ساتھ انصاف سے پیش آنا چاہیے اور انہیں بہتر انسان بننے کا موقع دینا چاہیے۔ ایک اچھی جیل قیدیوں کو اپنی غلطیوں سے سبق سیکھنے اور رہائی کے بعد بہتر زندگی گزارنے میں مدد دیتی ہے۔
 
 ## <hr>
 <a id="ReformPrisonersJail"></a>
 
 ## 7. Reform of Prisoners in Jail
-Reform of prisoners is the most important purpose of a modern prison. A criminal is not born bad; poverty, bad company, and lack of education often push people toward crime. Jails try to change this through education, skill training, and religious guidance. Prisoners learn useful trades like carpentry, tailoring, and computer skills, which help them earn an honest living after release. Counseling and moral teaching reduce anger and build good character. Fair treatment and respect for basic rights also give prisoners hope. Jail staff play a key role by guiding inmates with patience and discipline. When prisoners are reformed, they return to society as responsible citizens and crime decreases.
-
+Reforming prisoners is an important purpose of a modern jail. Some people commit crimes because of poverty, bad company, and lack of education. Jails try to improve them through education, skill training, and religious guidance. Prisoners learn useful skills like carpentry, tailoring, and computer skills. These skills help them earn an honest living after release. Good advice and moral lessons help them become better people. Prisoners should be treated fairly and with respect. Jail staff should guide them with patience and discipline. In this way, prisoners can return to society as good citizens and crime can be reduced.
 
 ## 7. جیل میں قیدیوں کی اصلاح
 
-قیدیوں کی اصلاح جدید جیل کا سب سے اہم مقصد ہے۔ مجرم پیدائشی برا نہیں ہوتا، اکثر غربت، بری صحبت اور تعلیم کی کمی لوگوں کو جرم کی طرف لے جاتی ہے۔ جیلیں تعلیم، ہنر کی تربیت اور دینی رہنمائی کے ذریعے اس رجحان کو بدلنے کی کوشش کرتی ہیں۔ قیدی بڑھئی گیری، سلائی اور کمپیوٹر جیسے مفید ہنر سیکھتے ہیں جو رہائی کے بعد ان کے لیے باعزت روزگار کا ذریعہ بنتے ہیں۔ مشاورت اور اخلاقی تعلیم غصے کو کم کرتی اور اچھا کردار بناتی ہے۔ منصفانہ سلوک اور بنیادی حقوق کا احترام بھی قیدیوں میں امید پیدا کرتا ہے۔ جیل کا عملہ صبر اور نظم و ضبط کے ساتھ رہنمائی کر کے اہم کردار ادا کرتا ہے۔ جب قیدی اصلاح پا جاتے ہیں تو وہ ذمہ دار شہری بن کر معاشرے میں لوٹتے ہیں اور جرائم کم ہوتے ہیں۔
-
+قیدیوں کی اصلاح جدید جیل کا ایک اہم مقصد ہے۔ کچھ لوگ غربت، بری صحبت اور تعلیم کی کمی کی وجہ سے جرائم کرتے ہیں۔ جیلوں میں تعلیم، ہنر کی تربیت اور دینی رہنمائی کے ذریعے ان کی اصلاح کرنے کی کوشش کی جاتی ہے۔ قیدی بڑھئی کا کام، سلائی اور کمپیوٹر جیسے مفید ہنر سیکھتے ہیں۔ یہ ہنر انہیں رہائی کے بعد ایمانداری سے روزی کمانے میں مدد دیتے ہیں۔ اچھی نصیحت اور اخلاقی تعلیم انہیں بہتر انسان بننے میں مدد دیتی ہے۔ قیدیوں کے ساتھ انصاف اور عزت سے پیش آنا چاہیے۔ جیل کے عملے کو صبر اور نظم و ضبط کے ساتھ قیدیوں کی رہنمائی کرنی چاہیے۔ اس طرح قیدی اچھے شہری بن کر معاشرے میں واپس آ سکتے ہیں اور جرائم میں کمی لائی جا سکتی ہے۔
 
 ## <hr>
 <a id="RightsPrisoners"></a>
