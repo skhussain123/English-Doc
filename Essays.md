@@ -31,18 +31,17 @@
 29. [My School](#my-school)
 30. [Essay on Hazrat Muhammad Mustafa (SAW)](#hazrat-muhammad-saw)
 31. [Culture of Sindh](#CultureSindh)
-31. [Terrorism & Its Prevention](#terrorism)
-32. [Importance of Discipline](#importance-of-discipline)
-33. [Sachal Sarmast](#sachal-sarmast)
-34. [Security and Crime](#SecurityCrime)
-35.  [My Favourite Personality](#MyFavouritePersonality)
-36.  [Advantages and Disadvantages of Social Media](#AdvantagesDisadvantagesSocial) 
+32. [Sachal Sarmast](#sachal-sarmast)
+33.  [My Favourite Personality](#MyFavouritePersonality)
+34.  [Advantages and Disadvantages of Social Media](#AdvantagesDisadvantagesSocial)
+35. [Terrorism & Its Prevention](#terrorism)
+36. [Importance of Discipline](#importance-of-discipline)
+<!-- 37. [Security and Crime](#SecurityCrime)
 38. [Environment/Pollution](#EnvironmentPollution)
 39. [Unemployment](#Unemployment)
 40. [Inflation](#Inflation)
-<!-- 41. [Honesty and Duty](#HonestyDuty) -->
 42. [Women Education](#WomenEducation)
-43. [Patriotism 14 August Independence Day](#Patriotism14Independence)
+43. [Patriotism 14 August Independence Day](#Patriotism14Independence) -->
 
 
 
@@ -425,9 +424,7 @@ My school played an important role in my life. It was a place where I learned ma
 <br>
 
 میرا اسکول میری زندگی میں ایک اہم کردار ادا کرتا تھا۔ یہ ایک ایسی جگہ تھی جہاں میں نے بہت سی مفید چیزیں سیکھیں۔ میرے اساتذہ مہربان، محنتی اور مددگار تھے۔ وہ ہمیں مختلف مضامین پڑھاتے اور کامیابی کی طرف رہنمائی کرتے تھے۔
-
 میرے اسکول میں کلاس رومز، کھیل کا میدان، لائبریری اور دیگر سہولیات موجود تھیں۔ مجھے اپنے ہم جماعتوں کے ساتھ وقت گزارنا اور مختلف سرگرمیوں میں حصہ لینا اچھا لگتا تھا۔
-
 اسکول کی زندگی نے مجھے نظم و ضبط، ایمانداری، احترام اور ٹیم ورک سکھایا۔ میں نے محنت کرنا اور اپنے مقاصد حاصل کرنا سیکھا۔ میں اپنے اساتذہ کی ہمیشہ عزت کرتا ہوں کیونکہ انہوں نے میرا مستقبل بنانے میں مدد کی۔ میرے اسکول کی
 
 
@@ -463,59 +460,27 @@ Sindh has one of the oldest and richest cultures in the world. Its history goes 
 
 
 ## <hr>
-<a id="terrorism"></a>
-
-## 32. Terrorism and Its Prevention
-
-Terrorism is the use of violence and fear against innocent people to achieve political, religious or personal goals. It is one of the biggest problems facing the world today. Pakistan has suffered greatly from terrorism, losing thousands of precious lives and facing heavy economic damage. Terrorists attack schools, markets, mosques and public places to spread panic. Their actions have no link with any religion, because Islam teaches peace and respects human life. Poverty, illiteracy, injustice and extremist thinking are the main causes of terrorism. To defeat it, we need education, justice, unity and strong security forces. Our army and police have made great sacrifices to protect the nation. Together, we can make Pakistan safe and peaceful.
-
-## 32. دہشت گردی اور اس کی روک تھام 
-دہشت گردی بے گناہ لوگوں کے خلاف سیاسی، مذہبی یا ذاتی مقاصد حاصل کرنے کے لیے تشدد اور خوف کا استعمال ہے۔ یہ آج دنیا کو درپیش سب سے بڑے مسائل میں سے ایک ہے۔ پاکستان نے دہشت گردی سے بہت نقصان اٹھایا ہے، ہزاروں قیمتی جانیں ضائع ہوئیں اور معیشت کو بھاری نقصان پہنچا۔ دہشت گرد اسکولوں، بازاروں، مساجد اور عوامی مقامات پر حملے کر کے خوف پھیلاتے ہیں۔ ان کے اعمال کا کسی مذہب سے کوئی تعلق نہیں، کیونکہ اسلام امن کا درس دیتا ہے اور انسانی جان کی حرمت کرتا ہے۔ غربت، ناخواندگی، ناانصافی اور انتہا پسندانہ سوچ دہشت گردی کی بڑی وجوہات ہیں۔ اسے شکست دینے کے لیے تعلیم، انصاف، اتحاد اور مضبوط سیکیورٹی فورسز ضروری ہیں۔ ہماری فوج اور پولیس نے وطن کی حفاظت کے لیے عظیم قربانیاں دی ہیں۔ مل کر ہم پاکستان کو محفوظ اور پرامن بنا سکتے ہیں۔
-
-## <hr>
-
-<a id="importance-of-discipline"></a>
-
-## 33. Importance of Discipline
-
-Discipline is the key to success in every field of life. It means following rules, respecting time and doing our duties on time. A disciplined student studies regularly, obeys teachers and respects elders. A disciplined nation progresses quickly because its people follow the law and work honestly. Quaid-e-Azam Muhammad Ali Jinnah gave us the motto of Unity, Faith and Discipline, which shows its great value. Discipline makes us punctual, responsible and confident. Without discipline, life becomes disorganized and full of problems. Therefore, everyone should practice discipline at home, at school and in society to become a successful and respected citizen.
-
-## 33. نظم و ضبط کی اہمیت
-
-نظم و ضبط زندگی کے ہر شعبے میں کامیابی کی کنجی ہے۔ اس کا مطلب قوانین پر عمل کرنا، وقت کی قدر کرنا اور اپنے فرائض وقت پر ادا کرنا ہے۔ ایک باضابطہ طالب علم باقاعدگی سے پڑھتا ہے، اساتذہ کی بات مانتا ہے اور بڑوں کا احترام کرتا ہے۔ باضابطہ قوم تیزی سے ترقی کرتی ہے کیونکہ اس کے لوگ قانون کی پابندی کرتے ہیں اور ایمانداری سے کام کرتے ہیں۔ قائداعظم محمد علی جناح نے ہمیں اتحاد، ایمان اور نظم و ضبط کا اصول دیا، جو اس کی بڑی اہمیت کو ظاہر کرتا ہے۔ نظم و ضبط ہمیں وقت کا پابند، ذمہ دار اور پراعتماد بناتا ہے۔ نظم و ضبط کے بغیر زندگی بے ترتیب اور مسائل سے بھری ہو جاتی ہے۔ اس لیے ہر شخص کو گھر، اسکول اور معاشرے میں نظم و ضبط اپنانا چاہیے تاکہ وہ ایک کامیاب اور باعزت شہری بن سکے۔
-
-## <hr>
 
 
 <a id="sachal-sarmast"></a>
 
-## 34. Sachal Sarmast
+## 32. Sachal Sarmast
 Sachal Sarmast was a great Sufi poet of Sindh. His real name was Abdul Wahab, and he was born in 1739 in Daraza Sharif, near Khairpur. He wrote poetry in many languages, including Sindhi, Siraiki, Urdu, Persian, Arabic, and Punjabi. The word “Sachal” means truthful, and “Sarmast” means someone intoxicated with divine love. His poetry spreads the message of love, peace, tolerance, and humanity, and it rejects hatred and religious divisions. He is respected by people of every faith. He passed away in 1829, and his shrine is in Daraza Sharif, where a large Urs (an annual festival marking his death anniversary) is held every year.
 
 
-## 34. سچل سرمست
+## 32. سچل سرمست
 
 سچل سرمست سندھ کے ایک عظیم صوفی شاعر تھے۔ ان کا اصل نام عبدالوہاب تھا اور وہ 1739ء میں خیرپور کے قریب درازہ شریف میں پیدا ہوئے۔ انہوں نے سندھی، سرائیکی، اردو، فارسی، عربی اور پنجابی سمیت کئی زبانوں میں شاعری کی۔ "سچل" کا مطلب سچ بولنے والا اور "سرمست" کا مطلب عشقِ الٰہی میں مست ہے۔ ان کی شاعری محبت، امن، رواداری اور انسانیت کا پیغام دیتی ہے اور نفرت اور مذہبی تفرقے کو رد کرتی ہے۔ ہر مذہب کے لوگ ان کا احترام کرتے ہیں۔ ان کا انتقال 1829ء میں ہوا اور ان کا مزار درازہ شریف میں ہے، جہاں ہر سال عظیم الشان عرس منعقد ہوتا ہے۔
-
-
-<a id="SecurityCrime"></a>
-
-## 35. Security and Crime
-Security and crime are closely linked, because where security is weak, crime grows. Crime includes theft, robbery, murder, drug dealing, and cyber fraud, and it creates fear and instability in society. Poverty, unemployment, illiteracy, and bad company are its main causes. Strong security protects lives, property, and the economy. The police, jail staff, and other law enforcement agencies play a key role by patrolling, investigating crimes, and punishing offenders. Modern tools like CCTV cameras and digital records also help control crime. However, security alone is not enough. Education, jobs, quick justice, and public cooperation are also needed. When people and institutions work together, society becomes safe and peaceful.
-
-## 35. سیکیورٹی اور جرائم
-
-سیکیورٹی اور جرائم کا آپس میں گہرا تعلق ہے، کیونکہ جہاں سیکیورٹی کمزور ہو وہاں جرائم بڑھتے ہیں۔ جرائم میں چوری، ڈکیتی، قتل، منشیات فروشی اور سائبر فراڈ شامل ہیں، جو معاشرے میں خوف اور بے چینی پیدا کرتے ہیں۔ غربت، بے روزگاری، ناخواندگی اور بری صحبت ان کے بنیادی اسباب ہیں۔ مضبوط سیکیورٹی جان، مال اور معیشت کی حفاظت کرتی ہے۔ پولیس، جیل کا عملہ اور دیگر قانون نافذ کرنے والے ادارے گشت، تفتیش اور مجرموں کو سزا دلوا کر اہم کردار ادا کرتے ہیں۔ سی سی ٹی وی کیمروں اور ڈیجیٹل ریکارڈ جیسے جدید ذرائع بھی جرائم پر قابو پانے میں مدد دیتے ہیں۔ تاہم صرف سیکیورٹی کافی نہیں، تعلیم، روزگار، فوری انصاف اور عوام کا تعاون بھی ضروری ہے۔ جب عوام اور ادارے مل کر کام کریں تو معاشرہ محفوظ اور پرامن بن جاتا ہے۔
 
 
 ## <hr>
 <a id="MyFavouritePersonality"></a>
 
-## 36. My favourite personality 
+## 33. My favourite personality 
 My favourite personality  is Field Marshal Asim Munir, the Chief of Army Staff of Pakistan. He started his career in the army after training at the Officers Training School, Mangla, where he received the Sword of Honour. He is also a Hafiz-e-Quran, which shows his strong faith. He served in many important positions, including Director General of the ISI. I admire his discipline, courage, and dedication to the country. He has worked to strengthen the defence of Pakistan. His life teaches me that hard work, honesty, and loyalty to duty bring success.
 
 
-## 36. میری پسندیدہ شخصیت: فیلڈ مارشل عاصم منیر
+## 33. میری پسندیدہ شخصیت: فیلڈ مارشل عاصم منیر
 
 میری پسندیدہ شخصیت فیلڈ مارشل عاصم منیر ہیں، جو پاکستان کے آرمی چیف ہیں۔ انہوں نے آفیسرز ٹریننگ اسکول منگلا میں تربیت حاصل کر کے فوجی کیریئر کا آغاز کیا، جہاں انہیں اعزازی تلوار (سورڈ آف آنر) ملی۔ وہ حافظِ قرآن بھی ہیں، جو ان کے مضبوط ایمان کی علامت ہے۔ انہوں نے ڈائریکٹر جنرل آئی ایس آئی سمیت کئی اہم عہدوں پر خدمات انجام دیں۔ مجھے ان کا نظم و ضبط، بہادری اور وطن سے لگن بہت پسند ہے۔ انہوں نے پاکستان کے دفاع کو مضبوط بنانے کے لیے کام کیا ہے۔ ان کی زندگی مجھے سکھاتی ہے کہ محنت، ایمانداری اور فرض سے وفاداری کامیابی دلاتی ہے۔
 
@@ -523,12 +488,47 @@ My favourite personality  is Field Marshal Asim Munir, the Chief of Army Staff o
 ## <hr>
 <a id="AdvantagesDisadvantagesSocial"></a>
 
-## 37. Advantages Disadvantages Social Media
+## 34. Advantages Disadvantages Social Media
 Social media has become an important part of modern life. Its biggest advantage is fast communication, as people can connect with family and friends anywhere in the world within seconds. It also provides quick news, online education, and business and job opportunities. However, it has serious disadvantages too. Excessive use wastes time and harms studies and health. Fake news and rumors spread easily, and cyberbullying and privacy theft are growing problems. It can also reduce real face-to-face relationships. Therefore, we should use social media wisely, limit our screen time, and verify information before sharing it. Used properly, it is a blessing; used carelessly, it becomes a curse.
 
-## 37. سوشل میڈیا کے فائدے اور نقصانات
+## 34. سوشل میڈیا کے فائدے اور نقصانات
 
 سوشل میڈیا جدید زندگی کا اہم حصہ بن چکا ہے۔ اس کا سب سے بڑا فائدہ تیز رابطہ ہے، کیونکہ لوگ دنیا کے کسی بھی کونے میں اپنے خاندان اور دوستوں سے چند سیکنڈ میں رابطہ کر سکتے ہیں۔ یہ فوری خبریں، آن لائن تعلیم اور کاروبار و روزگار کے مواقع بھی فراہم کرتا ہے۔ تاہم اس کے سنگین نقصانات بھی ہیں۔ حد سے زیادہ استعمال وقت ضائع کرتا ہے اور پڑھائی اور صحت کو نقصان پہنچاتا ہے۔ جھوٹی خبریں اور افواہیں تیزی سے پھیلتی ہیں، جبکہ سائبر بدمعاشی اور نجی معلومات کی چوری بھی بڑھتے ہوئے مسائل ہیں۔ یہ حقیقی ملاقاتوں اور رشتوں کو بھی کمزور کر سکتا ہے۔ اس لیے ہمیں سوشل میڈیا کو سمجھداری سے استعمال کرنا چاہیے، اسکرین ٹائم محدود رکھنا چاہیے اور خبر آگے بھیجنے سے پہلے اس کی تصدیق کرنی چاہیے۔ صحیح استعمال سے یہ نعمت ہے اور غلط استعمال سے زحمت۔
+
+
+## <hr>
+<a id="terrorism"></a>
+
+## 35. Terrorism and Its Prevention
+
+Terrorism is the use of violence and fear against innocent people to achieve political, religious or personal goals. It is one of the biggest problems facing the world today. Pakistan has suffered greatly from terrorism, losing thousands of precious lives and facing heavy economic damage. Terrorists attack schools, markets, mosques and public places to spread panic. Their actions have no link with any religion, because Islam teaches peace and respects human life. Poverty, illiteracy, injustice and extremist thinking are the main causes of terrorism. To defeat it, we need education, justice, unity and strong security forces. Our army and police have made great sacrifices to protect the nation. Together, we can make Pakistan safe and peaceful.
+
+## 35. دہشت گردی اور اس کی روک تھام 
+دہشت گردی بے گناہ لوگوں کے خلاف سیاسی، مذہبی یا ذاتی مقاصد حاصل کرنے کے لیے تشدد اور خوف کا استعمال ہے۔ یہ آج دنیا کو درپیش سب سے بڑے مسائل میں سے ایک ہے۔ پاکستان نے دہشت گردی سے بہت نقصان اٹھایا ہے، ہزاروں قیمتی جانیں ضائع ہوئیں اور معیشت کو بھاری نقصان پہنچا۔ دہشت گرد اسکولوں، بازاروں، مساجد اور عوامی مقامات پر حملے کر کے خوف پھیلاتے ہیں۔ ان کے اعمال کا کسی مذہب سے کوئی تعلق نہیں، کیونکہ اسلام امن کا درس دیتا ہے اور انسانی جان کی حرمت کرتا ہے۔ غربت، ناخواندگی، ناانصافی اور انتہا پسندانہ سوچ دہشت گردی کی بڑی وجوہات ہیں۔ اسے شکست دینے کے لیے تعلیم، انصاف، اتحاد اور مضبوط سیکیورٹی فورسز ضروری ہیں۔ ہماری فوج اور پولیس نے وطن کی حفاظت کے لیے عظیم قربانیاں دی ہیں۔ مل کر ہم پاکستان کو محفوظ اور پرامن بنا سکتے ہیں۔
+
+## <hr>
+
+<a id="importance-of-discipline"></a>
+
+## 36. Importance of Discipline
+
+Discipline is the key to success in every field of life. It means following rules, respecting time and doing our duties on time. A disciplined student studies regularly, obeys teachers and respects elders. A disciplined nation progresses quickly because its people follow the law and work honestly. Quaid-e-Azam Muhammad Ali Jinnah gave us the motto of Unity, Faith and Discipline, which shows its great value. Discipline makes us punctual, responsible and confident. Without discipline, life becomes disorganized and full of problems. Therefore, everyone should practice discipline at home, at school and in society to become a successful and respected citizen.
+
+## 36. نظم و ضبط کی اہمیت
+
+نظم و ضبط زندگی کے ہر شعبے میں کامیابی کی کنجی ہے۔ اس کا مطلب قوانین پر عمل کرنا، وقت کی قدر کرنا اور اپنے فرائض وقت پر ادا کرنا ہے۔ ایک باضابطہ طالب علم باقاعدگی سے پڑھتا ہے، اساتذہ کی بات مانتا ہے اور بڑوں کا احترام کرتا ہے۔ باضابطہ قوم تیزی سے ترقی کرتی ہے کیونکہ اس کے لوگ قانون کی پابندی کرتے ہیں اور ایمانداری سے کام کرتے ہیں۔ قائداعظم محمد علی جناح نے ہمیں اتحاد، ایمان اور نظم و ضبط کا اصول دیا، جو اس کی بڑی اہمیت کو ظاہر کرتا ہے۔ نظم و ضبط ہمیں وقت کا پابند، ذمہ دار اور پراعتماد بناتا ہے۔ نظم و ضبط کے بغیر زندگی بے ترتیب اور مسائل سے بھری ہو جاتی ہے۔ اس لیے ہر شخص کو گھر، اسکول اور معاشرے میں نظم و ضبط اپنانا چاہیے تاکہ وہ ایک کامیاب اور باعزت شہری بن سکے۔
+
+## <hr>
+
+<!-- 
+<a id="SecurityCrime"></a>
+
+## 37. Security and Crime
+Security and crime are closely linked, because where security is weak, crime grows. Crime includes theft, robbery, murder, drug dealing, and cyber fraud, and it creates fear and instability in society. Poverty, unemployment, illiteracy, and bad company are its main causes. Strong security protects lives, property, and the economy. The police, jail staff, and other law enforcement agencies play a key role by patrolling, investigating crimes, and punishing offenders. Modern tools like CCTV cameras and digital records also help control crime. However, security alone is not enough. Education, jobs, quick justice, and public cooperation are also needed. When people and institutions work together, society becomes safe and peaceful.
+
+## 37. سیکیورٹی اور جرائم
+
+سیکیورٹی اور جرائم کا آپس میں گہرا تعلق ہے، کیونکہ جہاں سیکیورٹی کمزور ہو وہاں جرائم بڑھتے ہیں۔ جرائم میں چوری، ڈکیتی، قتل، منشیات فروشی اور سائبر فراڈ شامل ہیں، جو معاشرے میں خوف اور بے چینی پیدا کرتے ہیں۔ غربت، بے روزگاری، ناخواندگی اور بری صحبت ان کے بنیادی اسباب ہیں۔ مضبوط سیکیورٹی جان، مال اور معیشت کی حفاظت کرتی ہے۔ پولیس، جیل کا عملہ اور دیگر قانون نافذ کرنے والے ادارے گشت، تفتیش اور مجرموں کو سزا دلوا کر اہم کردار ادا کرتے ہیں۔ سی سی ٹی وی کیمروں اور ڈیجیٹل ریکارڈ جیسے جدید ذرائع بھی جرائم پر قابو پانے میں مدد دیتے ہیں۔ تاہم صرف سیکیورٹی کافی نہیں، تعلیم، روزگار، فوری انصاف اور عوام کا تعاون بھی ضروری ہے۔ جب عوام اور ادارے مل کر کام کریں تو معاشرہ محفوظ اور پرامن بن جاتا ہے۔
 
 
 ## <hr>
@@ -567,16 +567,6 @@ Inflation means a continuous rise in the prices of goods and services, which red
 
 مہنگائی سے مراد اشیا اور خدمات کی قیمتوں میں مسلسل اضافہ ہے، جس سے پیسے کی قوتِ خرید کم ہو جاتی ہے۔ پاکستان میں یہ ایک بڑا مسئلہ ہے، جہاں آٹے، چینی، تیل اور ایندھن کی قیمتیں بڑھتی رہتی ہیں۔ اس کے بنیادی اسباب میں ایندھن اور بجلی کی بڑھتی قیمتیں، کمزور روپیہ، زیادہ ٹیکس، ذخیرہ اندوزی اور بازاروں پر حکومتی کنٹرول کی کمی شامل ہیں۔ مہنگائی کا سب سے زیادہ اثر غریب اور متوسط طبقے پر پڑتا ہے کیونکہ ان کی آمدنی اخراجات کے برابر نہیں ہوتی۔ یہ غربت، پریشانی اور جرائم میں اضافہ کرتی ہے۔ اسے قابو کرنے کے لیے حکومت کو ذخیرہ اندوزی روکنی چاہیے، مقامی پیداوار کی مدد کرنی چاہیے، غیر ضروری درآمدات کم کرنی چاہئیں اور مناسب قیمتیں یقینی بنانی چاہئیں۔ عوام کو بھی وسائل ضائع کرنے سے بچنا چاہیے اور اپنی آمدنی کے مطابق زندگی گزارنی چاہیے۔
 
-<!-- <a id="HonestyDuty"></a>
-
-## 41. Honesty and Duty
-Honesty means always speaking the truth and doing the right thing, even when no one is watching. Duty means performing our responsibilities sincerely and on time. These two qualities go together, because a person who is honest in his work is truly dutiful. Islam teaches us that honesty is part of faith, and our Prophet (SAW) was known as Al-Amin, the trustworthy. In the jail police, honesty and duty are especially important. An officer must not accept bribes, favor anyone, or neglect his duty. Honest and dutiful people build a strong society, while corruption destroys it. Therefore, we should be honest in every field of life and perform our duty with full responsibility.
-
-
-## 41. ایمانداری اور فرض
-
-ایمانداری کا مطلب ہمیشہ سچ بولنا اور صحیح کام کرنا ہے، چاہے کوئی دیکھ نہ رہا ہو۔ فرض کا مطلب اپنی ذمہ داریاں خلوص اور وقت پر ادا کرنا ہے۔ یہ دونوں خوبیاں ساتھ ساتھ چلتی ہیں، کیونکہ جو شخص اپنے کام میں ایماندار ہو وہی حقیقی معنوں میں فرض شناس ہوتا ہے۔ اسلام ہمیں سکھاتا ہے کہ ایمانداری ایمان کا حصہ ہے، اور ہمارے نبی ﷺ امین کے لقب سے مشہور تھے۔ جیل پولیس میں ایمانداری اور فرض شناسی خاص طور پر اہم ہیں۔ اہلکار کو رشوت نہیں لینی چاہیے، کسی کی طرف داری نہیں کرنی چاہیے اور اپنے فرض میں غفلت نہیں کرنی چاہیے۔ ایماندار اور فرض شناس لوگ مضبوط معاشرہ بناتے ہیں، جبکہ کرپشن اسے تباہ کر دیتی ہے۔ اس لیے ہمیں زندگی کے ہر شعبے میں ایماندار رہنا چاہیے اور اپنا فرض پوری ذمہ داری سے ادا کرنا چاہیے۔ -->
-
 ## <hr>
 <a id="WomenEducation"></a>
 
@@ -598,4 +588,4 @@ Patriotism means deep love for one’s country and readiness to serve it. Pakist
 
 ## 42. حب الوطنی اور یومِ آزادی
 
-حب الوطنی کا مطلب اپنے وطن سے گہری محبت اور اس کی خدمت کے لیے تیار رہنا ہے۔ پاکستان 14 اگست 1947 کو قائداعظم محمد علی جناح کی قیادت میں طویل جدوجہد اور علامہ اقبال کے الگ وطن کے خواب کے نتیجے میں وجود میں آیا۔ لاکھوں لوگوں نے اس آزادی کے لیے اپنے گھر، مال اور جانیں قربان کیں۔ ہر سال ہم یومِ آزادی پرچم کشائی، پریڈ اور ملی نغموں کے ساتھ مناتے ہیں۔ لیکن حقیقی حب الوطنی صرف جشن منانا نہیں ہے۔ اس کا مطلب ایماندار ہونا، قانون کی پابندی کرنا، محنت کرنا اور سرکاری املاک کی حفاظت کرنا ہے۔ جیل پولیس کا اہلکار اپنا فرض خلوص اور بغیر کرپشن کے ادا کر کے حب الوطنی کا ثبوت دیتا ہے۔ ہمیں پاکستان کو مضبوط اور پرامن رکھنا چاہیے۔
+حب الوطنی کا مطلب اپنے وطن سے گہری محبت اور اس کی خدمت کے لیے تیار رہنا ہے۔ پاکستان 14 اگست 1947 کو قائداعظم محمد علی جناح کی قیادت میں طویل جدوجہد اور علامہ اقبال کے الگ وطن کے خواب کے نتیجے میں وجود میں آیا۔ لاکھوں لوگوں نے اس آزادی کے لیے اپنے گھر، مال اور جانیں قربان کیں۔ ہر سال ہم یومِ آزادی پرچم کشائی، پریڈ اور ملی نغموں کے ساتھ مناتے ہیں۔ لیکن حقیقی حب الوطنی صرف جشن منانا نہیں ہے۔ اس کا مطلب ایماندار ہونا، قانون کی پابندی کرنا، محنت کرنا اور سرکاری املاک کی حفاظت کرنا ہے۔ جیل پولیس کا اہلکار اپنا فرض خلوص اور بغیر کرپشن کے ادا کر کے حب الوطنی کا ثبوت دیتا ہے۔ ہمیں پاکستان کو مضبوط اور پرامن رکھنا چاہیے۔ -->
