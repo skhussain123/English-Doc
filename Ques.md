@@ -1,10 +1,11 @@
-# Islamabad Police Interview Questions & Answers
 
-## 1. Introduction (Apna Taaruf)
 
-*(Is jawab ka sawal image mein nahi tha, shayad "Tell me about yourself / Introduce yourself" hai.)*
+## سوال نمبر 2: آپ سندھ جیل پولیس میں کیوں شامل ہونا چاہتے ہیں؟
 
-"My name is ______. I am from Islamabad. I have completed my ______. I am a hardworking, disciplined and responsible person. I want to join Islamabad Police because I want to serve the people, maintain law and order, and contribute positively to society."
+جواب:
+
+میں سندھ جیل پولیس میں اس لیے شامل ہونا چاہتا ہوں کیونکہ میں اپنے ملک کی خدمت کرنا چاہتا ہوں۔ میں جیل میں امن و امان اور نظم و ضبط برقرار رکھنے میں اپنا کردار ادا کرنا چاہتا ہوں۔ میں ایک محنتی اور ذمہ دار شخص ہوں اور ایمانداری کے ساتھ اپنے فرائض انجام دینا چاہتا ہوں۔
+
 
 ## 2. Why do you want to join Islamabad Police?
 
