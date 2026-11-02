@@ -111,11 +111,11 @@ The prison system is an important part of the justice system in Sindh. Its main 
 <a id="PurposeofPrison"></a>
 
 ## 6. PurposeofPrison
-The purpose of a prison is not only to punish criminals but also to protect society and reform offenders. First, prisons keep dangerous people away from the public, which helps maintain law and order. Second, punishment in jail discourages others from committing crimes. Third, and most important, prisons aim to reform inmates through education, skill training, and religious guidance, so that they can reform and return to society as good citizens.Inmates should be treated fairly and given a chance to become better people. A good prison helps prisoners learn from their mistakes and live a better life after release.
+The purpose of a prison is not only to punish criminals but also to protect society and reform prisoners. First, prisons keep dangerous people away from the public, which helps maintain law and order. Second, punishment in jail discourages others from committing crimes. Third, and most important, prisons aim to reform inmates through education, skill training, and religious guidance, so that they can reform and return to society as good citizens.Inmates should be treated fairly and given a chance to become better people. A good prison helps prisoners learn from their mistakes and live a better life after release.
 
 ## 6. جیل کا مقصد
 
-جیل کا مقصد صرف مجرموں کو سزا دینا نہیں بلکہ معاشرے کی حفاظت کرنا اور مجرموں کی اصلاح کرنا بھی ہے۔ سب سے پہلے، جیل خطرناک لوگوں کو عوام سے دور رکھتی ہے، جس سے امن و امان برقرار رکھنے میں مدد ملتی ہے۔ دوسرا، جیل کی سزا دوسروں کو جرائم کرنے سے روکتی ہے۔ تیسرا اور سب سے اہم مقصد قیدیوں کی تعلیم، ہنر کی تربیت اور دینی رہنمائی کے ذریعے اصلاح کرنا ہے تاکہ وہ اچھے شہری بن کر دوبارہ معاشرے میں واپس آ سکیں۔ قیدیوں کے ساتھ انصاف سے پیش آنا چاہیے اور انہیں بہتر انسان بننے کا موقع دینا چاہیے۔ ایک اچھی جیل قیدیوں کو اپنی غلطیوں سے سبق سیکھنے اور رہائی کے بعد بہتر زندگی گزارنے میں مدد دیتی ہے۔
+جیل کا مقصد صرف مجرموں کو سزا دینا نہیں بلکہ معاشرے کی حفاظت کرنا اور قیدیوں  کی اصلاح کرنا بھی ہے۔ سب سے پہلے، جیل خطرناک لوگوں کو عوام سے دور رکھتی ہے، جس سے امن و امان برقرار رکھنے میں مدد ملتی ہے۔ دوسرا، جیل کی سزا دوسروں کو جرائم کرنے سے روکتی ہے۔ تیسرا اور سب سے اہم مقصد قیدیوں کی تعلیم، ہنر کی تربیت اور دینی رہنمائی کے ذریعے اصلاح کرنا ہے تاکہ وہ اچھے شہری بن کر دوبارہ معاشرے میں واپس آ سکیں۔ قیدیوں کے ساتھ انصاف سے پیش آنا چاہیے اور انہیں بہتر انسان بننے کا موقع دینا چاہیے۔ ایک اچھی جیل قیدیوں کو اپنی غلطیوں سے سبق سیکھنے اور رہائی کے بعد بہتر زندگی گزارنے میں مدد دیتی ہے۔
 
 ## <hr>
 <a id="ReformPrisonersJail"></a>
