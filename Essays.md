@@ -132,11 +132,12 @@ Reforming prisoners is an important purpose of a modern jail. Some people commit
 
 ## 8. Rights of Prisoners
 
-Prisoners are human beings. When they enter jail, they do not lose their basic human rights. Every prisoner has the right to be treated with dignity and without torture or abuse.They should be provided proper food, clean drinking water, hygiene, and medical care. Prisoners have the right to a fair trial, legal counsel, and to meet their family and lawyers. They should also have the freedom to practice their religion and access education and skill training. Prisoners must be protected from discrimination and violence. Respecting these rights does not weaken discipline; it builds trust and helps reform. A society that treats its prisoners humanely shows true justice.
+Prisoners are human beings. When they enter jail, they do not lose their basic human rights. Every prisoner have the right to be treated with dignity and without torture or abuse.They should be provided proper food, clean drinking water, hygiene, and medical care. Prisoners have the right to a fair trial, legal counsel, and to meet their family and lawyers.prisons aim to reform inmates through education, skill training, and religious guidance, so that they can reform and return to society as good citizens.prisoners should be treated fairly and given a chance to become better people. A good prison helps prisoners learn from their mistakes and live a better life after release.
 
 ## 8. قیدیوں کے حقوق
-
-قیدی بھی انسان ہیں اور جیل میں داخل ہونے سے وہ اپنے بنیادی حقوق سے محروم نہیں ہو جاتے۔ ہر قیدی کو عزت کے ساتھ، تشدد اور بدسلوکی کے بغیر پیش آنے کا حق حاصل ہے۔ انہیں مناسب خوراک، صاف پینے کا پانی، صفائی ستھرائی اور طبی سہولت ملنی چاہیے۔ قیدیوں کو منصفانہ مقدمے، وکیل کی سہولت اور اہلِ خانہ اور وکیلوں سے ملاقات کا حق ہے۔ انہیں اپنے مذہب پر عمل کرنے کی آزادی اور تعلیم و ہنر کی تربیت تک رسائی بھی ملنی چاہیے۔ قیدیوں کو امتیازی سلوک اور تشدد سے محفوظ رکھنا لازمی ہے۔ ان حقوق کا احترام نظم و ضبط کو کمزور نہیں کرتا بلکہ اعتماد پیدا کرتا اور اصلاح میں مدد دیتا ہے۔ جو معاشرہ اپنے قیدیوں سے انسانی سلوک کرے، وہی حقیقی انصاف کی علامت ہے۔
+قیدی بھی انسان ہوتے ہیں۔ جب وہ جیل میں داخل ہوتے ہیں تو وہ اپنے بنیادی انسانی حقوق سے محروم نہیں ہو جاتے۔ ہر قیدی کو عزت اور احترام کے ساتھ پیش آنے کا حق حاصل ہے اور اسے تشدد یا بدسلوکی کا نشانہ نہیں بنایا جانا چاہیے۔ انہیں مناسب خوراک، صاف پینے کا پانی، صفائی ستھرائی اور طبی سہولیات فراہم کی جانی چاہئیں۔
+قیدیوں کو منصفانہ مقدمے، قانونی مدد حاصل کرنے اور اپنے خاندان اور وکیل سے ملاقات کرنے کا حق حاصل ہے۔ جیلوں کا مقصد قیدیوں کی تعلیم، ہنر کی تربیت اور دینی رہنمائی کے ذریعے اصلاح کرنا ہے تاکہ وہ اپنی اصلاح کر سکیں اور معاشرے میں اچھے شہری بن کر واپس آ سکیں۔
+قیدیوں کے ساتھ انصاف کرنا چاہیے اور انہیں بہتر انسان بننے کا موقع دینا چاہیے۔ ایک اچھی جیل قیدیوں کو اپنی غلطیوں سے سیکھنے اور رہائی کے بعد بہتر زندگی گزارنے میں مدد دیتی ہے۔
 
 ## <hr>
 <a id="RoleJailPoliceCrimePrevention"></a>
