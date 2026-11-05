@@ -132,7 +132,7 @@ Reforming prisoners is an important purpose of a modern jail. Some people commit
 
 ## 8. Rights of Prisoners
 
-Prisoners are human beings. When they enter jail, they do not lose their basic human rights. Every prisoner has the right to be treated with dignity and without torture or abuse. TThey should be provided with proper food, clean drinking water, hygiene, and medical care. Prisoners have the right to a fair trial, legal counsel, and to meet their family and lawyers. They should also have the freedom to practice their religion and access education and skill training. Prisoners must be protected from discrimination and violence. Respecting these rights does not weaken discipline; it builds trust and helps reform. A society that treats its prisoners humanely shows true justice.
+Prisoners are human beings. When they enter jail, they do not lose their basic human rights. Every prisoner has the right to be treated with dignity and without torture or abuse.They should be provided proper food, clean drinking water, hygiene, and medical care. Prisoners have the right to a fair trial, legal counsel, and to meet their family and lawyers. They should also have the freedom to practice their religion and access education and skill training. Prisoners must be protected from discrimination and violence. Respecting these rights does not weaken discipline; it builds trust and helps reform. A society that treats its prisoners humanely shows true justice.
 
 ## 8. قیدیوں کے حقوق
 
