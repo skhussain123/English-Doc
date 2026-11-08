@@ -144,13 +144,12 @@ Prisoners are human beings. When they enter jail, they do not lose their basic h
 
 ## 9. Role of Jail Police in Crime Prevention
 
-The jail police play an important role in preventing crime and protecting society. First, by keeping dangerous criminals securely locked up, they stop them from harming the public again. They prevent escapes and block the smuggling of weapons, drugs, and mobile phones, which criminals often use to run illegal activities from inside jail. They also monitor prisoners to stop gang formation and the spread of extremist ideas. In addition, they support reform by guiding inmates with discipline, fair treatment, and access to education and skill training, so that released prisoners do not return to crime. Honest and alert jail staff therefore help keep society safe and peaceful.
-
+The jail police play an important role in preventing crime and protecting society.Some people commit crimes because of poverty, bad company, and lack of education. Jails try to improve them through education, skill training, and religious guidance. First, prisons keep dangerous people away from the public, which helps maintain law and order. Second, punishment in jail discourages others from committing crimes. Third, and most important, prisons aim to reform inmates through education, skill training, and religious guidance, so that they can reform and return to society as good citizens.prisoners should be treated fairly and given a chance to become better people. A good prison helps prisoners learn from their mistakes and live a better life after release
 
 ## 9. رائم کی روک تھام میں جیل پولیس کا کردار
-
-جیل پولیس جرائم کی روک تھام اور معاشرے کے تحفظ میں اہم کردار ادا کرتی ہے۔ سب سے پہلے خطرناک مجرموں کو محفوظ طریقے سے قید رکھ کر وہ انہیں دوبارہ عوام کو نقصان پہنچانے سے روکتی ہے۔ وہ فرار کی کوششوں کو ناکام بناتی ہے اور اسلحہ، منشیات اور موبائل فون کی اسمگلنگ روکتی ہے، جنہیں مجرم اکثر جیل کے اندر سے غیر قانونی سرگرمیاں چلانے کے لیے استعمال کرتے ہیں۔ وہ قیدیوں کی نگرانی کر کے گروہ بندی اور انتہا پسندانہ نظریات کے پھیلاؤ کو بھی روکتی ہے۔ اس کے علاوہ وہ نظم و ضبط، منصفانہ سلوک اور تعلیم و ہنر کی تربیت کے ذریعے قیدیوں کی اصلاح میں مدد دیتی ہے تاکہ رہائی کے بعد وہ دوبارہ جرم کی طرف نہ لوٹیں۔ ایماندار اور چوکنا جیل عملہ اس طرح معاشرے کو محفوظ اور پرامن رکھنے میں مدد دیتا ہے۔
-
+جیل پولیس جرائم کو روکنے اور معاشرے کی حفاظت کرنے میں اہم کردار ادا کرتی ہے۔ کچھ لوگ غربت، بری صحبت اور تعلیم کی کمی کی وجہ سے جرائم کرتے ہیں۔ جیلوں میں تعلیم، ہنر کی تربیت اور دینی رہنمائی کے ذریعے ان کی اصلاح کرنے کی کوشش کی جاتی ہے۔
+سب سے پہلے، جیلیں خطرناک مجرموں کو عوام سے دور رکھتی ہیں، جس سے امن و امان برقرار رکھنے میں مدد ملتی ہے۔ دوسرا، جیل میں دی جانے والی سزا دوسروں کو جرائم کرنے سے روکتی ہے۔ تیسرا اور سب سے اہم مقصد قیدیوں کی اصلاح کرنا ہے۔ اس مقصد کے لیے انہیں تعلیم، ہنر کی تربیت اور دینی رہنمائی فراہم کی جاتی ہے تاکہ وہ اپنی اصلاح کر سکیں اور رہائی کے بعد معاشرے میں اچھے شہری بن کر واپس آئیں۔
+قیدیوں کے ساتھ انصاف اور اچھا سلوک کرنا چاہیے اور انہیں ایک بہتر انسان بننے کا موقع دینا چاہیے۔ ایک اچھی جیل قیدیوں کو اپنی غلطیوں سے سیکھنے اور رہائی کے بعد بہتر زندگی گزارنے میں مدد دیتی ہے۔
 
 ## <hr>
 <a id="RolePoliceEradicatingDrugs"></a>
