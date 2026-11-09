@@ -473,12 +473,10 @@ Sachal Sarmast was a great Sufi poet of Sindh. His real name was Abdul Wahab, an
 <a id="MyFavouritePersonality"></a>
 
 ## 33. My favourite personality 
-My favourite personality  is Field Marshal Asim Munir, the Chief of Army Staff of Pakistan. He started his career in the army after training at the Officers Training School, Mangla, where he received the Sword of Honour. He is also a Hafiz-e-Quran, which shows his strong faith. He served in many important positions, including Director General of the ISI. I admire his discipline, courage, and dedication to the country. He has worked to strengthen the defence of Pakistan. His life teaches me that hard work, honesty, and loyalty to duty bring success.
-
+My favourite personality is Field Marshal Syed Asim Munir, the Chief of Army Staff and Chief of Defence Forces of Pakistan. He started his military career after training at the Officers Training School, Mangla, where he received the Sword of Honour. He is also a Hafiz-e-Quran, which shows his strong faith. He served in many important positions, including Director General of the ISI. In May 2025, he was promoted to the rank of Field Marshal. In December 2025, he became Pakistan's first Chief of Defence Forces. His life teaches me the importance of hard work, honesty, and loyalty to duty.
 
 ## 33. میری پسندیدہ شخصیت: فیلڈ مارشل عاصم منیر
-
-میری پسندیدہ شخصیت فیلڈ مارشل عاصم منیر ہیں، جو پاکستان کے آرمی چیف ہیں۔ انہوں نے آفیسرز ٹریننگ اسکول منگلا میں تربیت حاصل کر کے فوجی کیریئر کا آغاز کیا، جہاں انہیں اعزازی تلوار (سورڈ آف آنر) ملی۔ وہ حافظِ قرآن بھی ہیں، جو ان کے مضبوط ایمان کی علامت ہے۔ انہوں نے ڈائریکٹر جنرل آئی ایس آئی سمیت کئی اہم عہدوں پر خدمات انجام دیں۔ مجھے ان کا نظم و ضبط، بہادری اور وطن سے لگن بہت پسند ہے۔ انہوں نے پاکستان کے دفاع کو مضبوط بنانے کے لیے کام کیا ہے۔ ان کی زندگی مجھے سکھاتی ہے کہ محنت، ایمانداری اور فرض سے وفاداری کامیابی دلاتی ہے۔
+میری پسندیدہ شخصیت فیلڈ مارشل سید عاصم منیر ہیں، جو پاکستان کے چیف آف آرمی اسٹاف اور چیف آف ڈیفنس فورسز ہیں۔ انہوں نے منگلا کے آفیسرز ٹریننگ اسکول سے فوجی تربیت حاصل کرنے کے بعد اپنے فوجی کیریئر کا آغاز کیا، جہاں انہیں تلوارِ اعزاز (Sword of Honour) سے نوازا گیا۔ وہ حافظِ قرآن بھی ہیں، جو ان کے مضبوط ایمان کو ظاہر کرتا ہے۔ انہوں نے ڈی جی آئی ایس آئی سمیت کئی اہم عہدوں پر خدمات انجام دیں۔ مئی 2025 میں انہیں فیلڈ مارشل کے عہدے پر ترقی دی گئی۔ دسمبر 2025 میں وہ پاکستان کے پہلے چیف آف ڈیفنس فورسز بنے۔ ان کی زندگی مجھے محنت، ایمانداری اور اپنے فرض سے وفاداری کی اہمیت سکھاتی ہے۔
 
 
 ## <hr>
