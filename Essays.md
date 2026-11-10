@@ -519,7 +519,7 @@ Discipline is the key to success in every field of life. It means following rule
 <a id="SecurityCrime"></a>
 
 ## 37. Security and Crime
-Security and crime are closely linked, because where security is weak, crime grows. Crime includes theft, robbery, murder, drug dealing, and cyber fraud, and it creates fear and instability in society. Poverty, unemployment, illiteracy, and bad company are its main causes. Strong security protects lives, property, and the economy. The police, jail staff, and other law enforcement agencies play a key role by patrolling, investigating crimes, and punishing offenders. Modern tools like CCTV cameras and digital records also help control crime. However, security alone is not enough. Education, jobs, quick justice, and public cooperation are also needed. When people and institutions work together, society becomes safe and peaceful.
+Security and crime are closely linked, because where security is weak, crime grows. Crime includes theft, robbery, murder, drug dealing, and cyber fraud, and It causes fear and destroys peace in society. Poverty, unemployment, illiteracy, and bad company are its main causes. Strong security protects lives, property, and the economy. The police, jail staff, and other law enforcement agencies play a key role by patrolling, investigating crimes, and punishing offenders. Modern tools like CCTV cameras and digital records also help control crime. However, security alone is not enough. Education, jobs, quick justice, and public cooperation are also needed. When people and institutions work together, society becomes safe and peaceful.
 
 ## 37. سیکیورٹی اور جرائم
 
