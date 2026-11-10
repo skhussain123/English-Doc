@@ -494,11 +494,11 @@ The internet and social media have become important parts of modern life. They p
 <a id="terrorism"></a>
 
 ## 35. Terrorism and Its Prevention
-Terrorism is one of the most serious problems in the world today. It causes fear and destroys peace in society. Pakistan has suffered greatly from terrorism, losing thousands of precious lives and facing heavy economic damage. Terrorists attack schools, markets, mosques and public places to spread panic. Their actions have no link with any religion, because Islam teaches peace and respects human life. Poverty, illiteracy, injustice and extremist thinking are the main causes of terrorism. To defeat it, we need education, justice, unity and strong security forces. Our army and police have made great sacrifices to protect the nation. Together, we can make Pakistan safe and peaceful.
+Terrorism is one of the most serious problems in the world today. It causes fear and destroys peace in society. Pakistan has suffered greatly from terrorism, losing thousands of precious lives and facing heavy economic damage. Terrorists attack schools, markets, mosques and public places to spread panic. Terrorism has no link with any religion, because Islam teaches peace and respects human life. Poverty, illiteracy, injustice and extremist thinking are the main causes of terrorism. To defeat it, we need education, justice, unity and strong security forces. Our army and police have made great sacrifices to protect the nation. Together, we can make Pakistan safe and peaceful.
 
 
 ## 35. دہشت گردی اور اس کی روک تھام 
-دہشت گردی آج دنیا کے سنگین ترین مسائل میں سے ایک ہے۔ یہ معاشرے میں خوف پیدا کرتی ہے اور امن کو تباہ کرتی ہے۔ پاکستان نے دہشت گردی کی وجہ سے بہت نقصان اٹھایا ہے، جس میں ہزاروں قیمتی جانیں ضائع ہوئیں اور ملکی معیشت کو بھی بھاری نقصان پہنچا۔ دہشت گرد خوف و ہراس پھیلانے کے لیے اسکولوں، بازاروں، مساجد اور عوامی مقامات پر حملے کرتے ہیں۔ ان کے اعمال کا کسی مذہب سے کوئی تعلق نہیں، کیونکہ اسلام امن کا درس دیتا ہے اور انسانی جان کا احترام سکھاتا ہے۔
+دہشت گردی آج دنیا کے سنگین ترین مسائل میں سے ایک ہے۔ یہ معاشرے میں خوف پیدا کرتی ہے اور امن کو تباہ کرتی ہے۔ پاکستان نے دہشت گردی کی وجہ سے بہت نقصان اٹھایا ہے، جس میں ہزاروں قیمتی جانیں ضائع ہوئیں اور ملکی معیشت کو بھی بھاری نقصان پہنچا۔ دہشت گرد خوف و ہراس پھیلانے کے لیے اسکولوں، بازاروں، مساجد اور عوامی مقامات پر حملے کرتے ہیں۔ دہشت گردی کا کسی بھی مذہب سے کوئی تعلق نہیں ہے، کیونکہ اسلام امن کا درس دیتا ہے اور انسانی جان کا احترام سکھاتا ہے۔
 غربت، ناخواندگی، ناانصافی اور انتہا پسندانہ سوچ دہشت گردی کی اہم وجوہات ہیں۔ اس کے خاتمے کے لیے ہمیں تعلیم، انصاف، اتحاد اور مضبوط سیکیورٹی فورسز کی ضرورت ہے۔ ہماری فوج اور پولیس نے قوم کی حفاظت کے لیے بڑی قربانیاں دی ہیں۔ ہم سب مل کر پاکستان کو ایک محفوظ اور پُرامن ملک بنا سکتے ہیں۔
 
 ## <hr>
