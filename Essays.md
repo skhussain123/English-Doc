@@ -36,8 +36,8 @@
 34.  [Advantages and Disadvantages of Social Media](#AdvantagesDisadvantagesSocial)
 35. [Terrorism & Its Prevention](#terrorism)
 36. [Importance of Discipline](#importance-of-discipline)
-<!-- 37. [Security and Crime](#SecurityCrime)
-38. [Environment/Pollution](#EnvironmentPollution)
+37. [Security and Crime](#SecurityCrime)
+<!-- 38. [Environment/Pollution](#EnvironmentPollution)
 39. [Unemployment](#Unemployment)
 40. [Inflation](#Inflation)
 42. [Women Education](#WomenEducation)
@@ -515,7 +515,7 @@ Discipline is the key to success in every field of life. It means following rule
 
 ## <hr>
 
-<!-- 
+
 <a id="SecurityCrime"></a>
 
 ## 37. Security and Crime
@@ -525,7 +525,7 @@ Security and crime are closely linked, because where security is weak, crime gro
 
 سیکیورٹی اور جرائم کا آپس میں گہرا تعلق ہے، کیونکہ جہاں سیکیورٹی کمزور ہو وہاں جرائم بڑھتے ہیں۔ جرائم میں چوری، ڈکیتی، قتل، منشیات فروشی اور سائبر فراڈ شامل ہیں، جو معاشرے میں خوف اور بے چینی پیدا کرتے ہیں۔ غربت، بے روزگاری، ناخواندگی اور بری صحبت ان کے بنیادی اسباب ہیں۔ مضبوط سیکیورٹی جان، مال اور معیشت کی حفاظت کرتی ہے۔ پولیس، جیل کا عملہ اور دیگر قانون نافذ کرنے والے ادارے گشت، تفتیش اور مجرموں کو سزا دلوا کر اہم کردار ادا کرتے ہیں۔ سی سی ٹی وی کیمروں اور ڈیجیٹل ریکارڈ جیسے جدید ذرائع بھی جرائم پر قابو پانے میں مدد دیتے ہیں۔ تاہم صرف سیکیورٹی کافی نہیں، تعلیم، روزگار، فوری انصاف اور عوام کا تعاون بھی ضروری ہے۔ جب عوام اور ادارے مل کر کام کریں تو معاشرہ محفوظ اور پرامن بن جاتا ہے۔
 
-
+<!--    
 ## <hr>
 <a id="EnvironmentPollution"></a>
 
