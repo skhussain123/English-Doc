@@ -9,7 +9,7 @@
 7.  [Reform of Prisoners in Jail](#ReformPrisonersJail) 
 8. [Rights of Prisoners](#RightsPrisoners) 
 9. [Role of Jail Police in Crime Prevention](#RoleJailPoliceCrimePrevention) 
-10.  [Role of Police and People in Eradicating Drugs](#RolePoliceEradicatingDrugs)
+10.  [Character of a Jail Police Officer](#CharacterJailpoliceOfficer) 
 11. [The Pakistan Super League (PSL)](#psl)
 12. [Education](#education).
 13. [Corona Virus](#corona-virus)
@@ -152,15 +152,15 @@ The jail police play an important role in preventing crime and protecting societ
 قیدیوں کے ساتھ انصاف اور اچھا سلوک کرنا چاہیے اور انہیں ایک بہتر انسان بننے کا موقع دینا چاہیے۔ ایک اچھی جیل قیدیوں کو اپنی غلطیوں سے سیکھنے اور رہائی کے بعد بہتر زندگی گزارنے میں مدد دیتی ہے۔
 
 ## <hr>
-<a id="RolePoliceEradicatingDrugs"></a>
+<a id="CharacterJailpoliceOfficer"></a>
 
-## 10. Role of Police and People in Eradicating Drugs
+## 10. ### Character of a Jail Police Officer
 
-Drug abuse is a serious curse that destroys health, families, and the future of our youth. Eliminating it requires the efforts of both the police and the public. The police must arrest drug dealers, break smuggling networks, and take strict action against sellers near schools and colleges. The Anti-Narcotics Force and jail staff also help by stopping the entry of drugs into prisons. The people must also play their part. Parents should watch their children’s company, teachers should guide students, and citizens should report drug sellers without fear. Treatment and rehabilitation centers should help addicts recover. Only through cooperation between police and people can we build a drug-free society
+A good Jail Police officer must have a strong character and high moral values. Honesty, discipline, courage, patience and responsibility are the most important qualities of this job. An officer should obey lawful orders, follow prison rules and perform every duty sincerely. He must remain alert to maintain security and prevent escapes or disturbances. He should treat prisoners humanely, fairly and without discrimination. He must never misuse his authority or accept illegal benefits. A good officer controls his anger, respects senior officers and works well with colleagues. He should be punctual, physically fit and mentally strong. Good character builds public trust and makes the prison system safe, fair and effective.
 
-## 10. منشیات کے خاتمے میں پولیس اور عوام کا کردار
+<br>
 
-منشیات ایک سنگین لعنت ہے جو صحت، خاندانوں اور نوجوانوں کے مستقبل کو تباہ کر دیتی ہے۔ اس کے خاتمے کے لیے پولیس اور عوام دونوں کی کوشش ضروری ہے۔ پولیس کو منشیات فروشوں کو گرفتار کرنا، اسمگلنگ کے نیٹ ورک توڑنا اور اسکولوں اور کالجوں کے قریب منشیات بیچنے والوں کے خلاف سخت کارروائی کرنی چاہیے۔ اینٹی نارکوٹکس فورس اور جیل کا عملہ بھی جیلوں میں منشیات کا داخلہ روک کر مدد کرتا ہے۔ عوام کو بھی اپنا کردار ادا کرنا ہوگا۔ والدین بچوں کی صحبت پر نظر رکھیں، اساتذہ طلبہ کی رہنمائی کریں اور شہری بلا خوف منشیات فروشوں کی اطلاع دیں۔ علاج اور بحالی کے مراکز نشے کے عادی افراد کی صحت یابی میں مدد کریں۔ پولیس اور عوام کے باہمی تعاون سے ہی ہم منشیات سے پاک معاشرہ بنا سکتے ہیں۔
+ایک اچھے جیل پولیس اہلکار کا کردار مضبوط اور اخلاقی اقدار اعلیٰ ہونی چاہئیں۔ ایمانداری، نظم و ضبط، بہادری، صبر اور ذمہ داری اس ملازمت کی اہم خصوصیات ہیں۔ ایک اہلکار کو قانونی احکامات کی پابندی کرنی چاہیے، جیل کے قوانین پر عمل کرنا چاہیے اور ہر فرض ایمانداری سے ادا کرنا چاہیے۔ اسے سیکیورٹی برقرار رکھنے اور قیدیوں کے فرار یا ہنگاموں کو روکنے کے لیے چوکس رہنا چاہیے۔ اسے قیدیوں کے ساتھ انسانیت، انصاف اور برابری کا سلوک کرنا چاہیے۔ اسے اپنے اختیارات کا غلط استعمال نہیں کرنا چاہیے۔ اچھا اہلکار غصے پر قابو رکھتا ہے، افسران کا احترام کرتا ہے اور ساتھیوں کے ساتھ مل کر کام کرتا ہے۔ اچھا کردار عوام کا اعتماد بڑھاتا ہے اور جیل کے نظام کو محفوظ اور مؤثر بناتا ہے۔
 
 
 ## <hr>
