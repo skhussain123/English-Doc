@@ -96,83 +96,31 @@ General duties and reporting relationships by rank.
 
 ---
 
-## 3. Sindh Prison & Corrections Service
+# Sindh Prison & Corrections Service
+Sindh mein Jail Police ko sarkari taur par Sindh Prisons & Corrections Service kaha jata hai, jo Sindh Prisons and Corrections Services Act 2019 ke tehat kaam karti hai. Sindh mein is department ne ab regular police se milte julte rank titles apna liye hain (jese Prison Constable aur ASI Prison).
+Junior se Senior tartib mein Sindh Jail Police ke mukammal ranks aur unke Basic Pay Scales (BPS) darj zail hain:
 
-| No. | Rank Name | Short Form | BPS | General Role |
-|---|---|---|---|---|
-| 1 | Prison Constable | PC | 05 | Prison security and escort |
-| 2 | Senior Prison Constable | Sr. PC | 05 | Team support and supervision |
-| 3 | Head Constable Prison | HC | 07 | Shift and staff supervision |
-| 4 | Assistant Sub-Inspector Prison | ASI | 09 | Ward and section supervision |
-| 5 | Sub-Inspector | SI | 14 | Security operations |
-| 6 | Assistant Superintendent | AS | 16 | Daily administration |
-| 7 | Deputy Superintendent | DS | 17 | Prison operations |
-| 8 | Superintendent Prison | Supdt. | 18 | Jail administration |
-| 9 | Senior Superintendent Prison | Senior Supdt. | 19 | Senior-level administration |
-| 10 | Deputy Inspector General of Prisons | DIG | 20 | Regional supervision |
-| 11 | Inspector General of Prisons | IG | 21 | Provincial department head |
+1. Junior / Watch & Ward Staff (Non-Gazetted)
 
-### Prison Department Rank Hierarchy
+Yeh staff jail ki security, qaidiyon ki nigrani aur blocks ke rozmarra intizamat sambhalta hai.
+• Prison Constable / Lady Prison Constable (BPS-07): Yeh sab se ibtidai rank hai. (Pehle isay BPS-05 mein rakha jata tha aur Jail Warder bhi kaha jata tha).
+• Head Constable Prison / Head Warder (BPS-09): Prison Constables ki team ka incharge hota hai.
+• Assistant Sub-Inspector - ASI Prison (BPS-11): Yeh regular police ke ASI ke barabar hota hai aur direct bharti (PTS/SPSC) ya promotion ke zariye aata hai.
 
-Prison Constable → Senior PC → HC → ASI → SI → Assistant Superintendent → Deputy Superintendent → Superintendent → Senior Superintendent → DIG → IG
+2. Supervisory & Executive Officers
 
-### Inspector General of Prisons
+Yeh officers jail ke andarूनी intizamat, security shifts aur administrative mamlaat ke zimmedar hote hain.
+• Sub-Inspector Prison (BPS-14) / Inspector Prison (BPS-16): Yeh ranks promotion aur departmental structure ke mutabiq jail blocks ki nigrani karte hain.
+• Assistant Superintendent Jail (BPS-16): Yeh rank aksar Sindh Public Service Commission (SPSC) ke zariye direct bharti hota hai aur jail ke ahem administrative shobon ka incharge hota hai.
+• Deputy Superintendent Jail (BPS-17): Yeh Gazetted Officer rank hai jo regular police ke DSP ke barabar hota hai aur jail ke operations sambhalta hai.
 
-**Name provided:** Fida Hussain Mastoi.
+3. Senior Command & Top Leadership
 
-The supplied information states that he was appointed in June 2025 and was serving as IG in October 2026.
-
-*Note: Verify the latest official notification to confirm the current officer and appointment details.*
-
----
-
-## 4. Prison Department Responsibilities
-
-General duties and supervisory relationships.
-
-### 01. Prison Constable (PC) — BPS-05
-**Responsibilities:** Maintains prison security, monitors prisoners, guards gates and barracks, assists with prisoner counts and escorts.
-**Reports to:** Senior Prison Constable, Head Constable or assigned supervisor.
-
-### 02. Senior Prison Constable (Sr. PC) — BPS-05
-**Responsibilities:** Supports daily security work, helps coordinate constables and performs team supervision when assigned.
-**Reports to:** Head Constable or designated supervisor.
-
-### 03. Head Constable Prison (HC) — BPS-07
-**Responsibilities:** Supervises constables, helps manage shift duties, checks barracks and maintains discipline and security procedures.
-**Reports to:** ASI or designated senior officer.
-
-### 04. Assistant Sub-Inspector Prison (ASI) — BPS-09
-**Responsibilities:** May supervise a ward or section, oversee prisoner counts and security rounds, and monitor subordinate staff.
-**Reports to:** Sub-Inspector or designated supervisor.
-
-### 05. Sub-Inspector (SI) — BPS-14
-**Responsibilities:** May supervise a major section or block, coordinate security operations, manage staff and control prisoner movement.
-**Reports to:** Assistant Superintendent or assigned senior officer.
-
-### 06. Assistant Superintendent — BPS-16
-**Responsibilities:** Assists with daily prison administration, security, discipline, prisoner records and staff supervision. May manage assigned wings.
-**Reports to:** Deputy Superintendent or designated senior officer.
-
-### 07. Deputy Superintendent — BPS-17
-**Responsibilities:** Assists the Superintendent with prison operations, security, discipline, prisoner welfare and staff management.
-**Reports to:** Superintendent Prison or designated senior officer.
-
-### 08. Superintendent Prison — BPS-18
-**Responsibilities:** Generally leads an assigned jail, overseeing security, administration, prisoner safety, discipline, welfare and daily management.
-**Reports to:** Relevant senior prison authority under the applicable structure.
-
-### 09. Senior Superintendent Prison — BPS-19
-**Responsibilities:** May manage a major prison or perform senior administrative and inspection duties, according to the assigned post.
-**Reports to:** Relevant DIG or designated senior authority.
-
-### 10. Deputy Inspector General of Prisons (DIG) — BPS-20
-**Responsibilities:** May supervise a region or zone, inspect prisons, monitor policy implementation and coordinate responses to major issues.
-**Reports to:** Inspector General of Prisons or designated senior authority.
-
-### 11. Inspector General of Prisons (IG) — BPS-21
-**Responsibilities:** Heads the provincial prisons department, oversees administration and security standards, coordinates with government authorities and supports prison reforms and prisoner welfare.
-**Reports to:** Relevant Sindh Government authorities under the applicable administrative framework.
+Yeh senior officers poori jail, region ya poore subay ke prisons system ke sarbarah hote hain.
+• Superintendent Jail (BPS-18): District Jail ya Special Prison ka sarbarah hota hai, jo SP ke barabar rank hai.
+• Senior Superintendent Jail / AIG Prisons (BPS-19): Bari Central Jails (jese Central Jail Karachi ya Hyderabad) ka sarbarah ya Headquarters mein Assistant Inspector General hota hai, jo SSP ke barabar hai.
+• Deputy Inspector General of Prisons - DIG (BPS-20): Ek pooray region (jese Karachi, Hyderabad ya Sukkur Region) ki tamam jails ka incharge hota hai.
+• Inspector General of Prisons - IG (BPS-21 / BPS-22): Poore Sindh ke Prisons & Corrections Service ka sab se bara sarbarah hota hai, jinka headquarter Karachi mein waqia hai
 
 ---
 
