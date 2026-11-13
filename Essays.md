@@ -156,7 +156,7 @@ The jail police play an important role in preventing crime and protecting societ
 ## <hr>
 <a id="CharacterJailpoliceOfficer"></a>
 
-## 10. ### Character of a Jail Police Officer
+## 10. Character of a Jail Police Officer
 
 A good Jail Police officer must have a strong character and high moral values. Honesty, discipline, courage, patience and responsibility are the most important qualities of this job. An officer should obey lawful orders, follow prison rules and perform every duty sincerely. He must remain alert to maintain security and prevent escapes or disturbances.Prison staff should perform their duties with honesty, discipline, and responsibility.A jail police officer must stay honest, alert, patience, and loyal to duty at all times. prisoners should be treated fairly and given a chance to become better people. A good prison helps prisoners learn from their mistakes and live a better life after release.
 
