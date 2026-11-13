@@ -158,11 +158,15 @@ The jail police play an important role in preventing crime and protecting societ
 
 ## 10. ### Character of a Jail Police Officer
 
-A good Jail Police officer must have a strong character and high moral values. Honesty, discipline, courage, patience and responsibility are the most important qualities of this job. An officer should obey lawful orders, follow prison rules and perform every duty sincerely. He must remain alert to maintain security and prevent escapes or disturbances. He should treat prisoners humanely, fairly and without discrimination. He must never misuse his authority or accept illegal benefits. A good officer controls his anger, respects senior officers and works well with colleagues. He should be punctual, physically fit and mentally strong. Good character builds public trust and makes the prison system safe, fair and effective.
+A good Jail Police officer must have a strong character and high moral values. Honesty, discipline, courage, patience and responsibility are the most important qualities of this job. An officer should obey lawful orders, follow prison rules and perform every duty sincerely. He must remain alert to maintain security and prevent escapes or disturbances.Prison staff should perform their duties with honesty, discipline, and responsibility.A jail police officer must stay honest, alert, patience, and loyal to duty at all times. prisoners should be treated fairly and given a chance to become better people. A good prison helps prisoners learn from their mistakes and live a better life after release.
 
 <br>
 
-ایک اچھے جیل پولیس اہلکار کا کردار مضبوط اور اخلاقی اقدار اعلیٰ ہونی چاہئیں۔ ایمانداری، نظم و ضبط، بہادری، صبر اور ذمہ داری اس ملازمت کی اہم خصوصیات ہیں۔ ایک اہلکار کو قانونی احکامات کی پابندی کرنی چاہیے، جیل کے قوانین پر عمل کرنا چاہیے اور ہر فرض ایمانداری سے ادا کرنا چاہیے۔ اسے سیکیورٹی برقرار رکھنے اور قیدیوں کے فرار یا ہنگاموں کو روکنے کے لیے چوکس رہنا چاہیے۔ اسے قیدیوں کے ساتھ انسانیت، انصاف اور برابری کا سلوک کرنا چاہیے۔ اسے اپنے اختیارات کا غلط استعمال نہیں کرنا چاہیے۔ اچھا اہلکار غصے پر قابو رکھتا ہے، افسران کا احترام کرتا ہے اور ساتھیوں کے ساتھ مل کر کام کرتا ہے۔ اچھا کردار عوام کا اعتماد بڑھاتا ہے اور جیل کے نظام کو محفوظ اور مؤثر بناتا ہے۔
+**ایک اچھے جیل پولیس افسر کا کردار**
+
+ایک اچھے جیل پولیس افسر کا کردار مضبوط اور اخلاقی اقدار پر مبنی ہونا چاہیے۔ ایمانداری، نظم و ضبط، بہادری، صبر اور ذمہ داری اس ملازمت کی سب سے اہم خوبیاں ہیں۔ ایک افسر کو قانونی احکامات کی پابندی کرنی چاہیے، جیل کے قوانین پر عمل کرنا چاہیے اور ہر ذمہ داری پوری ایمانداری سے ادا کرنی چاہیے۔
+اسے جیل کی حفاظت برقرار رکھنے، قیدیوں کے فرار ہونے اور کسی بھی ناخوشگوار واقعے کو روکنے کے لیے ہمیشہ چوکس رہنا چاہیے۔ جیل کے عملے کو اپنی ڈیوٹی ایمانداری، نظم و ضبط اور ذمہ داری کے ساتھ انجام دینی چاہیے۔
+ایک اچھے جیل پولیس افسر کو ہر وقت ایماندار، ہوشیار، صبر کرنے والا اور اپنی ڈیوٹی سے وفادار ہونا چاہیے۔ قیدیوں کے ساتھ انصاف اور اچھا سلوک کرنا چاہیے اور انہیں اپنی اصلاح کا موقع دینا چاہیے۔ ایک اچھی جیل قیدیوں کو اپنی غلطیوں سے سبق سیکھنے اور رہائی کے بعد بہتر زندگی گزارنے میں مدد دیتی ہے۔
 
 
 ## <hr>
