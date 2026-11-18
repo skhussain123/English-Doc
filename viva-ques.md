@@ -1,4 +1,85 @@
+<div class="mcq">
+            <div class="q-line">
+                <span class="q-number">Q702</span>
+                <div class="q-text">Which law mainly governs prisons in Pakistan?</div>
+            </div>
+            <div class="urdu">پاکستان میں جیلوں کا بنیادی انتظامی قانون کون سا ہے؟</div>
+            <div class="options">
+                <div style="background-color: #d4edda; border-color: #c3e6cb; color: #155724;" class="opt correct"><b>A)
+                        Prisons Act, 1894 (پریزنز ایکٹ 1894ء)</b></div>
+            </div>
+        </div>
 
+        <div class="mcq">
+            <div class="q-line">
+                <span class="q-number">Q703</span>
+                <div class="q-text">What is the meaning of discipline in police service?</div>
+            </div>
+            <div class="urdu">پولیس سروس میں نظم و ضبط کا کیا مطلب ہے؟</div>
+            <div class="options">
+                <div style="background-color: #d4edda; border-color: #c3e6cb; color: #155724;" class="opt correct"><b>A)
+                        نظم و ضبط کا مطلب ہے کہ میں قانون اور محکمہ کے اصولوں کی پابندی کروں، وقت کی پابندی کروں اور
+                        اپنے افسران کے احکامات پر عمل کرتے ہوئے اپنی ڈیوٹی ایمانداری اور ذمہ داری سے انجام دوں۔</b>
+                </div>
+            </div>
+        </div>
+
+        <div class="mcq">
+            <div class="q-line">
+                <span class="q-number">Q704</span>
+                <div class="q-text">What is the meaning of human rights?</div>
+            </div>
+            <div class="urdu">انسانی حقوق سے کیا مراد ہے؟</div>
+            <div class="options">
+                <div style="background-color: #d4edda; border-color: #c3e6cb; color: #155724;" class="opt correct"><b>
+                        انسانی حقوق سے مراد ہر انسان کے بنیادی حقوق ہیں۔ جیل میں قیدیوں کے ساتھ بھی عزت اور احترام سے
+                        پیش آنا، انہیں کھانا، علاج اور دیگر بنیادی سہولیات فراہم کرنا اور ان پر کسی قسم کا غیر قانونی
+                        تشدد نہ کرنا</b></div>
+            </div>
+        </div>
+
+        <div class="mcq">
+            <div class="q-line">
+                <span class="q-number">Q705</span>
+                <div class="q-text">What does integrity mean in police service?</div>
+            </div>
+            <div class="urdu">پولیس سروس میں دیانت داری سے کیا مراد ہے؟</div>
+            <div class="options">
+                <div style="background-color: #d4edda; border-color: #c3e6cb; color: #155724;" class="opt correct"><b>
+                        سر، دیانت داری کا مطلب ہے کہ میں اپنی ڈیوٹی ایمانداری اور سچائی سے انجام دوں، رشوت اور بدعنوانی
+                        سے دور رہوں اور کسی دباؤ یا لالچ میں آکر قانون کے خلاف کام نہ کروں۔</b></div>
+            </div>
+        </div>
+
+        <div class="mcq">
+            <div class="q-line">
+                <span class="q-number">Q706</span>
+                <div class="q-text">What is the proper way to treat prisoners?</div>
+            </div>
+            <div class="urdu">قیدیوں کے ساتھ برتاؤ کرنے کا درست طریقہ کیا ہے؟</div>
+            <div class="options">
+                <div style="background-color: #d4edda; border-color: #c3e6cb; color: #155724;" class="opt correct"><b>A)
+                        سر، قیدیوں کے ساتھ عزت اور احترام سے پیش آنا چاہیے۔ ان کے انسانی حقوق کا خیال رکھنا چاہیے، کسی
+                        قسم کا غیر قانونی تشدد نہیں کرنا چاہیے اور ساتھ ہی جیل کے قوانین اور نظم و ضبط کو برقرار رکھنا
+                        چاہیے۔</b></div>
+            </div>
+        </div>
+
+        <div class="mcq">
+            <div class="q-line">
+                <span class="q-number">Q707</span>
+                <div class="q-text">What is the most important quality of a Prison Constable?</div>
+            </div>
+            <div class="urdu">پرزن کانسٹیبل کی سب سے اہم خوبی کیا ہے؟</div>
+            <div class="options">
+                <div style="background-color: #d4edda; border-color: #c3e6cb; color: #155724;" class="opt correct"><b>
+                        سر، میرے خیال میں پرزن کانسٹیبل کی سب سے اہم خوبی ایمانداری اور نظم و ضبط ہے، کیونکہ اسے جیل کی
+                        سیکیورٹی برقرار رکھنی ہوتی ہے، قیدیوں کے ساتھ قانون کے مطابق برتاؤ کرنا ہوتا ہے اور اپنی ڈیوٹی
+                        پوری ذمہ داری سے انجام دینی ہوتی ہے۔</b></div>
+            </div>
+        </div>
+
+        
 
 ## سوال: اپنا تعارف کروائیں؟
 میرا نام محمد حسین ہے۔ میرا تعلق کراچی، سندھ سے ہے۔ میں نے 2021 میں انٹرمیڈیٹ مکمل کیا۔ اس کے بعد میں نے اپٹیک میں داخلہ لیا اور انفارمیشن ٹیکنالوجی میں تین سالہ ڈپلومہ مکمل کیا۔ میں ایک محنتی، نظم و ضبط کا پابند اور ذمہ دار شخص ہوں۔ میں جیل پولیس میں اس لیے شامل ہونا چاہتا ہوں کیونکہ میں لوگوں کی خدمت کرنا، امن و امان برقرار رکھنا اور معاشرے کی بہتری میں اپنا مثبت کردار ادا کرنا چاہتا ہوں۔
